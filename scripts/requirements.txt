@@ -1,0 +1,5 @@
+chromadb==1.5.9
+google-genai==1.65.0
+pypdf==6.14.2
+python-dotenv==1.2.2
+truststore==0.10.4
