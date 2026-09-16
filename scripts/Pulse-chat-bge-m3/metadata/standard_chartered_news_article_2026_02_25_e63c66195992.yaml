@@ -1,0 +1,22 @@
+document_id: standard_chartered_news_article_2026_02_25_e63c66195992
+bank_id: standard_chartered
+title: Standard Chartered net rises 16pc to US$6.96b
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-25'
+reporting_period:
+  start: '2026-02-25'
+  end: '2026-02-25'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_news_article_2026_02_25_e63c66195992.pdf
+source_url: https://global.factiva.com/
+checksum: edaecf3b223d9cf2b1882e099de1f0242b79f75d1307e34e5f22ed5661b2fcd9
+covered_bank_ids:
+- standard_chartered
+publisher: The Standard
+geography: Hong Kong
+source_document_id: HKIMAL0020260224EM2P00003
+source_bundle: Q1/Factiva_Q12026_1.pdf
+source_page_start: 152
+source_page_end: 152

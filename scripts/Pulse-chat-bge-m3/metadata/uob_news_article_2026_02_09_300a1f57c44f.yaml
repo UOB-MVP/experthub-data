@@ -1,0 +1,23 @@
+document_id: uob_news_article_2026_02_09_300a1f57c44f
+bank_id: uob
+title: Gold rush swamps UOB; bank to turn away walk-in bullion buyers, starts appointment-only
+  service
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-09'
+reporting_period:
+  start: '2026-02-09'
+  end: '2026-02-09'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/uob_news_article_2026_02_09_300a1f57c44f.pdf
+source_url: https://global.factiva.com/
+checksum: e399e64779655e87da125c186840d19078713cb37386d8e959982ba9e8da1126
+covered_bank_ids:
+- uob
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260209EM290015Q
+source_bundle: Q1/Factiva_Q12026_2.pdf
+source_page_start: 29
+source_page_end: 29

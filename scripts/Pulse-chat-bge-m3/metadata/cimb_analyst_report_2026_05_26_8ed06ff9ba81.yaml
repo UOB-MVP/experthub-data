@@ -1,0 +1,20 @@
+document_id: cimb_analyst_report_2026_05_26_8ed06ff9ba81
+bank_id: cimb
+title: CIMB - Reassurance on asset quality
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-05-26'
+reporting_period:
+  start: '2026-05-26'
+  end: '2026-05-26'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: cimb/cimb_analyst_report_2026_05_26_8ed06ff9ba81.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 8ed06ff9ba817a2011e6099d3fba7c2deb6bfb6598f235100fce03f0a33a2b68
+covered_bank_ids:
+- cimb
+publisher: Nomura Securities
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q1 2026/Nomura Securities_CIMB
+  - Reassurance on asset quality_26_May_2026.pdf

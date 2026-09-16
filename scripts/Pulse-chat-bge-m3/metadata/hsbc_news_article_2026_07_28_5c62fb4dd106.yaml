@@ -1,0 +1,23 @@
+document_id: hsbc_news_article_2026_07_28_5c62fb4dd106
+bank_id: hsbc
+title: 'Keep moving, keep learning, live fully: Lessons from actor Tay Ping Hui and
+  a ‘granfluencer’'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-07-28'
+reporting_period:
+  start: '2026-07-28'
+  end: '2026-07-28'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_07_28_5c62fb4dd106.pdf
+source_url: https://global.factiva.com/
+checksum: dfae6338fe7f74a1925acb0284d4550e5342abf547103c6d762b54fc6e36dd94
+covered_bank_ids:
+- hsbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260728EM7S002JQ
+source_bundle: QtD/Factiva_Q2tD2026_2.pdf
+source_page_start: 18
+source_page_end: 19

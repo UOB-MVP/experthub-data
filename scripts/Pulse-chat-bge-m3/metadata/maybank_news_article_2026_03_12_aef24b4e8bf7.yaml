@@ -1,0 +1,23 @@
+document_id: maybank_news_article_2026_03_12_aef24b4e8bf7
+bank_id: maybank
+title: KLCI RISES BUT SENTIMENT FALLS
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-03-12'
+reporting_period:
+  start: '2026-03-12'
+  end: '2026-03-12'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_03_12_aef24b4e8bf7.pdf
+source_url: https://global.factiva.com/
+checksum: 08535a0be01c5c6a181a62c6f571876e687ca54bb656a9b1ab3daf5f506a0fdd
+covered_bank_ids:
+- cimb
+- maybank
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260312EM3C0000Z
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q1/Factiva_CIMBMAY_Q1.pdf
+source_page_start: 10
+source_page_end: 10

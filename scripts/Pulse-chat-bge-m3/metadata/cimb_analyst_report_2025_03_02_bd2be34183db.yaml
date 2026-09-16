@@ -1,0 +1,21 @@
+document_id: cimb_analyst_report_2025_03_02_bd2be34183db
+bank_id: cimb
+title: Primed to lift off
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-03-02'
+reporting_period:
+  start: '2025-03-02'
+  end: '2025-03-02'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: cimb/cimb_analyst_report_2025_03_02_bd2be34183db.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: bd2be34183db76a1bb380e1e26284ad30c3bfd4cfb72c1de52190c7237382e30
+covered_bank_ids:
+- cimb
+- uob
+publisher: CLSA Limited Research Division
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q4 2024/CLSA Limited Research
+  Division_CIMB - O-PF (Primed to lift off)_02_Mar_2025.pdf

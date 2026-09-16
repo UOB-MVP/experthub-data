@@ -1,0 +1,25 @@
+document_id: maybank_analyst_report_2025_11_24_112595870496
+bank_id: maybank
+title: Malayan Banking Bhd
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-11-24'
+reporting_period:
+  start: '2025-11-24'
+  end: '2025-11-24'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: maybank/maybank_analyst_report_2025_11_24_112595870496.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 1125958704966864a23b348fc2807c7a1111dea191e6e07b875a56e7fb02a0b6
+covered_bank_ids:
+- maybank
+- uob
+- dbs
+- ocbc
+- hsbc
+- cimb
+publisher: Plunkett Research Ltd.
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q3 2025/Plunkett Research
+  Ltd._Malayan Banking Bhd.pdf

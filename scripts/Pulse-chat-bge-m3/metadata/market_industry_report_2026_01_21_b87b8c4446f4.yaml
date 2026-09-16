@@ -1,0 +1,19 @@
+document_id: market_industry_report_2026_01_21_b87b8c4446f4
+bank_id: market
+title: Asia-Pacific Banking Key Themes For 2026
+source_type: approved_third_party
+document_type: industry_report
+publication_date: '2026-01-21'
+reporting_period:
+  start: '2026-01-21'
+  end: '2026-01-21'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: market/market_industry_report_2026_01_21_b87b8c4446f4.pdf
+source_url: https://www.fitchsolutions.com/bmi
+checksum: b87b8c4446f473d90847fcf5d9612e110bd51c185f16566125fa21e81d4e5285
+covered_bank_ids:
+- market
+publisher: BMI
+geography: Asia-Pacific
+source_bundle: BMI/BMI Asia-Pacific Banking Key Themes For 2026.pdf

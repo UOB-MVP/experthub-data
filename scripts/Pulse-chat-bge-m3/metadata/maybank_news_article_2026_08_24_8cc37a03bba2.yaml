@@ -1,0 +1,26 @@
+document_id: maybank_news_article_2026_08_24_8cc37a03bba2
+bank_id: maybank
+title: 'Corporate: The Week Ahead: Eyes on Maybank, heavyweights’ 2Q results and July
+  PPI data'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-24'
+reporting_period:
+  start: '2026-08-24'
+  end: '2026-08-24'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_08_24_8cc37a03bba2.pdf
+source_url: https://global.factiva.com/
+checksum: 09af97d1a3cf684a82a79c83e67b0dff87f77766e8eeb41e857d128ea897e041
+covered_bank_ids:
+- uob
+- dbs
+- cimb
+- maybank
+publisher: The Edge Malaysia (Weekly)
+geography: Malaysia
+source_document_id: EDGEWK0020260826EM8O00002
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/QtD/Factiva_CIMBMAY_QtD2026.pdf
+source_page_start: 9
+source_page_end: 10

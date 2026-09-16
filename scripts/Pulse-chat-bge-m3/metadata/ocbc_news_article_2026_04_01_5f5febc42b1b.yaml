@@ -1,0 +1,26 @@
+document_id: ocbc_news_article_2026_04_01_5f5febc42b1b
+bank_id: ocbc
+title: OCBC to trim rates for flagship 360 Account
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-04-01'
+reporting_period:
+  start: '2026-04-01'
+  end: '2026-04-01'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_news_article_2026_04_01_5f5febc42b1b.pdf
+source_url: https://global.factiva.com/
+checksum: 9443d89bb9d2489e5803926f85133157ef2818e97fc1e70930638153719331ed
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+- hsbc
+- standard_chartered
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260401EM410000O
+source_bundle: Q2/Factiva_Q22026_2.pdf
+source_page_start: 113
+source_page_end: 113

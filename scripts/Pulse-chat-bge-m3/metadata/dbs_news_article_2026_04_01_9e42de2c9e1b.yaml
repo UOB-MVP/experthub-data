@@ -1,0 +1,23 @@
+document_id: dbs_news_article_2026_04_01_9e42de2c9e1b
+bank_id: dbs
+title: DBS’ Tan Su Shan flags second-order risks from Middle East conflict despite
+  limited exposure
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-04-01'
+reporting_period:
+  start: '2026-04-01'
+  end: '2026-04-01'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_04_01_9e42de2c9e1b.pdf
+source_url: https://global.factiva.com/
+checksum: 1bf8e88776add464924878271be8a86568a224fee48d2e0b19f41b2f8dccaa05
+covered_bank_ids:
+- dbs
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260401EM410000D
+source_bundle: Q2/Factiva_Q22026_2.pdf
+source_page_start: 111
+source_page_end: 112

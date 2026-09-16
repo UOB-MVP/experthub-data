@@ -1,0 +1,22 @@
+document_id: cimb_news_article_2026_08_25_8a021b402452
+bank_id: cimb
+title: CIMB Securities retains ‘buy’ rating on Aeon
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-25'
+reporting_period:
+  start: '2026-08-25'
+  end: '2026-08-25'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: cimb/cimb_news_article_2026_08_25_8a021b402452.pdf
+source_url: https://global.factiva.com/
+checksum: 61e7d0b7db5c6174dacfed115b1a443813e35cd28eddd7efbb89e6df1a728257
+covered_bank_ids:
+- cimb
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260826EM8P00005
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/QtD/Factiva_CIMBMAY_QtD2026.pdf
+source_page_start: 8
+source_page_end: 8

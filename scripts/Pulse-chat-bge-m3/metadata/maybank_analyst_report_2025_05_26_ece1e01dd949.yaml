@@ -1,0 +1,20 @@
+document_id: maybank_analyst_report_2025_05_26_ece1e01dd949
+bank_id: maybank
+title: Maybank 1Q25 Results Review
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-05-26'
+reporting_period:
+  start: '2025-05-26'
+  end: '2025-05-26'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: maybank/maybank_analyst_report_2025_05_26_ece1e01dd949.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: ece1e01dd94922c6cc6b2d579fcb855b8bc2b511132c6d7d34b2253f9f215fff
+covered_bank_ids:
+- maybank
+publisher: Hong Leong Investment Bank
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q1 2025/Hong Leong Investment
+  Bank_Maybank 1Q25 Results Review_26_May_2025.pdf

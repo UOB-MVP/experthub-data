@@ -1,0 +1,24 @@
+document_id: dbs_news_article_2026_01_15_f955da2e614c
+bank_id: dbs
+title: DBS, OCBC shares are near record highs – are they still a buy?
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-01-15'
+reporting_period:
+  start: '2026-01-15'
+  end: '2026-01-15'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_01_15_f955da2e614c.pdf
+source_url: https://global.factiva.com/
+checksum: 00f4c2f298b99c54e99d52bb7acc65d224ba594e2e521ba68705c190803b94eb
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260115EM1F0005L
+source_bundle: Q1/Factiva_Q12026_2.pdf
+source_page_start: 110
+source_page_end: 112

@@ -1,0 +1,24 @@
+document_id: dbs_news_article_2026_06_13_5e43b8f44ff6
+bank_id: dbs
+title: 'Singapore banks’ rout on China’s wealth-flow scrutiny ‘overblown’: Maybank'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-06-13'
+reporting_period:
+  start: '2026-06-13'
+  end: '2026-06-13'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_06_13_5e43b8f44ff6.pdf
+source_url: https://global.factiva.com/
+checksum: 37c4f0fa76fe5122d0570809609eab65584c9d441606fc878112e4e38f92a6e7
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260613EM6D00004
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 44
+source_page_end: 45

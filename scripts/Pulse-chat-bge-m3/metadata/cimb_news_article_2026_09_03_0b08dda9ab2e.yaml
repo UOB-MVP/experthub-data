@@ -1,0 +1,22 @@
+document_id: cimb_news_article_2026_09_03_0b08dda9ab2e
+bank_id: cimb
+title: ‘RM25.3m paid to Bersatu accounts not political donation’
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-09-03'
+reporting_period:
+  start: '2026-09-03'
+  end: '2026-09-03'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: cimb/cimb_news_article_2026_09_03_0b08dda9ab2e.pdf
+source_url: https://global.factiva.com/
+checksum: 188b04d4274b126c4b2be579b0662788669d7b99d3249934afe18b7a2c037d35
+covered_bank_ids:
+- cimb
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260903EM930000Q
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/QtD/Factiva_CIMBMAY_QtD2026.pdf
+source_page_start: 2
+source_page_end: 2

@@ -1,0 +1,20 @@
+document_id: cimb_analyst_report_2025_11_30_c7628a907f20
+bank_id: cimb
+title: Microsoft Word - CIMB MK 3Q25 results 011225 ok.docx
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-11-30'
+reporting_period:
+  start: '2025-11-30'
+  end: '2025-11-30'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: cimb/cimb_analyst_report_2025_11_30_c7628a907f20.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: c7628a907f20da9af34e4947344e3fa67a0713c65a1faff986a95233d1f35dc8
+covered_bank_ids:
+- cimb
+publisher: AmInvestment Bank
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q3 2025/AmInvestment Bank_CIMB
+  RM2bil capital return by 2027_30_Nov_2025.pdf

@@ -1,0 +1,23 @@
+document_id: maybank_news_article_2026_03_23_7a8fafa7d6a5
+bank_id: maybank
+title: 'Corporate: Newsbreak: Singapore’s Paradise Group said to be mulling Bursa
+  listing for Malaysian unit'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-03-23'
+reporting_period:
+  start: '2026-03-23'
+  end: '2026-03-23'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_03_23_7a8fafa7d6a5.pdf
+source_url: https://global.factiva.com/
+checksum: 50b5b64622ac4b3bb5d14a826a4c13c85fb56e5cf4c74c2bd08a291364523f9b
+covered_bank_ids:
+- maybank
+publisher: The Edge Malaysia (Weekly)
+geography: Malaysia
+source_document_id: EDGEWK0020260325EM3N00003
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q1/Factiva_CIMBMAY_Q1.pdf
+source_page_start: 4
+source_page_end: 5

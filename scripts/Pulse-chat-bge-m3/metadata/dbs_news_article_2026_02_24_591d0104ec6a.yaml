@@ -1,0 +1,23 @@
+document_id: dbs_news_article_2026_02_24_591d0104ec6a
+bank_id: dbs
+title: DBS partners Granite Asia to provide capital, financing for high-growth companies
+  in Asia
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-24'
+reporting_period:
+  start: '2026-02-24'
+  end: '2026-02-24'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_02_24_591d0104ec6a.pdf
+source_url: https://global.factiva.com/
+checksum: 757b25c5f91793519aac8871760166cac86b8af2cac304687c03da9395ed30a3
+covered_bank_ids:
+- dbs
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260224EM2O0000H
+source_bundle: Q1/Factiva_Q12026_1.pdf
+source_page_start: 157
+source_page_end: 158

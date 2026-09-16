@@ -1,0 +1,22 @@
+document_id: cimb_news_article_2026_08_28_2f4de68629db
+bank_id: cimb
+title: CIMB advances tokenised sukuk with RM1.6b pilot
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-28'
+reporting_period:
+  start: '2026-08-28'
+  end: '2026-08-28'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: cimb/cimb_news_article_2026_08_28_2f4de68629db.pdf
+source_url: https://global.factiva.com/
+checksum: 80ce5eb938ecb4445f84c603fd596e8c3881b1378fb9d3c94113e528eac50226
+covered_bank_ids:
+- cimb
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260828EM8S00008
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/QtD/Factiva_CIMBMAY_QtD2026.pdf
+source_page_start: 6
+source_page_end: 6

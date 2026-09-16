@@ -1,0 +1,19 @@
+document_id: maybank_shareholder_meeting_transcript_2024_04_25_2a57b18b25dc
+bank_id: maybank
+title: Malayan Banking Berhad 2024 Annual General Meeting Transcript
+source_type: approved_third_party
+document_type: shareholder_meeting_transcript
+publication_date: '2024-04-25'
+reporting_period:
+  start: '2024-04-25'
+  end: '2024-04-25'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: maybank/maybank_shareholder_meeting_transcript_2024_04_25_2a57b18b25dc.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 2a57b18b25dc017de6a4dd18da287f535d3f609767a0e58386c86d438faea890
+covered_bank_ids:
+- maybank
+publisher: S&P Global Market Intelligence
+geography: Malaysia
+source_bundle: Earning call Maybank.zip/Maybank/Maybank_AGM_2024.pdf

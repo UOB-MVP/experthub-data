@@ -1,0 +1,23 @@
+document_id: cimb_news_article_2026_07_04_cfbc4a67182a
+bank_id: cimb
+title: CIMB Securities keeps ‘buy’ call on SD Property
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-07-04'
+reporting_period:
+  start: '2026-07-04'
+  end: '2026-07-04'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: cimb/cimb_news_article_2026_07_04_cfbc4a67182a.pdf
+source_url: https://global.factiva.com/
+checksum: 43d358e4419610fa8790ed58819cd065e90c69f16c14fc05bb7f614179fbd06d
+covered_bank_ids:
+- cimb
+- maybank
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260706EM7400002
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/QtD/Factiva_CIMBMAY_QtD2026.pdf
+source_page_start: 38
+source_page_end: 38

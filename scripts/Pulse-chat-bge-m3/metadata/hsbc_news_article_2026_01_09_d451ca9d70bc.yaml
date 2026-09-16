@@ -1,0 +1,22 @@
+document_id: hsbc_news_article_2026_01_09_d451ca9d70bc
+bank_id: hsbc
+title: HSBC veteran James Cheo to join UBS in senior Apac role
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-01-09'
+reporting_period:
+  start: '2026-01-09'
+  end: '2026-01-09'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_01_09_d451ca9d70bc.pdf
+source_url: https://global.factiva.com/
+checksum: 3f92f448a68baf356ce6d649e79e0f0ef0267a9ffccdc917cb5435311ec1fec9
+covered_bank_ids:
+- hsbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260109EM1900002
+source_bundle: Q1/Factiva_Q12026_2.pdf
+source_page_start: 132
+source_page_end: 132

@@ -1,0 +1,22 @@
+document_id: maybank_news_article_2026_02_20_05a2d7fdb2ba
+bank_id: maybank
+title: MAYBANK LAUNCHES MASTERCLASS 2026
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-20'
+reporting_period:
+  start: '2026-02-20'
+  end: '2026-02-20'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_02_20_05a2d7fdb2ba.pdf
+source_url: https://global.factiva.com/
+checksum: b82693fef2cadec92d9a76dcf342c93d9eb9cb20a490babec8f25ebbae9b8fe6
+covered_bank_ids:
+- maybank
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260220EM2K0000D
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q1/Factiva_CIMBMAY_Q1.pdf
+source_page_start: 29
+source_page_end: 29

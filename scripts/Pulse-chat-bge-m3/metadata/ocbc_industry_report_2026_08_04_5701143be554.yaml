@@ -1,0 +1,16 @@
+document_id: ocbc_industry_report_2026_08_04_5701143be554
+bank_id: ocbc
+title: Jacky Ang - Bank of Singapore - Asian Private Banker
+source_type: approved_third_party
+document_type: industry_report
+publication_date: '2026-08-04'
+reporting_period:
+  start: '2026-08-04'
+  end: '2026-08-04'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_industry_report_2026_08_04_5701143be554.pdf
+source_url: https://asianprivatebanker.com/coo-focus-2026/jacky-ang-bank-of-singapore/
+checksum: 5701143be554f10e5166e9c9b06dd7d98c8239c11db58f4abc86e86331404494
+covered_bank_ids:
+- ocbc

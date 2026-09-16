@@ -1,0 +1,25 @@
+document_id: dbs_news_article_2026_03_12_bb9ff0a70846
+bank_id: dbs
+title: RHB bullish on DBS, OCBC, but expects more volatility in banking sector amid
+  geopolitical tensions
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-03-12'
+reporting_period:
+  start: '2026-03-12'
+  end: '2026-03-12'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_03_12_bb9ff0a70846.pdf
+source_url: https://global.factiva.com/
+checksum: ff630afda608282f1cafa952968d6b42f1e5795a072af1477334884517af4ac4
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260312EM3C00001
+source_bundle: Q1/Factiva_Q12026_1.pdf
+source_page_start: 69
+source_page_end: 70

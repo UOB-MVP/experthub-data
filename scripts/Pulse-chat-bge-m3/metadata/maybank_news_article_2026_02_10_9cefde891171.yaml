@@ -1,0 +1,22 @@
+document_id: maybank_news_article_2026_02_10_9cefde891171
+bank_id: maybank
+title: Maybank IB retains ‘buy’ rating on Public Bank
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-10'
+reporting_period:
+  start: '2026-02-10'
+  end: '2026-02-10'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_02_10_9cefde891171.pdf
+source_url: https://global.factiva.com/
+checksum: 8aba7aacd58bd1235608ac9304ebf106920ad5584e05dded7200a0244100b4fb
+covered_bank_ids:
+- maybank
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260210EM2A00001
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q1/Factiva_CIMBMAY_Q1.pdf
+source_page_start: 42
+source_page_end: 42

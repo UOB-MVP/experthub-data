@@ -1,0 +1,19 @@
+document_id: maybank_shareholder_meeting_transcript_2025_04_24_67c40411d99a
+bank_id: maybank
+title: Malayan Banking Berhad 2025 Annual General Meeting Transcript
+source_type: approved_third_party
+document_type: shareholder_meeting_transcript
+publication_date: '2025-04-24'
+reporting_period:
+  start: '2025-04-24'
+  end: '2025-04-24'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: maybank/maybank_shareholder_meeting_transcript_2025_04_24_67c40411d99a.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 67c40411d99ac70a2ee33a8307bc552326bf35201cfc5359218c223529e1194d
+covered_bank_ids:
+- maybank
+publisher: S&P Global Market Intelligence
+geography: Malaysia
+source_bundle: Earning call Maybank.zip/Maybank/Maybank_AGM_2025.pdf

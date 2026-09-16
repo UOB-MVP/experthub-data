@@ -1,0 +1,19 @@
+document_id: market_industry_report_2025_02_24_d3c5e02ed090
+bank_id: market
+title: 'Banking Weekly Round-Up: Monetary Loosening To Impact'
+source_type: approved_third_party
+document_type: industry_report
+publication_date: '2025-02-24'
+reporting_period:
+  start: '2025-02-24'
+  end: '2025-02-24'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: market/market_industry_report_2025_02_24_d3c5e02ed090.pdf
+source_url: https://www.fitchsolutions.com/bmi
+checksum: d3c5e02ed090cf6c3211bce3ff0ae4bc13017abb4b25dfa6871cdff48d508633
+covered_bank_ids:
+- market
+publisher: BMI
+geography: Multi-market
+source_bundle: BMI/BMI Banking Weekly Round-Up - 24 Feb 2025.pdf

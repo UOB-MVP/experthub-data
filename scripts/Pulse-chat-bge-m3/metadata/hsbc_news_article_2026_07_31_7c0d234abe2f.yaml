@@ -1,0 +1,22 @@
+document_id: hsbc_news_article_2026_07_31_7c0d234abe2f
+bank_id: hsbc
+title: HSBC relationship managers charged with taking bribes
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-07-31'
+reporting_period:
+  start: '2026-07-31'
+  end: '2026-07-31'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_07_31_7c0d234abe2f.pdf
+source_url: https://global.factiva.com/
+checksum: 9b2aa3a70206bf7cb1a7c8471623ca9f3f81ebd9b848e0404704ae0e47fb4316
+covered_bank_ids:
+- hsbc
+publisher: South China Morning Post
+geography: Hong Kong
+source_document_id: SCMP000020260730EM7V0001O
+source_bundle: QtD/Factiva_Q2tD2026_2.pdf
+source_page_start: 3
+source_page_end: 3

@@ -1,0 +1,23 @@
+document_id: hsbc_news_article_2026_03_05_fb770fae4d69
+bank_id: hsbc
+title: 'Bigger and better: HSBC extends title sponsorship of Women’s World Championship
+  golf to 2030'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-03-05'
+reporting_period:
+  start: '2026-03-05'
+  end: '2026-03-05'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_03_05_fb770fae4d69.pdf
+source_url: https://global.factiva.com/
+checksum: 52053e1c2de531d41ed18c23ceffd3d832da1e5fc6e9e47baeac986ea56d6cc1
+covered_bank_ids:
+- hsbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260305EM3500001
+source_bundle: Q1/Factiva_Q12026_1.pdf
+source_page_start: 97
+source_page_end: 97

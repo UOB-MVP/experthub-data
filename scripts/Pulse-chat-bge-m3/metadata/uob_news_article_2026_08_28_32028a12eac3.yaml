@@ -1,0 +1,22 @@
+document_id: uob_news_article_2026_08_28_32028a12eac3
+bank_id: uob
+title: UOB prices US$1.2b dual-tranche euro covered bond offering
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-28'
+reporting_period:
+  start: '2026-08-28'
+  end: '2026-08-28'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/uob_news_article_2026_08_28_32028a12eac3.pdf
+source_url: https://global.factiva.com/
+checksum: 8413b86b90ec007f2ac3eec59b507b44e51c4bf5487649aa0e2d12448f4fc63a
+covered_bank_ids:
+- uob
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260828EM8S00004
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 31
+source_page_end: 32

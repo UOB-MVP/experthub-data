@@ -1,0 +1,23 @@
+document_id: maybank_news_article_2026_02_02_364e82c51b1d
+bank_id: maybank
+title: 'Corporate: Cover Story 1: Do banking stocks warrant more love?'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-02'
+reporting_period:
+  start: '2026-02-02'
+  end: '2026-02-02'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_02_02_364e82c51b1d.pdf
+source_url: https://global.factiva.com/
+checksum: 3b1fef6e35f5bc9740e7c13dec6f21ca2f31c16b2069eee0f1b6db185d3eee21
+covered_bank_ids:
+- cimb
+- maybank
+publisher: The Edge Malaysia (Weekly)
+geography: Malaysia
+source_document_id: EDGEWK0020260204EM220000M
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q1/Factiva_CIMBMAY_Q1.pdf
+source_page_start: 43
+source_page_end: 45

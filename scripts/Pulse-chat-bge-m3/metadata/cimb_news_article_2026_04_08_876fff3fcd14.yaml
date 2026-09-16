@@ -1,0 +1,22 @@
+document_id: cimb_news_article_2026_04_08_876fff3fcd14
+bank_id: cimb
+title: CIMB targets Asean wealth boom
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-04-08'
+reporting_period:
+  start: '2026-04-08'
+  end: '2026-04-08'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: cimb/cimb_news_article_2026_04_08_876fff3fcd14.pdf
+source_url: https://global.factiva.com/
+checksum: 93eebf0e6ecc1d1b8ecdd2719d402770ee7b6f64d0a908648e35d4e9486b7970
+covered_bank_ids:
+- cimb
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260408EM4800002
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q2/Factiva_CIMBMAY_Q2.pdf
+source_page_start: 43
+source_page_end: 43

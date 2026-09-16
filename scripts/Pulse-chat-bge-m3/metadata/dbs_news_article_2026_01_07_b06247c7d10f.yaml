@@ -1,0 +1,24 @@
+document_id: dbs_news_article_2026_01_07_b06247c7d10f
+bank_id: dbs
+title: Singapore investment banking fees climb to US$864.6m in 2025, highest in 4
+  years
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-01-07'
+reporting_period:
+  start: '2026-01-07'
+  end: '2026-01-07'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_01_07_b06247c7d10f.pdf
+source_url: https://global.factiva.com/
+checksum: 2623098cfd3ef23e2e658729648d15124a438ae200d10d391a29fcec5ac9bff2
+covered_bank_ids:
+- uob
+- dbs
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260106EM17002XT
+source_bundle: Q1/Factiva_Q12026_2.pdf
+source_page_start: 138
+source_page_end: 139

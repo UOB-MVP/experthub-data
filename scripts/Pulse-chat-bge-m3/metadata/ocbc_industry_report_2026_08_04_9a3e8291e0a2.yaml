@@ -1,0 +1,16 @@
+document_id: ocbc_industry_report_2026_08_04_9a3e8291e0a2
+bank_id: ocbc
+title: Jason Moo - Bank of Singapore - Asian Private Banker
+source_type: approved_third_party
+document_type: industry_report
+publication_date: '2026-08-04'
+reporting_period:
+  start: '2026-08-04'
+  end: '2026-08-04'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_industry_report_2026_08_04_9a3e8291e0a2.pdf
+source_url: https://asianprivatebanker.com/final-word-2025/jason-moo-bank-of-singapore/
+checksum: 9a3e8291e0a2c861ff766481a161c2eea6d0492ad523d78bf1e85daded7f3d2e
+covered_bank_ids:
+- ocbc

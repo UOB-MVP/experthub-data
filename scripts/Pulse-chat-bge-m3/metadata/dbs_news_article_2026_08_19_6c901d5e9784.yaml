@@ -1,0 +1,25 @@
+document_id: dbs_news_article_2026_08_19_6c901d5e9784
+bank_id: dbs
+title: DayOne secures S$530m green loan from DBS, OCBC and UOB for Singapore data
+  centre
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-19'
+reporting_period:
+  start: '2026-08-19'
+  end: '2026-08-19'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_08_19_6c901d5e9784.pdf
+source_url: https://global.factiva.com/
+checksum: 9357cc5515132b20fbf7c69b97403bccead2f49788df5bba189ee0c140fb1147
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260819EM8J0000F
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 77
+source_page_end: 77

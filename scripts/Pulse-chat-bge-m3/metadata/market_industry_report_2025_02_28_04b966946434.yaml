@@ -1,0 +1,22 @@
+document_id: market_industry_report_2025_02_28_04b966946434
+bank_id: market
+title: Financial services
+source_type: approved_third_party
+document_type: industry_report
+publication_date: '2025-02-28'
+reporting_period:
+  start: '2025-02-28'
+  end: '2025-02-28'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: market/market_industry_report_2025_02_28_04b966946434.pdf
+source_url: https://viewpoint.eiu.com/analysis/geography/XO/TW/reports/ﬁnancial-services/2025-02-28
+checksum: 04b9669464343f481891167c5e8ae6e9a3f88b28550fe803e70cf0372365a070
+covered_bank_ids:
+- market
+- dbs
+- hsbc
+- standard_chartered
+publisher: Economist Intelligence Unit
+geography: Taiwan
+source_bundle: EMIS/Financial services 2025 (1).pdf

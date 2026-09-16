@@ -1,0 +1,23 @@
+document_id: ocbc_news_article_2026_07_01_1d292c02211c
+bank_id: ocbc
+title: OCBC rolls out AI avatars, to hire 600 more relationship managers amid wealth
+  push
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-07-01'
+reporting_period:
+  start: '2026-07-01'
+  end: '2026-07-01'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_news_article_2026_07_01_1d292c02211c.pdf
+source_url: https://global.factiva.com/
+checksum: a51a40e6429346b3178e5f6a9018ff6f729a2cf8cf351c53af42d74c50b5dc8d
+covered_bank_ids:
+- ocbc
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260701EM71001JL
+source_bundle: QtD/Factiva_Q2tD2026_2.pdf
+source_page_start: 115
+source_page_end: 116

@@ -1,0 +1,24 @@
+document_id: hsbc_news_article_2026_06_05_2301436d79ae
+bank_id: hsbc
+title: 'Markets & Finance: HSBC, StanChart Shares Retreat On Worries of New Hong Kong
+  Rules'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-06-05'
+reporting_period:
+  start: '2026-06-05'
+  end: '2026-06-05'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_06_05_2301436d79ae.pdf
+source_url: https://global.factiva.com/
+checksum: 19014725a9110d2480960e3ca4c07a7d31f2c1611e7c8511aa9656b7ddcdec17
+covered_bank_ids:
+- hsbc
+- standard_chartered
+publisher: The Wall Street Journal
+geography: Asia-Pacific
+source_document_id: J000000020260605EM650006O
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 66
+source_page_end: 66

@@ -1,0 +1,22 @@
+document_id: market_industry_report_2025_11_06_50ce4d920b25
+bank_id: market
+title: 'Financial services : Malaysia'
+source_type: approved_third_party
+document_type: industry_report
+publication_date: '2025-11-06'
+reporting_period:
+  start: '2025-11-06'
+  end: '2025-11-06'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: market/market_industry_report_2025_11_06_50ce4d920b25.pdf
+source_url: https://viewpoint.eiu.com/analysis/geography/XO/MY/reports/ﬁnancial-services/2025-11-06
+checksum: 50ce4d920b25959b8c79e4ed512360f17556ff118870b50677e2220d421d6186
+covered_bank_ids:
+- market
+- uob
+- ocbc
+- hsbc
+publisher: Economist Intelligence Unit
+geography: Malaysia
+source_bundle: EMIS/Financial services _ Malaysia 2025.pdf

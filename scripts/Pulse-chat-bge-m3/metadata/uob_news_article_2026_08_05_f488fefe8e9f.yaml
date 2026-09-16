@@ -1,0 +1,24 @@
+document_id: uob_news_article_2026_08_05_f488fefe8e9f
+bank_id: uob
+title: Entertainment perks pay off for Singapore banks in card spending, sign-ups
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-05'
+reporting_period:
+  start: '2026-08-05'
+  end: '2026-08-05'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/uob_news_article_2026_08_05_f488fefe8e9f.pdf
+source_url: https://global.factiva.com/
+checksum: 0e9113a071618c49f0189e43cf7aaf1bbdd6f16a4756096a3a36408cfcc2af41
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260805EM850005L
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 150
+source_page_end: 151

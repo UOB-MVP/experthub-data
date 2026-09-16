@@ -1,0 +1,22 @@
+document_id: hsbc_news_article_2026_07_13_306d2c0d879e
+bank_id: hsbc
+title: Board-lot move set to drive up HSBC turnover
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-07-13'
+reporting_period:
+  start: '2026-07-13'
+  end: '2026-07-13'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_07_13_306d2c0d879e.pdf
+source_url: https://global.factiva.com/
+checksum: d984944fa6328c2b51d192359512387bc89f393dc226613e5d710d720d8d2380
+covered_bank_ids:
+- hsbc
+publisher: South China Morning Post
+geography: Hong Kong
+source_document_id: SCMP000020260712EM7D0000P
+source_bundle: QtD/Factiva_Q2tD2026_2.pdf
+source_page_start: 79
+source_page_end: 80

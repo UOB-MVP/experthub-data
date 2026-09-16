@@ -1,0 +1,25 @@
+document_id: dbs_news_article_2026_05_13_d4f3782750fa
+bank_id: dbs
+title: More upside ahead for DBS, OCBC, UOB as wealth fees power Q1 earnings
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-05-13'
+reporting_period:
+  start: '2026-05-13'
+  end: '2026-05-13'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_05_13_d4f3782750fa.pdf
+source_url: https://global.factiva.com/
+checksum: 4347a9e18d691e40fbba8d3e3944dfbceb85ad24e276a0dfec4d9734e4f40b4f
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+- hsbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260513EM5D0000L
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 139
+source_page_end: 141

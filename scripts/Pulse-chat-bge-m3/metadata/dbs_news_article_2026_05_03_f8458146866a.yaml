@@ -1,0 +1,24 @@
+document_id: dbs_news_article_2026_05_03_f8458146866a
+bank_id: dbs
+title: Bank stocks gain as DBS results lift sentiment; property counters lag
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-05-03'
+reporting_period:
+  start: '2026-05-03'
+  end: '2026-05-03'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_05_03_f8458146866a.pdf
+source_url: https://global.factiva.com/
+checksum: 8685aa76e14ef5a0ff8605d4b521e2a448ea4da7c273fc6bbcb1fc40c82b67b4
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260503EM53000XD
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 184
+source_page_end: 186

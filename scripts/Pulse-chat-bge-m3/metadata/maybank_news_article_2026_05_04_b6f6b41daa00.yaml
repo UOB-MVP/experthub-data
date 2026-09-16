@@ -1,0 +1,24 @@
+document_id: maybank_news_article_2026_05_04_b6f6b41daa00
+bank_id: maybank
+title: 'Corporate: Three individuals charged in relation to Aries Telecoms’ RM400
+  mil loan granted by BPMB in 2012'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-05-04'
+reporting_period:
+  start: '2026-05-04'
+  end: '2026-05-04'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_05_04_b6f6b41daa00.pdf
+source_url: https://global.factiva.com/
+checksum: 928bcebc66d5ec7562c266b0c88f0b7af9a8d73ed6a81260daf9ec9b0b6399ab
+covered_bank_ids:
+- hsbc
+- maybank
+publisher: The Edge Malaysia (Weekly)
+geography: Malaysia
+source_document_id: EDGEWK0020260506EM540000E
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q2/Factiva_CIMBMAY_Q2.pdf
+source_page_start: 22
+source_page_end: 24

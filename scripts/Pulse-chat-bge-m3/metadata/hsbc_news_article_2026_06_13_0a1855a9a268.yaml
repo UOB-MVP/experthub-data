@@ -1,0 +1,22 @@
+document_id: hsbc_news_article_2026_06_13_0a1855a9a268
+bank_id: hsbc
+title: Mortgage Rates
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-06-13'
+reporting_period:
+  start: '2026-06-13'
+  end: '2026-06-13'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_06_13_0a1855a9a268.pdf
+source_url: https://global.factiva.com/
+checksum: aaaddb8ec16debd3eb4eecac810d6eb9708e2b407e6952d598b54abb4b8f7513
+covered_bank_ids:
+- hsbc
+publisher: Financial Times
+geography: Asia-Pacific
+source_document_id: FTFTA00020260613EM6D000SH
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 43
+source_page_end: 43

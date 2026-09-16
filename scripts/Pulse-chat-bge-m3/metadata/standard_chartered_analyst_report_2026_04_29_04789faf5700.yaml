@@ -1,0 +1,17 @@
+document_id: standard_chartered_analyst_report_2026_04_29_04789faf5700
+bank_id: standard_chartered
+title: 'Standard Chartered: 1Q26 PBT beat driven by strong revenue, CET1 ratio 30bps
+  below estimates'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-04-29'
+reporting_period:
+  start: '2026-04-29'
+  end: '2026-04-29'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_analyst_report_2026_04_29_04789faf5700.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 04789faf5700ce0d4e637711015ce9673061fa2d9a5040abdaf74ab41138b02f
+covered_bank_ids:
+- standard_chartered

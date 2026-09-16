@@ -1,0 +1,22 @@
+document_id: maybank_news_article_2026_06_20_55046d069717
+bank_id: maybank
+title: Bank Rakyat taps sukuk market for capital boost
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-06-20'
+reporting_period:
+  start: '2026-06-20'
+  end: '2026-06-20'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_06_20_55046d069717.pdf
+source_url: https://global.factiva.com/
+checksum: 8bfe42331ad42b4ef72c8f870110a6e3999f53f15d9f4437420855aa28f24140
+covered_bank_ids:
+- maybank
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260622EM6K00001
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q2/Factiva_CIMBMAY_Q2.pdf
+source_page_start: 5
+source_page_end: 5

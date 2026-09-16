@@ -1,0 +1,24 @@
+document_id: maybank_news_article_2026_01_26_4da77e5afb94
+bank_id: maybank
+title: 'Corporate: Modest roar for Maybank’s new strategy as investors await capital
+  management clarity'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-01-26'
+reporting_period:
+  start: '2026-01-26'
+  end: '2026-01-26'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_01_26_4da77e5afb94.pdf
+source_url: https://global.factiva.com/
+checksum: 5cfaa310e2b09b95df8315c20cdf96d509ac3bd124d5b1b88851e7cba4a57f5c
+covered_bank_ids:
+- cimb
+- maybank
+publisher: The Edge Malaysia (Weekly)
+geography: Malaysia
+source_document_id: EDGEWK0020260128EM1Q00009
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q1/Factiva_CIMBMAY_Q1.pdf
+source_page_start: 52
+source_page_end: 54

@@ -1,0 +1,22 @@
+document_id: uob_news_article_2026_06_16_55de0ed8d965
+bank_id: uob
+title: The biggest AI skill may not be technical
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-06-16'
+reporting_period:
+  start: '2026-06-16'
+  end: '2026-06-16'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/uob_news_article_2026_06_16_55de0ed8d965.pdf
+source_url: https://global.factiva.com/
+checksum: a46df977016f86227a97166812771b3ecdeebc1714bf8bb2006b98594f1d43e1
+covered_bank_ids:
+- uob
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260616EM6G0000D
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 37
+source_page_end: 38

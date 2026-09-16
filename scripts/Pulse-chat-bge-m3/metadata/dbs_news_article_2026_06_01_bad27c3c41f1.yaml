@@ -1,0 +1,24 @@
+document_id: dbs_news_article_2026_06_01_bad27c3c41f1
+bank_id: dbs
+title: DBS to open 18 new and 36 upgraded wealth centres across Apac by 2027
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-06-01'
+reporting_period:
+  start: '2026-06-01'
+  end: '2026-06-01'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_06_01_bad27c3c41f1.pdf
+source_url: https://global.factiva.com/
+checksum: 5be5c14042357be0e0ed12c1f8b8b499681ae96c2bab4789d77a7bdd816bb231
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260601EM610002T
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 78
+source_page_end: 79

@@ -1,0 +1,23 @@
+document_id: uob_news_article_2026_01_15_eff920693a6f
+bank_id: uob
+title: 'Stocks to watch: UOB, Sembcorp, CICT, First Sponsor, Advanced Systems Automation,
+  Moneymax'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-01-15'
+reporting_period:
+  start: '2026-01-15'
+  end: '2026-01-15'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/uob_news_article_2026_01_15_eff920693a6f.pdf
+source_url: https://global.factiva.com/
+checksum: e2c5a3c51712c27a0dc362424581179811497be34ee4992f820d7ecfdc94a393
+covered_bank_ids:
+- uob
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260115EM1F0008D
+source_bundle: Q1/Factiva_Q12026_2.pdf
+source_page_start: 113
+source_page_end: 113

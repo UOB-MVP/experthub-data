@@ -1,0 +1,22 @@
+document_id: ocbc_news_article_2026_09_04_fbd2c92f875d
+bank_id: ocbc
+title: The humans behind OCBC’s wealth avatars Wendy and Wayne
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-09-04'
+reporting_period:
+  start: '2026-09-04'
+  end: '2026-09-04'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_news_article_2026_09_04_fbd2c92f875d.pdf
+source_url: https://global.factiva.com/
+checksum: 492c2738ad8fd4fe5e417ba5acfd1571ad2b59be1afa36623e12802169158cbc
+covered_bank_ids:
+- ocbc
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260904EM9400005
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 17
+source_page_end: 19

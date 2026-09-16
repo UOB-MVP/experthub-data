@@ -1,0 +1,20 @@
+document_id: cimb_analyst_report_2025_06_02_cdcd6f8f1da2
+bank_id: cimb
+title: Result Note – CIMB Staying defensive
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-06-02'
+reporting_period:
+  start: '2025-06-02'
+  end: '2025-06-02'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: cimb/cimb_analyst_report_2025_06_02_cdcd6f8f1da2.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: cdcd6f8f1da2361907278534bdf01957228fadd2889d36c1f4baac84d44b1d84
+covered_bank_ids:
+- cimb
+publisher: Affin Hwang Investment Bank
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q1 2025/Affin Hwang Investment
+  Bank_Result Note – CIMB Staying defensive_02_Jun_2025.pdf

@@ -1,0 +1,22 @@
+document_id: hsbc_news_article_2026_02_26_eb142913caf5
+bank_id: hsbc
+title: HSBC sets new growth targets as profit falls
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-26'
+reporting_period:
+  start: '2026-02-26'
+  end: '2026-02-26'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_02_26_eb142913caf5.pdf
+source_url: https://global.factiva.com/
+checksum: e50bc969900ff4ae4a2483c9934d4b96d7411d58fedae602225d1e7b30e88778
+covered_bank_ids:
+- hsbc
+publisher: South China Morning Post
+geography: Hong Kong
+source_document_id: SCMP000020260225EM2Q00012
+source_bundle: Q1/Factiva_Q12026_1.pdf
+source_page_start: 135
+source_page_end: 136

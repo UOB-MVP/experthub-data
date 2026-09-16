@@ -1,0 +1,20 @@
+document_id: cimb_analyst_report_2026_08_28_283d1c4c7648
+bank_id: cimb
+title: CIMB 2Q26 slightly behind
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-08-28'
+reporting_period:
+  start: '2026-08-28'
+  end: '2026-08-28'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: cimb/cimb_analyst_report_2026_08_28_283d1c4c7648.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 283d1c4c7648a990973752aa89e43754f976566c9adbc58b2d2d3173dd89e504
+covered_bank_ids:
+- cimb
+publisher: Citigroup
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q2 2026/Citigroup_CIMB_ 2Q26
+  slightly behind_28_Aug_2026.pdf

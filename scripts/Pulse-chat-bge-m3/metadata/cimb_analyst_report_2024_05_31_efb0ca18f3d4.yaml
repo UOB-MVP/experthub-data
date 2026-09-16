@@ -1,0 +1,21 @@
+document_id: cimb_analyst_report_2024_05_31_efb0ca18f3d4
+bank_id: cimb
+title: Solid Q1 performance
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2024-05-31'
+reporting_period:
+  start: '2024-05-31'
+  end: '2024-05-31'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: cimb/cimb_analyst_report_2024_05_31_efb0ca18f3d4.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: efb0ca18f3d4a6cfef1071dedcd5bbb06327a52cdda0a8c37d25178e892ef1a5
+covered_bank_ids:
+- cimb
+- maybank
+publisher: UBS
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q1 2024/UBS_First Read_ CIMB_Solid
+  Q1 performance_ (Buy)_31_May_2024.pdf

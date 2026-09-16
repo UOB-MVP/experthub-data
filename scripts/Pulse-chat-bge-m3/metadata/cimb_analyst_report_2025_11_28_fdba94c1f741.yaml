@@ -1,0 +1,20 @@
+document_id: cimb_analyst_report_2025_11_28_fdba94c1f741
+bank_id: cimb
+title: CIMB (Buy) - MYR2bn capital return programme announced
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-11-28'
+reporting_period:
+  start: '2025-11-28'
+  end: '2025-11-28'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: cimb/cimb_analyst_report_2025_11_28_fdba94c1f741.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: fdba94c1f74110f6b217e7adc7d406e3829a84de0ef32bc553b680f70383142f
+covered_bank_ids:
+- cimb
+publisher: Nomura Securities
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q3 2025/Nomura Securities_CIMB
+  (Buy) - MYR2bn capital return programme announced_28_Nov_2025.pdf

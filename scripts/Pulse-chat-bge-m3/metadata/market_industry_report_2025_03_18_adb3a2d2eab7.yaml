@@ -1,0 +1,22 @@
+document_id: market_industry_report_2025_03_18_adb3a2d2eab7
+bank_id: market
+title: 'Financial services : Thailand'
+source_type: approved_third_party
+document_type: industry_report
+publication_date: '2025-03-18'
+reporting_period:
+  start: '2025-03-18'
+  end: '2025-03-18'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: market/market_industry_report_2025_03_18_adb3a2d2eab7.pdf
+source_url: https://viewpoint.eiu.com/analysis/geography/XO/TH/reports/ﬁnancial-services/2025-03-18
+checksum: adb3a2d2eab7588c6d29dd8cf4b069179f9ff41f9cf20fad53dcc43646627c2a
+covered_bank_ids:
+- market
+- uob
+- hsbc
+- standard_chartered
+publisher: Economist Intelligence Unit
+geography: Thailand
+source_bundle: EMIS/Financial services _ Thailand 2025 (1).pdf

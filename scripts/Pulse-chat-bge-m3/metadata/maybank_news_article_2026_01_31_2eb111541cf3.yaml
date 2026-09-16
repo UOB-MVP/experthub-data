@@ -1,0 +1,22 @@
+document_id: maybank_news_article_2026_01_31_2eb111541cf3
+bank_id: maybank
+title: Several O&G subsegments to log increased activity this year
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-01-31'
+reporting_period:
+  start: '2026-01-31'
+  end: '2026-01-31'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_01_31_2eb111541cf3.pdf
+source_url: https://global.factiva.com/
+checksum: 162e392cc4eac143bd447c0051fffe12a10b826bdb866db11e9e55b16c45f118
+covered_bank_ids:
+- maybank
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260204EM1V00005
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q1/Factiva_CIMBMAY_Q1.pdf
+source_page_start: 48
+source_page_end: 48

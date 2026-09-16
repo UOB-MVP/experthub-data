@@ -1,0 +1,21 @@
+document_id: maybank_analyst_report_2024_02_28_964f25a1a9fc
+bank_id: maybank
+title: Maybank 4Q23 Briefing takeaways Cost inflation
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2024-02-28'
+reporting_period:
+  start: '2024-02-28'
+  end: '2024-02-28'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: maybank/maybank_analyst_report_2024_02_28_964f25a1a9fc.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 964f25a1a9fc7e4929b8a0334154d4adbf38655644ab01d70c40af04c3817cdc
+covered_bank_ids:
+- maybank
+- cimb
+publisher: Citigroup
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q4 2023/Citigroup_Maybank_
+  4Q23 Briefing takeaways_Cost inflation_28_Feb_2024.pdf

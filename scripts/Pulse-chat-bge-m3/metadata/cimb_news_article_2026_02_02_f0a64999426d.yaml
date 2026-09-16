@@ -1,0 +1,24 @@
+document_id: cimb_news_article_2026_02_02_f0a64999426d
+bank_id: cimb
+title: 'Capital: Brokers Digest: Local Equities - Oil and gas, CIMB Group Holdings
+  Bhd, KJTS Group Bhd, Gamuda Bhd'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-02'
+reporting_period:
+  start: '2026-02-02'
+  end: '2026-02-02'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: cimb/cimb_news_article_2026_02_02_f0a64999426d.pdf
+source_url: https://global.factiva.com/
+checksum: a8c1e65605d04c67e9dd4e553d0ce3081e9ff6d24a863d2dcc6fb94a0b18fff4
+covered_bank_ids:
+- cimb
+- maybank
+publisher: The Edge Malaysia (Weekly)
+geography: Malaysia
+source_document_id: EDGEWK0020260204EM220000G
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q1/Factiva_CIMBMAY_Q1.pdf
+source_page_start: 46
+source_page_end: 47

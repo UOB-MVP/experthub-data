@@ -1,0 +1,23 @@
+document_id: hsbc_news_article_2026_07_13_3965c271fe7c
+bank_id: hsbc
+title: 'Singapore investors leverage AI for research but rely on human advisers to
+  decide: HSBC study'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-07-13'
+reporting_period:
+  start: '2026-07-13'
+  end: '2026-07-13'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_07_13_3965c271fe7c.pdf
+source_url: https://global.factiva.com/
+checksum: 277b98f4dd22f474c8b6328b8c360fcadc1c8d1089d150f0f3c1ee4b6ce59b76
+covered_bank_ids:
+- hsbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260714EM7D0002T
+source_bundle: QtD/Factiva_Q2tD2026_2.pdf
+source_page_start: 71
+source_page_end: 72

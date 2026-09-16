@@ -1,0 +1,20 @@
+document_id: maybank_analyst_report_2023_11_22_dfd4dd25888a
+bank_id: maybank
+title: Microsoft Word - MAY3Q23
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2023-11-22'
+reporting_period:
+  start: '2023-11-22'
+  end: '2023-11-22'
+  period_type: point_in_time
+  fiscal_year: 2023
+source_file: maybank/maybank_analyst_report_2023_11_22_dfd4dd25888a.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: dfd4dd25888a2c5e017fabbcfe65e1ba78d4744485176d80ba7f5b4bee01d4ca
+covered_bank_ids:
+- maybank
+publisher: TA Securities Holdings
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q3 2023/TA Securities
+  Holdings_Results Update_ Malayan Banking_22_Nov_2023.pdf

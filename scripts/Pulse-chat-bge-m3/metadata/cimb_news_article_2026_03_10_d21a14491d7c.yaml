@@ -1,0 +1,22 @@
+document_id: cimb_news_article_2026_03_10_d21a14491d7c
+bank_id: cimb
+title: MTT Shipping signs underwriting deal
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-03-10'
+reporting_period:
+  start: '2026-03-10'
+  end: '2026-03-10'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: cimb/cimb_news_article_2026_03_10_d21a14491d7c.pdf
+source_url: https://global.factiva.com/
+checksum: 449b0285d08dbb82a679240eb4adb305f3fa9a4df252289e9933ca10a6900f2e
+covered_bank_ids:
+- cimb
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260310EM3A00019
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q1/Factiva_CIMBMAY_Q1.pdf
+source_page_start: 11
+source_page_end: 11

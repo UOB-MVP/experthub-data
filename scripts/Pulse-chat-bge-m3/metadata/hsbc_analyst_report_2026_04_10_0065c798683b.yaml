@@ -1,0 +1,17 @@
+document_id: hsbc_analyst_report_2026_04_10_0065c798683b
+bank_id: hsbc
+title: HSBC (0005.HKHSBA.L) 1Q26 Preview Resilient earnings this quarter; outlook
+  in focus amid heightened uncertainty
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-04-10'
+reporting_period:
+  start: '2026-04-10'
+  end: '2026-04-10'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_analyst_report_2026_04_10_0065c798683b.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 0065c798683b731c98894ab8c9473160d25f637afe0517f3fb97e8d935c1f525
+covered_bank_ids:
+- hsbc

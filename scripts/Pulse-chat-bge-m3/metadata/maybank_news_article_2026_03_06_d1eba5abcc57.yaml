@@ -1,0 +1,22 @@
+document_id: maybank_news_article_2026_03_06_d1eba5abcc57
+bank_id: maybank
+title: Mideast tensions lift oil and gas sector
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-03-06'
+reporting_period:
+  start: '2026-03-06'
+  end: '2026-03-06'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_03_06_d1eba5abcc57.pdf
+source_url: https://global.factiva.com/
+checksum: 4b1dcb7a9a2b9aed6328614837c29b92ff2150878db83bca0ff6bb9de814bbdb
+covered_bank_ids:
+- maybank
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260306EM3600003
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q1/Factiva_CIMBMAY_Q1.pdf
+source_page_start: 16
+source_page_end: 16

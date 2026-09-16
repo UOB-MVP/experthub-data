@@ -1,0 +1,20 @@
+document_id: maybank_analyst_report_2025_05_26_ca848656dc3f
+bank_id: maybank
+title: Microsoft Word - MAY1Q25
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-05-26'
+reporting_period:
+  start: '2025-05-26'
+  end: '2025-05-26'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: maybank/maybank_analyst_report_2025_05_26_ca848656dc3f.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: ca848656dc3fd841312a929461d9ab79821fe65ec72d55445040320ccf789be5
+covered_bank_ids:
+- maybank
+publisher: TA Securities Holdings
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q1 2025/TA Securities
+  Holdings_Results Update_ Malayan Banking_26_May_2025.pdf

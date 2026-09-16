@@ -1,0 +1,21 @@
+document_id: maybank_analyst_report_2025_02_26_3d7f3ef658ed
+bank_id: maybank
+title: Still a dividend bastion
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-02-26'
+reporting_period:
+  start: '2025-02-26'
+  end: '2025-02-26'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: maybank/maybank_analyst_report_2025_02_26_3d7f3ef658ed.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 3d7f3ef658edac05f39c501408c079f1636b1508558585a169f714900faf3af2
+covered_bank_ids:
+- maybank
+- uob
+publisher: CLSA Limited
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q4 2024/CLSA Limited_Maybank
+  - O-PF (Still a dividend bastion)_26_Feb_2025.pdf

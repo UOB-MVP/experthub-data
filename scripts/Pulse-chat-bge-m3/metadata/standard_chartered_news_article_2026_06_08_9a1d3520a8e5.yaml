@@ -1,0 +1,22 @@
+document_id: standard_chartered_news_article_2026_06_08_9a1d3520a8e5
+bank_id: standard_chartered
+title: AXA, StanChart eye bigger slice of wealth market
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-06-08'
+reporting_period:
+  start: '2026-06-08'
+  end: '2026-06-08'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_news_article_2026_06_08_9a1d3520a8e5.pdf
+source_url: https://global.factiva.com/
+checksum: 6f04f99a0c77c5ba49bb549c756a10b28d5092c6a13e364b36fa6cbe3b3d194e
+covered_bank_ids:
+- standard_chartered
+publisher: South China Morning Post
+geography: Hong Kong
+source_document_id: SCMP000020260607EM6800001
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 62
+source_page_end: 63

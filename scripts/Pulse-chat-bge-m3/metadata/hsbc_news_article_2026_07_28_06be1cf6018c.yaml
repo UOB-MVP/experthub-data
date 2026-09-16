@@ -1,0 +1,23 @@
+document_id: hsbc_news_article_2026_07_28_06be1cf6018c
+bank_id: hsbc
+title: '‘Learning to play mahjong at 70 is not an easy feat’: healthcare experts say
+  make early investments to extend healthspan'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-07-28'
+reporting_period:
+  start: '2026-07-28'
+  end: '2026-07-28'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_07_28_06be1cf6018c.pdf
+source_url: https://global.factiva.com/
+checksum: 851087d0db5e955d4c377908864384cf67b2fcbc78dd316122f7e9771cf5b257
+covered_bank_ids:
+- hsbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260728EM7S002GX
+source_bundle: QtD/Factiva_Q2tD2026_2.pdf
+source_page_start: 20
+source_page_end: 21

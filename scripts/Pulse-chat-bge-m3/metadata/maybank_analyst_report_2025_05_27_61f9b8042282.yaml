@@ -1,0 +1,21 @@
+document_id: maybank_analyst_report_2025_05_27_61f9b8042282
+bank_id: maybank
+title: Results Note – Malayan Banking A decent 1Q25 result
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-05-27'
+reporting_period:
+  start: '2025-05-27'
+  end: '2025-05-27'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: maybank/maybank_analyst_report_2025_05_27_61f9b8042282.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 61f9b8042282a7ef4a55c82bce9c27a98b578a42e5dfcbfa8ad49ee2557db2a0
+covered_bank_ids:
+- maybank
+- cimb
+publisher: Affin Hwang
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q1 2025/Affin Hwang_Results
+  Note – Malayan Banking A decent 1Q25 result_27_May_2025.pdf

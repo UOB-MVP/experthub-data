@@ -1,0 +1,22 @@
+document_id: maybank_analyst_report_2023_11_22_644012860eac
+bank_id: maybank
+title: Microsoft Word - md231123
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2023-11-22'
+reporting_period:
+  start: '2023-11-22'
+  end: '2023-11-22'
+  period_type: point_in_time
+  fiscal_year: 2023
+source_file: maybank/maybank_analyst_report_2023_11_22_644012860eac.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 644012860eac61d471da153c70ba55197af34a6410fbcee2eace9cdf6838be46
+covered_bank_ids:
+- maybank
+- uob
+- cimb
+publisher: UOB Kay Hian
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q3 2023/UOB Kay Hian_Malayan
+  Banking - 3Q23_22_Nov_2023.pdf

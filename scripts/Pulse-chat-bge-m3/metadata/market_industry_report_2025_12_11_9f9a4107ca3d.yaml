@@ -1,0 +1,21 @@
+document_id: market_industry_report_2025_12_11_9f9a4107ca3d
+bank_id: market
+title: 'Financial services : Hong Kong'
+source_type: approved_third_party
+document_type: industry_report
+publication_date: '2025-12-11'
+reporting_period:
+  start: '2025-12-11'
+  end: '2025-12-11'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: market/market_industry_report_2025_12_11_9f9a4107ca3d.pdf
+source_url: https://viewpoint.eiu.com/analysis/geography/XO/HK/reports/ﬁnancial-services/2025-12-11
+checksum: 9f9a4107ca3dac161d792095227c103542518d06427295bfac385058ac8a418d
+covered_bank_ids:
+- market
+- hsbc
+- standard_chartered
+publisher: Economist Intelligence Unit
+geography: Hong Kong
+source_bundle: EMIS/Financial services _ Hong Kong SAR 2025.pdf

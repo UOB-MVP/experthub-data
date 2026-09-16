@@ -1,0 +1,22 @@
+document_id: standard_chartered_news_article_2026_05_25_c73e348f3bf8
+bank_id: standard_chartered
+title: Demeaning remarks on employees reflect badly on companies
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-05-25'
+reporting_period:
+  start: '2026-05-25'
+  end: '2026-05-25'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_news_article_2026_05_25_c73e348f3bf8.pdf
+source_url: https://global.factiva.com/
+checksum: c39e5e999a64b7c7ec70d5f1d7c8c41e38ff25c6f47c77503a17850f97100d86
+covered_bank_ids:
+- standard_chartered
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260525EM5P0000R
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 89
+source_page_end: 89

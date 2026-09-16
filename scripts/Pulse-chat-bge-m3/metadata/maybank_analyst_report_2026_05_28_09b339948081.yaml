@@ -1,0 +1,20 @@
+document_id: maybank_analyst_report_2026_05_28_09b339948081
+bank_id: maybank
+title: Results Note - Maybank - Some bumps in the road
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-05-28'
+reporting_period:
+  start: '2026-05-28'
+  end: '2026-05-28'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_analyst_report_2026_05_28_09b339948081.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 09b339948081e90d6461415b6b200ee7c93e26288afdc8cfd519e72c9899b1c8
+covered_bank_ids:
+- maybank
+publisher: Affin Hwang Investment Bank
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q1 2026/Affin Hwang Investment
+  Bank_Maybank_Some bumps in the road_28_May_2026.pdf

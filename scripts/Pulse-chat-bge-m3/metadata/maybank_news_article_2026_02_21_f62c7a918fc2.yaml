@@ -1,0 +1,22 @@
+document_id: maybank_news_article_2026_02_21_f62c7a918fc2
+bank_id: maybank
+title: Maybank IB keeps ‘buy’ call on IHH, KPJ
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-21'
+reporting_period:
+  start: '2026-02-21'
+  end: '2026-02-21'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_02_21_f62c7a918fc2.pdf
+source_url: https://global.factiva.com/
+checksum: 6c683d0e3cab363c5186b859eb189366b01eb21e28b4158e1078492673cee9b4
+covered_bank_ids:
+- maybank
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260223EM2L0000P
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q1/Factiva_CIMBMAY_Q1.pdf
+source_page_start: 28
+source_page_end: 28

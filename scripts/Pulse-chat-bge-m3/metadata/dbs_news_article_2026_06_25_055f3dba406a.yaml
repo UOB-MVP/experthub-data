@@ -1,0 +1,23 @@
+document_id: dbs_news_article_2026_06_25_055f3dba406a
+bank_id: dbs
+title: DBS provides US$210m loan to energy transition partnership under Singapore’s
+  blended finance initiative
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-06-25'
+reporting_period:
+  start: '2026-06-25'
+  end: '2026-06-25'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_06_25_055f3dba406a.pdf
+source_url: https://global.factiva.com/
+checksum: 8bf8923be4c25da7e67ce0ed3e764687190dab5d749e512462d7c6cc78ebe014
+covered_bank_ids:
+- dbs
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260625EM6P00008
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 16
+source_page_end: 16

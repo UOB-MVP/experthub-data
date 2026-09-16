@@ -1,0 +1,21 @@
+document_id: maybank_analyst_report_2023_11_23_7891752e1fad
+bank_id: maybank
+title: Maybank-3Q23-Adequate Liquidity
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2023-11-23'
+reporting_period:
+  start: '2023-11-23'
+  end: '2023-11-23'
+  period_type: point_in_time
+  fiscal_year: 2023
+source_file: maybank/maybank_analyst_report_2023_11_23_7891752e1fad.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 7891752e1fad759c962e1edd501ae3a423a0a8dda71e2437b3dbdc11b7b79937
+covered_bank_ids:
+- maybank
+- cimb
+publisher: MBSB Investment Bank
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q3 2023/MBSB Investment
+  Bank_Maybank-3Q23-Adequate Liquidity_23_Nov_2023.pdf

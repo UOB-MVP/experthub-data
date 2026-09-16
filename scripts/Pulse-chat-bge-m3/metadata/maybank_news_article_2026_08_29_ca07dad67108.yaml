@@ -1,0 +1,23 @@
+document_id: maybank_news_article_2026_08_29_ca07dad67108
+bank_id: maybank
+title: No change to ‘hold’ ratings on Maybank
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-29'
+reporting_period:
+  start: '2026-08-29'
+  end: '2026-08-29'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_08_29_ca07dad67108.pdf
+source_url: https://global.factiva.com/
+checksum: a57fbf732afd773c48dd850623da65596831fb950a88f3feca74b4ab1c7adfc8
+covered_bank_ids:
+- cimb
+- maybank
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260901EM8T00003
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/QtD/Factiva_CIMBMAY_QtD2026.pdf
+source_page_start: 4
+source_page_end: 4

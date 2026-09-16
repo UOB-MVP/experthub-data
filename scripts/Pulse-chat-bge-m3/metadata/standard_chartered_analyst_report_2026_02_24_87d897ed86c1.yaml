@@ -1,0 +1,16 @@
+document_id: standard_chartered_analyst_report_2026_02_24_87d897ed86c1
+bank_id: standard_chartered
+title: 'Standard Chartered: Q4 miss, change to guidance basis'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-02-24'
+reporting_period:
+  start: '2026-02-24'
+  end: '2026-02-24'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_analyst_report_2026_02_24_87d897ed86c1.pdf
+source_url: https://rsch.baml.com/r?q=2rdkYzlz8as
+checksum: 87d897ed86c15bf02ba3d6304048cf2e91fb8c6cc5e444ae38d249127cdf1e9b
+covered_bank_ids:
+- standard_chartered

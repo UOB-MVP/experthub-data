@@ -1,0 +1,23 @@
+document_id: hsbc_news_article_2026_07_27_d0f33c2a463c
+bank_id: hsbc
+title: 'Singapore’s longevity economy must improve lives, not drive unnecessary healthcare
+  spending: Ong Ye Kung'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-07-27'
+reporting_period:
+  start: '2026-07-27'
+  end: '2026-07-27'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_07_27_d0f33c2a463c.pdf
+source_url: https://global.factiva.com/
+checksum: e033c3d071cc3036808b2987863d425d1e7e2306083b5d013029bf82837afd60
+covered_bank_ids:
+- hsbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260727EM7R00008
+source_bundle: QtD/Factiva_Q2tD2026_2.pdf
+source_page_start: 28
+source_page_end: 29

@@ -1,0 +1,21 @@
+document_id: cimb_analyst_report_2025_09_02_da9c8ffe6930
+bank_id: cimb
+title: Microsoft Word - md250902
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-09-02'
+reporting_period:
+  start: '2025-09-02'
+  end: '2025-09-02'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: cimb/cimb_analyst_report_2025_09_02_da9c8ffe6930.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: da9c8ffe6930f85352e7c0cf9d81e47e96969e6fb6c0a0722c360a98c65a63eb
+covered_bank_ids:
+- cimb
+- uob
+publisher: UOB Kay Hian
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q2 2025/UOB Kay Hian_CIMB -
+  2Q25_ Recovery Underway_02_Sep_2025.pdf

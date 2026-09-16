@@ -1,0 +1,22 @@
+document_id: ocbc_news_article_2026_03_11_75ff828d79a5
+bank_id: ocbc
+title: Singapore’s peregrine falcon nanny cam back online after technical issues
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-03-11'
+reporting_period:
+  start: '2026-03-11'
+  end: '2026-03-11'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_news_article_2026_03_11_75ff828d79a5.pdf
+source_url: https://global.factiva.com/
+checksum: 0d0ba277e25bed50000ecd965756a281a00bd0769011195a0046b842ac79b8aa
+covered_bank_ids:
+- ocbc
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260311EM3B001JL
+source_bundle: Q1/Factiva_Q12026_1.pdf
+source_page_start: 71
+source_page_end: 72

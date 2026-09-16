@@ -1,0 +1,25 @@
+document_id: ocbc_news_article_2026_03_02_36537cac1adf
+bank_id: ocbc
+title: OCBC forges ahead of peers in Q4 earnings, but DBS still leads in dividend
+  yield
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-03-02'
+reporting_period:
+  start: '2026-03-02'
+  end: '2026-03-02'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_news_article_2026_03_02_36537cac1adf.pdf
+source_url: https://global.factiva.com/
+checksum: ba38bae0899eb7777f45cbe639908e76ebc63175aa0ca0be3156bf660745124c
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260302EM32001MD
+source_bundle: Q1/Factiva_Q12026_1.pdf
+source_page_start: 111
+source_page_end: 113

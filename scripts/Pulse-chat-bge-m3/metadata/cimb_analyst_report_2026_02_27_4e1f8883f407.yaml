@@ -1,0 +1,22 @@
+document_id: cimb_analyst_report_2026_02_27_4e1f8883f407
+bank_id: cimb
+title: Earnings and ROE guidance missed. Attractive risk-reward trading at 1.15x P/B,
+  maintain Buy.
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-02-27'
+reporting_period:
+  start: '2026-02-27'
+  end: '2026-02-27'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: cimb/cimb_analyst_report_2026_02_27_4e1f8883f407.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 4e1f8883f407e799b2deaf73ca37b05ba5bcf0d5f95341000a51204ecafcdc3f
+covered_bank_ids:
+- cimb
+- maybank
+publisher: UBS Investment Bank Research Division
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q4 2025/UBS Investment Bank
+  Research Division_First Read_ CIMB_27_Feb_2026.pdf

@@ -1,0 +1,22 @@
+document_id: hsbc_news_article_2026_07_28_618c15751f90
+bank_id: hsbc
+title: Blackstone to buy HSBC A$30b Australian loan book
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-07-28'
+reporting_period:
+  start: '2026-07-28'
+  end: '2026-07-28'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_07_28_618c15751f90.pdf
+source_url: https://global.factiva.com/
+checksum: 19ebb276907d782bdd328587beed8ad39ae27ec99fc0b226245121de98a8713a
+covered_bank_ids:
+- hsbc
+publisher: The Standard
+geography: Hong Kong
+source_document_id: HKIMAL0020260727EM7S00003
+source_bundle: QtD/Factiva_Q2tD2026_2.pdf
+source_page_start: 25
+source_page_end: 25

@@ -1,0 +1,16 @@
+document_id: uob_earnings_call_transcript_2025_02_19_021fd48012c4
+bank_id: uob
+title: United Overseas Bank Limited Earnings Call 2025-02-19 English
+source_type: approved_third_party
+document_type: earnings_call_transcript
+publication_date: '2025-02-19'
+reporting_period:
+  start: '2024-10-01'
+  end: '2024-12-31'
+  period_type: quarter
+  fiscal_year: 2024
+source_file: uob/uob_earnings_call_transcript_2025_02_19_021fd48012c4.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 021fd48012c48a9648cddd63acf630a6701d53e2a6d739696e32ca3e7c8bc8a3
+covered_bank_ids:
+- uob

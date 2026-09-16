@@ -1,0 +1,22 @@
+document_id: cimb_news_article_2026_08_28_b0386ed59605
+bank_id: cimb
+title: Malaysia maps out finance future
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-28'
+reporting_period:
+  start: '2026-08-28'
+  end: '2026-08-28'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: cimb/cimb_news_article_2026_08_28_b0386ed59605.pdf
+source_url: https://global.factiva.com/
+checksum: 406e75eb535a7e4f856c6c4209aa19ffc51c3a18608b4407feeefa3973756134
+covered_bank_ids:
+- cimb
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260828EM8S0000A
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/QtD/Factiva_CIMBMAY_QtD2026.pdf
+source_page_start: 5
+source_page_end: 5

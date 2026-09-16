@@ -1,0 +1,23 @@
+document_id: cimb_news_article_2026_04_17_01672e1ccc09
+bank_id: cimb
+title: ‘BERSATU RECEIVED RM5m IN 2021, 2022’
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-04-17'
+reporting_period:
+  start: '2026-04-17'
+  end: '2026-04-17'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: cimb/cimb_news_article_2026_04_17_01672e1ccc09.pdf
+source_url: https://global.factiva.com/
+checksum: 7ab0478387c2894f4054a145758d2a42f625c6ef87300b8787db23b1fabb3573
+covered_bank_ids:
+- cimb
+- maybank
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260417EM4H0000K
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q2/Factiva_CIMBMAY_Q2.pdf
+source_page_start: 37
+source_page_end: 37

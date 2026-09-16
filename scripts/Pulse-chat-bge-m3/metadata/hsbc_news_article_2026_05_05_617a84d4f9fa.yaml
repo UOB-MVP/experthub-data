@@ -1,0 +1,23 @@
+document_id: hsbc_news_article_2026_05_05_617a84d4f9fa
+bank_id: hsbc
+title: Creditor unrest Debt-laden Dubai food group IFFCO poised to enter provisional
+  liquidation
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-05-05'
+reporting_period:
+  start: '2026-05-05'
+  end: '2026-05-05'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_05_05_617a84d4f9fa.pdf
+source_url: https://global.factiva.com/
+checksum: efe3dd18c32274e7e93ddbdfe55a5f9e90ecd236b4874e19a9ad423ed59876b7
+covered_bank_ids:
+- hsbc
+publisher: Financial Times
+geography: Asia-Pacific
+source_document_id: FTFTA00020260505EM55000B9
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 177
+source_page_end: 177

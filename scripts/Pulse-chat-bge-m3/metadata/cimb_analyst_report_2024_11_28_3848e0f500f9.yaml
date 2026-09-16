@@ -1,0 +1,20 @@
+document_id: cimb_analyst_report_2024_11_28_3848e0f500f9
+bank_id: cimb
+title: Another Encouraging Quarter
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2024-11-28'
+reporting_period:
+  start: '2024-11-28'
+  end: '2024-11-28'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: cimb/cimb_analyst_report_2024_11_28_3848e0f500f9.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 3848e0f500f9fd4cbbd95e98c66506330ce2c6c8c53075e512a1b6f5cfe173c7
+covered_bank_ids:
+- cimb
+publisher: Public Investment Bank Berhad, Research Division
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q3 2024/Public Investment Bank
+  Berhad, Research Division_Another Encouraging Quarter_28_Nov_2024.pdf

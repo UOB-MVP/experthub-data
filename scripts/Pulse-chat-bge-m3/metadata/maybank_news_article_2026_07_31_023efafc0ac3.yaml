@@ -1,0 +1,22 @@
+document_id: maybank_news_article_2026_07_31_023efafc0ac3
+bank_id: maybank
+title: MAYBANK MOVES TO NEW HOME
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-07-31'
+reporting_period:
+  start: '2026-07-31'
+  end: '2026-07-31'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_07_31_023efafc0ac3.pdf
+source_url: https://global.factiva.com/
+checksum: 90f25a84d5fb77129602c5221602a871bc96d557fe11eab9a97e1a96d9657984
+covered_bank_ids:
+- maybank
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260731EM7V00004
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/QtD/Factiva_CIMBMAY_QtD2026.pdf
+source_page_start: 24
+source_page_end: 24

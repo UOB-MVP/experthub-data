@@ -1,0 +1,23 @@
+document_id: standard_chartered_news_article_2026_05_23_52ba6a188c94
+bank_id: standard_chartered
+title: StanChart CEO sorry for job comments
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-05-23'
+reporting_period:
+  start: '2026-05-23'
+  end: '2026-05-23'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_news_article_2026_05_23_52ba6a188c94.pdf
+source_url: https://global.factiva.com/
+checksum: 6466204cc529c15a0f11c8f9263878031e92023fc764dc1e5a2f2710215c757f
+covered_bank_ids:
+- hsbc
+- standard_chartered
+publisher: South China Morning Post
+geography: Hong Kong
+source_document_id: SCMP000020260522EM5N00004
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 92
+source_page_end: 93

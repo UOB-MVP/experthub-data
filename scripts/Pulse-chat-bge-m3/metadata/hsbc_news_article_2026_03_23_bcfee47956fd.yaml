@@ -1,0 +1,22 @@
+document_id: hsbc_news_article_2026_03_23_bcfee47956fd
+bank_id: hsbc
+title: HSBC vows to invest in China amid rising trade tensions
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-03-23'
+reporting_period:
+  start: '2026-03-23'
+  end: '2026-03-23'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_03_23_bcfee47956fd.pdf
+source_url: https://global.factiva.com/
+checksum: 84ccae702733f068f295ef3e7cb7c8332fc387f233f8e53f8945a13a03c865fa
+covered_bank_ids:
+- hsbc
+publisher: South China Morning Post
+geography: Hong Kong
+source_document_id: SCMP000020260322EM3N0000L
+source_bundle: Q1/Factiva_Q12026_1.pdf
+source_page_start: 30
+source_page_end: 31

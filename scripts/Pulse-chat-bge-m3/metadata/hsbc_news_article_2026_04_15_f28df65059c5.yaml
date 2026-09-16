@@ -1,0 +1,22 @@
+document_id: hsbc_news_article_2026_04_15_f28df65059c5
+bank_id: hsbc
+title: AI, rising middle class and trade to drive global growth
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-04-15'
+reporting_period:
+  start: '2026-04-15'
+  end: '2026-04-15'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_04_15_f28df65059c5.pdf
+source_url: https://global.factiva.com/
+checksum: 9910bb74dba1db624e6612c39bf7962494f99b33bf3a965e8890a78247a0e41f
+covered_bank_ids:
+- hsbc
+publisher: South China Morning Post
+geography: Hong Kong
+source_document_id: SCMP000020260414EM4F00017
+source_bundle: Q2/Factiva_Q22026_2.pdf
+source_page_start: 67
+source_page_end: 68

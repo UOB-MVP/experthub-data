@@ -1,0 +1,22 @@
+document_id: hsbc_news_article_2026_02_09_e2e69165fbcc
+bank_id: hsbc
+title: HSBC prepares to 'sweat' its $600bn debt machine
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-09'
+reporting_period:
+  start: '2026-02-09'
+  end: '2026-02-09'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_02_09_e2e69165fbcc.pdf
+source_url: https://global.factiva.com/
+checksum: 6443fec38bb07b99caec43e648b4038e4e74b6a2ca2f6fa196d9cf32a5f0e5e2
+covered_bank_ids:
+- hsbc
+publisher: Financial Times
+geography: Asia-Pacific
+source_document_id: FTFTA00020260209EM29000JM
+source_bundle: Q1/Factiva_Q12026_2.pdf
+source_page_start: 32
+source_page_end: 33

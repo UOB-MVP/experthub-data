@@ -1,0 +1,23 @@
+document_id: dbs_news_article_2026_02_20_45257c52459e
+bank_id: dbs
+title: DBS upgrades Genting to ‘buy’ amid huge cash reserves, constructive gaming
+  environment
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-20'
+reporting_period:
+  start: '2026-02-20'
+  end: '2026-02-20'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_02_20_45257c52459e.pdf
+source_url: https://global.factiva.com/
+checksum: 9aea862923b53c99a37bcb4003e27f525d9fa80ad011853dd4b74371199ec6a7
+covered_bank_ids:
+- dbs
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260220EM2K0000A
+source_bundle: Q1/Factiva_Q12026_1.pdf
+source_page_start: 177
+source_page_end: 177

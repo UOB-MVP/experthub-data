@@ -1,0 +1,23 @@
+document_id: uob_news_article_2026_02_10_1cc09e090e92
+bank_id: uob
+title: 'Daily Debrief: What Happened Today (Feb 10)'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-10'
+reporting_period:
+  start: '2026-02-10'
+  end: '2026-02-10'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/uob_news_article_2026_02_10_1cc09e090e92.pdf
+source_url: https://global.factiva.com/
+checksum: f9bf585806ccfee422424e8e7845c3f7d0124e6c244c11139bf96b4879a5f54d
+covered_bank_ids:
+- uob
+- dbs
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260210EM2A001MD
+source_bundle: Q1/Factiva_Q12026_2.pdf
+source_page_start: 21
+source_page_end: 21

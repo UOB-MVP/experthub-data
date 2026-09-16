@@ -1,0 +1,25 @@
+document_id: cimb_analyst_report_2026_02_27_64dd042c541e
+bank_id: cimb
+title: 'CIMB Group Holdings: First Take: PPoP and payout misses, pre-tax meets, medium-term
+  thesis intact'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-02-27'
+reporting_period:
+  start: '2026-02-27'
+  end: '2026-02-27'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: cimb/cimb_analyst_report_2026_02_27_64dd042c541e.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 64dd042c541e203762e85383706c698644eb63ded2a12aec0ca9e6f251cd21ed
+covered_bank_ids:
+- cimb
+- uob
+- dbs
+- ocbc
+- maybank
+publisher: J.P. Morgan
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q4 2025/JPMorgan_CIMB Group_First
+  Take_ PPoP and payout misses_27_Feb_2026.pdf

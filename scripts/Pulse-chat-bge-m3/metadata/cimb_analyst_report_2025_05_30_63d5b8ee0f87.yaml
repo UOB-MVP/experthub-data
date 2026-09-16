@@ -1,0 +1,24 @@
+document_id: cimb_analyst_report_2025_05_30_63d5b8ee0f87
+bank_id: cimb
+title: 'CIMB Group Holdings: First Take: Steady set of results, stock to move up'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-05-30'
+reporting_period:
+  start: '2025-05-30'
+  end: '2025-05-30'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: cimb/cimb_analyst_report_2025_05_30_63d5b8ee0f87.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 63d5b8ee0f873900d4e6a966830f7e429706fcb55d857f106de9cc87b98946a5
+covered_bank_ids:
+- cimb
+- uob
+- dbs
+- ocbc
+- maybank
+publisher: J.P. Morgan
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q1 2025/JPMorgan_CIMB_ First
+  Take_ Steady set of results_30_May_2025.pdf

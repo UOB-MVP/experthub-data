@@ -1,0 +1,22 @@
+document_id: standard_chartered_news_article_2026_07_31_f339fdc02194
+bank_id: standard_chartered
+title: 'Daily Debrief: What Happened Today (Jul 31)'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-07-31'
+reporting_period:
+  start: '2026-07-31'
+  end: '2026-07-31'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_news_article_2026_07_31_f339fdc02194.pdf
+source_url: https://global.factiva.com/
+checksum: bb7a3a62678eb36dd3f0edcf4d9840e9382b11d871bb1f481e36fb8a19ffbd20
+covered_bank_ids:
+- standard_chartered
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260731EM7V001XH
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 182
+source_page_end: 182

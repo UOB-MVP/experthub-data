@@ -1,0 +1,20 @@
+document_id: cimb_analyst_report_2026_02_27_c831f0a1d026
+bank_id: cimb
+title: Microsoft Word - CIMB 4QFY25
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-02-27'
+reporting_period:
+  start: '2026-02-27'
+  end: '2026-02-27'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: cimb/cimb_analyst_report_2026_02_27_c831f0a1d026.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: c831f0a1d026699814fd7aed9903b6e7c0ad844acd3dcdf9285e18242db2faea
+covered_bank_ids:
+- cimb
+publisher: TA Securities Holdings Berhad
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q4 2025/TA Securities Holdings
+  Berhad_Results Update_ CIMB_27_Feb_2026.pdf

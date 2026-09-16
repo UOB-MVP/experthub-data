@@ -1,0 +1,14 @@
+document_id: standard_chartered_plc_annual_report_2025_en
+bank_id: standard_chartered
+title: Standard Chartered PLC Annual Report 2025
+source_type: official
+document_type: annual_report
+publication_date: "2026-02-24"
+reporting_period:
+  start: "2025-01-01"
+  end: "2025-12-31"
+  period_type: fiscal_year
+  fiscal_year: 2025
+source_file: standard_chartered/standard-chartered-plc-annual-report-2025.pdf
+source_url: https://www.sc.com/en/uploads/sites/66/content/docs/standard-chartered-plc-2025-annual-report.pdf
+checksum: 83e3dd2b671f9e40faaa4b69be7aa6df41a8f05a4f7f8fb5eca8e8ea035ed80d

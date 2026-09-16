@@ -1,0 +1,22 @@
+document_id: dbs_news_article_2026_04_29_a93d9dacb136
+bank_id: dbs
+title: DBS to pay 81 cents per share in dividends as Q1 profit rises 1% to $2.93 billion
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-04-29'
+reporting_period:
+  start: '2026-04-29'
+  end: '2026-04-29'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_04_29_a93d9dacb136.pdf
+source_url: https://global.factiva.com/
+checksum: b42fe11bf1a3252cd064ad9d1cab1be5fd585ea31f5cd91e5c8b3da772a77326
+covered_bank_ids:
+- dbs
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260430EM4T00001
+source_bundle: Q2/Factiva_Q22026_2.pdf
+source_page_start: 10
+source_page_end: 10

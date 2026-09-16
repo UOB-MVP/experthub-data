@@ -1,0 +1,20 @@
+document_id: cimb_analyst_report_2024_11_28_80b9ba7d850d
+bank_id: cimb
+title: Result Note – CIMB - No negative surprises
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2024-11-28'
+reporting_period:
+  start: '2024-11-28'
+  end: '2024-11-28'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: cimb/cimb_analyst_report_2024_11_28_80b9ba7d850d.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 80b9ba7d850d0f483767e7bcf04bb1442867a8f6a5c42deac05461e69261bdb3
+covered_bank_ids:
+- cimb
+publisher: Affin Hwang Investment Bank
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q3 2024/Affin Hwang Investment
+  Bank_Result Note – CIMB - No negative surprises_28_Nov_2024.pdf

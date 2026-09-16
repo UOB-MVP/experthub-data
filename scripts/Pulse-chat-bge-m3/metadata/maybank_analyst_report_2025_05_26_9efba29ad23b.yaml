@@ -1,0 +1,21 @@
+document_id: maybank_analyst_report_2025_05_26_9efba29ad23b
+bank_id: maybank
+title: Still at green alert
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-05-26'
+reporting_period:
+  start: '2025-05-26'
+  end: '2025-05-26'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: maybank/maybank_analyst_report_2025_05_26_9efba29ad23b.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 9efba29ad23bea05cfaac5598b8b8adbafbce43a3a88340f8ba7b7853631cead
+covered_bank_ids:
+- maybank
+- uob
+publisher: CLSA Limited
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q1 2025/CLSA Limited_Maybank
+  - O-PF (Still at green alert)_26_May_2025.pdf

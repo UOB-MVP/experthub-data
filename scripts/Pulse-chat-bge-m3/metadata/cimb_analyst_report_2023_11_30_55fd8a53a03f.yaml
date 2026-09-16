@@ -1,0 +1,20 @@
+document_id: cimb_analyst_report_2023_11_30_55fd8a53a03f
+bank_id: cimb
+title: CIMB-3Q23-ROE Optimisation
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2023-11-30'
+reporting_period:
+  start: '2023-11-30'
+  end: '2023-11-30'
+  period_type: point_in_time
+  fiscal_year: 2023
+source_file: cimb/cimb_analyst_report_2023_11_30_55fd8a53a03f.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 55fd8a53a03feea8fa50d6f611d6ba00ed0dc66c27abb276b09727adec3f8f16
+covered_bank_ids:
+- cimb
+publisher: MBSB Investment Bank
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q3 2023/MBSB Investment Bank_CIMB-3Q23-ROE
+  Optimisation_30_Nov_2023.pdf

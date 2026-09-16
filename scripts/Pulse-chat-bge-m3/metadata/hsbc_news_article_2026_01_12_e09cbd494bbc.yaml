@@ -1,0 +1,23 @@
+document_id: hsbc_news_article_2026_01_12_e09cbd494bbc
+bank_id: hsbc
+title: HSBC, other HK lenders cut time-deposit rates
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-01-12'
+reporting_period:
+  start: '2026-01-12'
+  end: '2026-01-12'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_01_12_e09cbd494bbc.pdf
+source_url: https://global.factiva.com/
+checksum: 573513734bd80842e88fa063060f97997e2466c42456ce564b407995387fca0c
+covered_bank_ids:
+- ocbc
+- hsbc
+publisher: The Standard
+geography: Hong Kong
+source_document_id: HKIMAL0020260115EM1C0005M
+source_bundle: Q1/Factiva_Q12026_2.pdf
+source_page_start: 123
+source_page_end: 123

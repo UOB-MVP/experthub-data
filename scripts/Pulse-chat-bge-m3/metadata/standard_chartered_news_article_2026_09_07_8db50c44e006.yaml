@@ -1,0 +1,23 @@
+document_id: standard_chartered_news_article_2026_09_07_8db50c44e006
+bank_id: standard_chartered
+title: StanChart sees China-Asean growth accelerating as ‘China Plus N’ strategy takes
+  hold
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-09-07'
+reporting_period:
+  start: '2026-09-07'
+  end: '2026-09-07'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_news_article_2026_09_07_8db50c44e006.pdf
+source_url: https://global.factiva.com/
+checksum: 1f15c9d8c507bcd708a9f54ba48ea0b957d5987f79e742173242d61f0d26b362
+covered_bank_ids:
+- standard_chartered
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260907EM970000G
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 8
+source_page_end: 9

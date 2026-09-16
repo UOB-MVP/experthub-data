@@ -1,0 +1,26 @@
+document_id: ocbc_news_article_2026_05_09_940c2dfc3f07
+bank_id: ocbc
+title: OCBC’s Indonesia deal a ‘perfect fit’ for Asean wealth ambitions, says CEO,
+  as Q1 profit beats estimates
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-05-09'
+reporting_period:
+  start: '2026-05-09'
+  end: '2026-05-09'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_news_article_2026_05_09_940c2dfc3f07.pdf
+source_url: https://global.factiva.com/
+checksum: 076636a4cc5817619898e62ffa9546661e91e5c38be4775b27288b238239dfec
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+- hsbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260509EM5900005
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 156
+source_page_end: 157

@@ -1,0 +1,21 @@
+document_id: maybank_analyst_report_2024_08_29_8f2768af6944
+bank_id: maybank
+title: Malayan Banking - Mammoth Market Share and Gains
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2024-08-29'
+reporting_period:
+  start: '2024-08-29'
+  end: '2024-08-29'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: maybank/maybank_analyst_report_2024_08_29_8f2768af6944.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 8f2768af69444dd4c58a6871b88d2509b625dbb158c3495c37732ee0c205e6d4
+covered_bank_ids:
+- maybank
+- cimb
+publisher: AUERBACH GRAYSON
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q2 2024/AUERBACH GRAYSON_
+  Malayan Banking - Mammoth Market Share and Gains_29_Aug_2024.pdf

@@ -1,0 +1,24 @@
+document_id: dbs_news_article_2026_08_25_037c8435719f
+bank_id: dbs
+title: STI’s growth reflects Singapore’s economic depth and diversity, say analysts
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-25'
+reporting_period:
+  start: '2026-08-25'
+  end: '2026-08-25'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_08_25_037c8435719f.pdf
+source_url: https://global.factiva.com/
+checksum: 68c31978d23fe3e719e7a69576b467c61fc05d0550356c34f363e293d7eb81ee
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260825EM8P001PF
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 45
+source_page_end: 46

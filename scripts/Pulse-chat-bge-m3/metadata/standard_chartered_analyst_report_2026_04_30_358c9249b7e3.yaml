@@ -1,0 +1,17 @@
+document_id: standard_chartered_analyst_report_2026_04_30_358c9249b7e3
+bank_id: standard_chartered
+title: JPMorgan Chase & Co Research Division Standard Chartered Plc (HK) (2888)  1Q26  Revenue
+  PBT beat; Middle East overlay built; ROTE jumps to 17.4% - reiterate OW 30 Apr 2026
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-04-30'
+reporting_period:
+  start: '2026-04-30'
+  end: '2026-04-30'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_analyst_report_2026_04_30_358c9249b7e3.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 358c9249b7e3b38ae3f326b1453673ff12c060b443d89865fcd12570d37bdf79
+covered_bank_ids:
+- standard_chartered

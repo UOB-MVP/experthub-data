@@ -1,0 +1,25 @@
+document_id: dbs_news_article_2026_02_06_845a29b9bac1
+bank_id: dbs
+title: Margin relief lifts outlook for DBS, OCBC and UOB, extending Singapore bank
+  rally
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-06'
+reporting_period:
+  start: '2026-02-06'
+  end: '2026-02-06'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_02_06_845a29b9bac1.pdf
+source_url: https://global.factiva.com/
+checksum: 3188e47fc689a699cc2f85b780b2c82fc8937041d4cbe2f603491e436f579ada
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260206EM2600008
+source_bundle: Q1/Factiva_Q12026_2.pdf
+source_page_start: 45
+source_page_end: 46

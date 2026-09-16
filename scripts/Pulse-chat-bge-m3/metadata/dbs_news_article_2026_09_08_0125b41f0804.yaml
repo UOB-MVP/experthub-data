@@ -1,0 +1,25 @@
+document_id: dbs_news_article_2026_09_08_0125b41f0804
+bank_id: dbs
+title: DBS, Citi bypass traditional banking hours in cross-border tokenised deposit
+  trial
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-09-08'
+reporting_period:
+  start: '2026-09-08'
+  end: '2026-09-08'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_09_08_0125b41f0804.pdf
+source_url: https://global.factiva.com/
+checksum: e3c7bef81f98868bf207844c9fe27c0125cc85b7357631b5cc08493a02e6c50b
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260908EM9800001
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 5
+source_page_end: 6

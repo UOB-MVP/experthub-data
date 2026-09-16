@@ -1,0 +1,22 @@
+document_id: ocbc_news_article_2026_05_16_fe7ed39e8c38
+bank_id: ocbc
+title: OCBC steps up wealth management push in Hong Kong
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-05-16'
+reporting_period:
+  start: '2026-05-16'
+  end: '2026-05-16'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_news_article_2026_05_16_fe7ed39e8c38.pdf
+source_url: https://global.factiva.com/
+checksum: fca06c250ec843a1ea6f8122ca57d1e2a5ef86fa151be7d80da2362ee2275054
+covered_bank_ids:
+- ocbc
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260516EM5G00014
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 132
+source_page_end: 133

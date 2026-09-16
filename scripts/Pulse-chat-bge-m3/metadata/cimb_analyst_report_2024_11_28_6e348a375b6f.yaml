@@ -1,0 +1,20 @@
+document_id: cimb_analyst_report_2024_11_28_6e348a375b6f
+bank_id: cimb
+title: Microsoft Word - CIMB3QFY24
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2024-11-28'
+reporting_period:
+  start: '2024-11-28'
+  end: '2024-11-28'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: cimb/cimb_analyst_report_2024_11_28_6e348a375b6f.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 6e348a375b6ffd047e3f35c80a9463aa4b27917e815753b1a269f64eaf534e9f
+covered_bank_ids:
+- cimb
+publisher: TA Securities Holdings
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q3 2024/TA Securities Holdings_Results
+  Update_ CIMB_28_Nov_2024.pdf

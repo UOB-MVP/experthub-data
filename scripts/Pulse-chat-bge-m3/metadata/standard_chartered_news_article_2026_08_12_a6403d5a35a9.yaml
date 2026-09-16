@@ -1,0 +1,22 @@
+document_id: standard_chartered_news_article_2026_08_12_a6403d5a35a9
+bank_id: standard_chartered
+title: City’s rich see travel as investment, poll finds
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-12'
+reporting_period:
+  start: '2026-08-12'
+  end: '2026-08-12'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_news_article_2026_08_12_a6403d5a35a9.pdf
+source_url: https://global.factiva.com/
+checksum: 0f0f5f184518bdbddb673c21353f2d08b919b74f06f0a76905e135e1db8c6a03
+covered_bank_ids:
+- standard_chartered
+publisher: South China Morning Post
+geography: Hong Kong
+source_document_id: SCMP000020260811EM8C00012
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 108
+source_page_end: 108

@@ -1,0 +1,24 @@
+document_id: cimb_analyst_report_2025_08_31_bc2b1bdd0e40
+bank_id: cimb
+title: Company Snapshot - CIMB Group Holdings Bhd
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-08-31'
+reporting_period:
+  start: '2025-08-31'
+  end: '2025-08-31'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: cimb/cimb_analyst_report_2025_08_31_bc2b1bdd0e40.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: bc2b1bdd0e40f00b9d64448a73166131383e7077408768840d9c15477f5d30a6
+covered_bank_ids:
+- cimb
+- uob
+- ocbc
+- standard_chartered
+- maybank
+publisher: Acquisdata Pty. Ltd.
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q2 2025/Acquisdata Pty. Ltd._Company
+  Snapshot - CIMB Group Holdings Bhd_31_Aug_2025.pdf

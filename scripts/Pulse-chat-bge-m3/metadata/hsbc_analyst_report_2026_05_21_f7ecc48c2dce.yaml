@@ -1,0 +1,16 @@
+document_id: hsbc_analyst_report_2026_05_21_f7ecc48c2dce
+bank_id: hsbc
+title: 'HSBC Holdings: Research Tactical Idea'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-05-21'
+reporting_period:
+  start: '2026-05-21'
+  end: '2026-05-21'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_analyst_report_2026_05_21_f7ecc48c2dce.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: f7ecc48c2dce562ce123183a3a9456c5bb97b4250c72f5ecd3a834336ff5b45c
+covered_bank_ids:
+- hsbc

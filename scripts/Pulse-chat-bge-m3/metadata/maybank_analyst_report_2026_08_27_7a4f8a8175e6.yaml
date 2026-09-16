@@ -1,0 +1,20 @@
+document_id: maybank_analyst_report_2026_08_27_7a4f8a8175e6
+bank_id: maybank
+title: Maybank 2Q26 inline with soft topline offset
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-08-27'
+reporting_period:
+  start: '2026-08-27'
+  end: '2026-08-27'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_analyst_report_2026_08_27_7a4f8a8175e6.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 7a4f8a8175e61cdb589387a1979f3ffe1dba78af70db3662f8da7e8aee47cd90
+covered_bank_ids:
+- maybank
+publisher: Citigroup
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q2 2026/Citigroup_Maybank_
+  2Q26 inline with soft topline offset_27_Aug_2026.pdf

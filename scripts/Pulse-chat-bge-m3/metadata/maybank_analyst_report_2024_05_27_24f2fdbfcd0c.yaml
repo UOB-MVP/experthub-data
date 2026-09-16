@@ -1,0 +1,20 @@
+document_id: maybank_analyst_report_2024_05_27_24f2fdbfcd0c
+bank_id: maybank
+title: Another Steady Quarter
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2024-05-27'
+reporting_period:
+  start: '2024-05-27'
+  end: '2024-05-27'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: maybank/maybank_analyst_report_2024_05_27_24f2fdbfcd0c.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 24f2fdbfcd0c7e1a811e3bc8eeb5f8f133481d38da7d6a360242156019ea59fd
+covered_bank_ids:
+- maybank
+publisher: Public Investment Bank
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q1 2024/Public Investment
+  Bank_Another Steady Quarter_27_May_2024.pdf

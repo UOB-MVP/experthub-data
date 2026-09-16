@@ -1,0 +1,22 @@
+document_id: ocbc_news_article_2026_05_15_8abed44352ce
+bank_id: ocbc
+title: OCBC inks partnership with Australia to boost regional investment, trade
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-05-15'
+reporting_period:
+  start: '2026-05-15'
+  end: '2026-05-15'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_news_article_2026_05_15_8abed44352ce.pdf
+source_url: https://global.factiva.com/
+checksum: b44b554b39f1f7c10054cb63fc83b05414893af97c16c4b31ebffd0f6d312ec7
+covered_bank_ids:
+- ocbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260515EM5F00003
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 136
+source_page_end: 137

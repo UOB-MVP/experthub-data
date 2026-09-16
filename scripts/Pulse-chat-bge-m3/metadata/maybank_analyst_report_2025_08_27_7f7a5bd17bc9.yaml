@@ -1,0 +1,20 @@
+document_id: maybank_analyst_report_2025_08_27_7f7a5bd17bc9
+bank_id: maybank
+title: Maybank-2Q25-Weak Loan Growth
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-08-27'
+reporting_period:
+  start: '2025-08-27'
+  end: '2025-08-27'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: maybank/maybank_analyst_report_2025_08_27_7f7a5bd17bc9.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 7f7a5bd17bc984dd60e650ba5c9ebae2293d55608a81f71182d9783dd0df3463
+covered_bank_ids:
+- maybank
+publisher: MBSB Investment Bank
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q2 2025/MBSB Investment
+  Bank_Maybank-2Q25-Weak Loan Growth_27_Aug_2025.pdf

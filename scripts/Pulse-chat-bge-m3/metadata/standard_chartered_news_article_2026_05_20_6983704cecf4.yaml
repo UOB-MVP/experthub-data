@@ -1,0 +1,25 @@
+document_id: standard_chartered_news_article_2026_05_20_6983704cecf4
+bank_id: standard_chartered
+title: StanChart Singapore to hire more wealth bankers amid plans to cut over 7,000
+  jobs globally
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-05-20'
+reporting_period:
+  start: '2026-05-20'
+  end: '2026-05-20'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_news_article_2026_05_20_6983704cecf4.pdf
+source_url: https://global.factiva.com/
+checksum: 8cc4fab50c82a270b3126e0e8904cb6ef356fd9527f10cad1630608b6471c0b5
+covered_bank_ids:
+- uob
+- ocbc
+- standard_chartered
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260520EM5K0000K
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 110
+source_page_end: 111

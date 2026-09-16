@@ -1,0 +1,21 @@
+document_id: maybank_analyst_report_2025_11_24_33c8bb7e705e
+bank_id: maybank
+title: Microsoft Word - md251124
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-11-24'
+reporting_period:
+  start: '2025-11-24'
+  end: '2025-11-24'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: maybank/maybank_analyst_report_2025_11_24_33c8bb7e705e.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 33c8bb7e705e3ddd076bbbbb74579e68027fd3b89a3a39fd201b7441e3749c62
+covered_bank_ids:
+- maybank
+- uob
+publisher: UOB Kay Hian
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q3 2025/UOB Kay Hian_Malayan
+  Banking - 3Q25_ NIM Showing Resilience_24_Nov_2025.pdf

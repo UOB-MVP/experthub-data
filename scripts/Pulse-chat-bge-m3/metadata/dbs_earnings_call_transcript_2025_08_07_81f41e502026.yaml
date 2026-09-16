@@ -1,0 +1,16 @@
+document_id: dbs_earnings_call_transcript_2025_08_07_81f41e502026
+bank_id: dbs
+title: DBS Group Holdings Ltd Earnings Call 2025-08-07 English
+source_type: approved_third_party
+document_type: earnings_call_transcript
+publication_date: '2025-08-07'
+reporting_period:
+  start: '2025-04-01'
+  end: '2025-06-30'
+  period_type: quarter
+  fiscal_year: 2025
+source_file: dbs/dbs_earnings_call_transcript_2025_08_07_81f41e502026.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 81f41e5020261f587be8ea0adaf371aabacb7c56163af18f0cdfae52c340ae2f
+covered_bank_ids:
+- dbs

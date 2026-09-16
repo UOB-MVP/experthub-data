@@ -1,0 +1,20 @@
+document_id: maybank_analyst_report_2024_02_28_c1c1db79acf5
+bank_id: maybank
+title: Maybank- 4Q23 beat with strong loans growth
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2024-02-28'
+reporting_period:
+  start: '2024-02-28'
+  end: '2024-02-28'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: maybank/maybank_analyst_report_2024_02_28_c1c1db79acf5.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: c1c1db79acf5a072768d1b080b0478954681471678af990199dacb844d1978cc
+covered_bank_ids:
+- maybank
+publisher: Nomura Securities
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q4 2023/Nomura Securities_Maybank-
+  4Q23 beat with strong loans growth_28_Feb_2024.pdf

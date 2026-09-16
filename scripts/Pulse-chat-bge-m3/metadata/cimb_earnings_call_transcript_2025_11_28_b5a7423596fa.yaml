@@ -1,0 +1,19 @@
+document_id: cimb_earnings_call_transcript_2025_11_28_b5a7423596fa
+bank_id: cimb
+title: CIMB Group Holdings Berhad FQ3 2025 Earnings Call Transcript
+source_type: approved_third_party
+document_type: earnings_call_transcript
+publication_date: '2025-11-28'
+reporting_period:
+  start: '2025-07-01'
+  end: '2025-09-30'
+  period_type: quarter
+  fiscal_year: 2025
+source_file: cimb/cimb_earnings_call_transcript_2025_11_28_b5a7423596fa.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: b5a7423596fab2272fc65069f366d45320cc1648c6e2c9f863c6b1304ef29bf3
+covered_bank_ids:
+- cimb
+publisher: S&P Global Market Intelligence
+geography: Malaysia
+source_bundle: earnings call CIMB.zip/CIMB/CIMB_Transcript_Q32025.pdf

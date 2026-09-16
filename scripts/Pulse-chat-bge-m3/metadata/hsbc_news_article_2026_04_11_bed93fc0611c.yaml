@@ -1,0 +1,23 @@
+document_id: hsbc_news_article_2026_04_11_bed93fc0611c
+bank_id: hsbc
+title: First stablecoin licences awarded to HSBC and group led by StanChart
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-04-11'
+reporting_period:
+  start: '2026-04-11'
+  end: '2026-04-11'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_04_11_bed93fc0611c.pdf
+source_url: https://global.factiva.com/
+checksum: dfb03a2f86483270c4bebd44d07d0ed0f9bf990103eb918907101e89e946c2ae
+covered_bank_ids:
+- hsbc
+- standard_chartered
+publisher: South China Morning Post
+geography: Hong Kong
+source_document_id: SCMP000020260410EM4B0000U
+source_bundle: Q2/Factiva_Q22026_2.pdf
+source_page_start: 77
+source_page_end: 78

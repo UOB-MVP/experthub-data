@@ -1,0 +1,24 @@
+document_id: dbs_news_article_2026_01_20_940e2134990f
+bank_id: dbs
+title: Booking of CNY hongbao notes to start on Jan 27
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-01-20'
+reporting_period:
+  start: '2026-01-20'
+  end: '2026-01-20'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_01_20_940e2134990f.pdf
+source_url: https://global.factiva.com/
+checksum: 3f948db301aa1f5eb41358241dddc62178c44df0dd962c305b7e1fdae6e86700
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260120EM1K0008J
+source_bundle: Q1/Factiva_Q12026_2.pdf
+source_page_start: 100
+source_page_end: 101

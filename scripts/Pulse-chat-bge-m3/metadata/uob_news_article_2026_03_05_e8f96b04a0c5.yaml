@@ -1,0 +1,24 @@
+document_id: uob_news_article_2026_03_05_e8f96b04a0c5
+bank_id: uob
+title: TOC editor, publisher ordered to pay $125k for defaming UOB over ‘baseless’
+  claims
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-03-05'
+reporting_period:
+  start: '2026-03-05'
+  end: '2026-03-05'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/uob_news_article_2026_03_05_e8f96b04a0c5.pdf
+source_url: https://global.factiva.com/
+checksum: ebab9ee4c498184f3d0b462f19fcefb859da54e73b819fae1539151fb79c061a
+covered_bank_ids:
+- uob
+- ocbc
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260305EM350000T
+source_bundle: Q1/Factiva_Q12026_1.pdf
+source_page_start: 98
+source_page_end: 99

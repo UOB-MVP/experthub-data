@@ -1,0 +1,23 @@
+document_id: ocbc_news_article_2026_02_20_66df9c493904
+bank_id: ocbc
+title: Gold and silver beat equities, unit trust funds as top entry point for new
+  OCBC retail investors
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-20'
+reporting_period:
+  start: '2026-02-20'
+  end: '2026-02-20'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_news_article_2026_02_20_66df9c493904.pdf
+source_url: https://global.factiva.com/
+checksum: 1015f2aa5e25b62d8c3d85bf1c58eafcb6b12e44d9a4ec29fd5f0ee313aebbf7
+covered_bank_ids:
+- ocbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260220EM2K00003
+source_bundle: Q1/Factiva_Q12026_1.pdf
+source_page_start: 178
+source_page_end: 178

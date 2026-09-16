@@ -1,0 +1,22 @@
+document_id: hsbc_news_article_2026_06_16_5081ac584539
+bank_id: hsbc
+title: HSBC and Hang Seng apps restored after glitches lock out customers
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-06-16'
+reporting_period:
+  start: '2026-06-16'
+  end: '2026-06-16'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_06_16_5081ac584539.pdf
+source_url: https://global.factiva.com/
+checksum: 951f30dc6dbc87baadd3ffe1ae2df4954fcb2db4c02f5db22c65733d0463fdd7
+covered_bank_ids:
+- hsbc
+publisher: South China Morning Post
+geography: Hong Kong
+source_document_id: SCMP000020260615EM6G00001
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 39
+source_page_end: 40

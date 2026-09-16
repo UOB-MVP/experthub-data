@@ -1,0 +1,20 @@
+document_id: maybank_analyst_report_2024_05_24_461372425e25
+bank_id: maybank
+title: Maybank - Solid quarter helped by NOII
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2024-05-24'
+reporting_period:
+  start: '2024-05-24'
+  end: '2024-05-24'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: maybank/maybank_analyst_report_2024_05_24_461372425e25.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 461372425e259c07cab19f7985a0a1b176414b6bc79100ec2e6496b3025aca9a
+covered_bank_ids:
+- maybank
+publisher: Nomura Securities
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q1 2024/Nomura Securities_Maybank
+  - Solid quarter helped by NOII_24_May_2024.pdf

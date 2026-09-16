@@ -1,0 +1,22 @@
+document_id: maybank_news_article_2026_02_13_a554572e8cd3
+bank_id: maybank
+title: KEE MING BREAKS RECORD
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-13'
+reporting_period:
+  start: '2026-02-13'
+  end: '2026-02-13'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_02_13_a554572e8cd3.pdf
+source_url: https://global.factiva.com/
+checksum: f21bbd1e85dcaeb7957de7a6fbad7e132bade85877d0333dba33c2cc5a42121d
+covered_bank_ids:
+- maybank
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260213EM2D0000F
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q1/Factiva_CIMBMAY_Q1.pdf
+source_page_start: 38
+source_page_end: 38

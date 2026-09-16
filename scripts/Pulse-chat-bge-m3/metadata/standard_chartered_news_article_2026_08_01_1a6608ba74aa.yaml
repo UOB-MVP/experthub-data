@@ -1,0 +1,22 @@
+document_id: standard_chartered_news_article_2026_08_01_1a6608ba74aa
+bank_id: standard_chartered
+title: StanChart to transfer part of credit card, personal loan clients to Trust Bank
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-01'
+reporting_period:
+  start: '2026-08-01'
+  end: '2026-08-01'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_news_article_2026_08_01_1a6608ba74aa.pdf
+source_url: https://global.factiva.com/
+checksum: adf48d7df0442a2c85bd4417fee39cba3433c459fbc0bd9c6e859eae8136e98c
+covered_bank_ids:
+- standard_chartered
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260801EM810000G
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 179
+source_page_end: 180

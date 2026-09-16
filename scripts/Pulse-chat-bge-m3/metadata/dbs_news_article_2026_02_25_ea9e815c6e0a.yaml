@@ -1,0 +1,23 @@
+document_id: dbs_news_article_2026_02_25_ea9e815c6e0a
+bank_id: dbs
+title: 'Budget 2026 helps SMEs reposition for long-term competitiveness amid fragmented
+  global environment: DBS'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-25'
+reporting_period:
+  start: '2026-02-25'
+  end: '2026-02-25'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_02_25_ea9e815c6e0a.pdf
+source_url: https://global.factiva.com/
+checksum: 28369e5d6489099fdccd790d3952da44ad50840530a3963062509d7adc16943d
+covered_bank_ids:
+- dbs
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260225EM2P00001
+source_bundle: Q1/Factiva_Q12026_1.pdf
+source_page_start: 145
+source_page_end: 147

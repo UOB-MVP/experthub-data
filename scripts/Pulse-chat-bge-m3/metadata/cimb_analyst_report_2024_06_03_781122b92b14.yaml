@@ -1,0 +1,20 @@
+document_id: cimb_analyst_report_2024_06_03_781122b92b14
+bank_id: cimb
+title: CIMB-1Q24-High CET 1 Ratio
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2024-06-03'
+reporting_period:
+  start: '2024-06-03'
+  end: '2024-06-03'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: cimb/cimb_analyst_report_2024_06_03_781122b92b14.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 781122b92b148ebcd3af323abb7caabc23eb143c1aaa314b66938cf66115246f
+covered_bank_ids:
+- cimb
+publisher: MBSB Investment Bank
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q1 2024/MBSB Investment Bank_CIMB-1Q24-High
+  CET 1 Ratio_03_Jun_2024.pdf

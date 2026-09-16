@@ -1,0 +1,22 @@
+document_id: market_industry_report_2025_07_09_b3b8ea05a8fe
+bank_id: market
+title: 'Financial services : Indonesia'
+source_type: approved_third_party
+document_type: industry_report
+publication_date: '2025-07-09'
+reporting_period:
+  start: '2025-07-09'
+  end: '2025-07-09'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: market/market_industry_report_2025_07_09_b3b8ea05a8fe.pdf
+source_url: https://viewpoint.eiu.com/analysis/geography/XO/ID/reports/ﬁnancial-services/2025-07-09
+checksum: b3b8ea05a8feae553370489efe8786936729b0824f2326a93cd802a600b5ad78
+covered_bank_ids:
+- market
+- uob
+- dbs
+- ocbc
+publisher: Economist Intelligence Unit
+geography: Indonesia
+source_bundle: EMIS/Financial services _ Indonesia 2025 (1).pdf

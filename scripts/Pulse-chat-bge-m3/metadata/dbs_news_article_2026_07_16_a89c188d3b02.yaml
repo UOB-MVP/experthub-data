@@ -1,0 +1,23 @@
+document_id: dbs_news_article_2026_07_16_a89c188d3b02
+bank_id: dbs
+title: DBS eyeing $1 trillion in wealth assets by 2030, banking on AI to expand business
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-07-16'
+reporting_period:
+  start: '2026-07-16'
+  end: '2026-07-16'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_07_16_a89c188d3b02.pdf
+source_url: https://global.factiva.com/
+checksum: 2ed2656b4d02b1fc15dfb91de942908adb644933d295a6c7e07019f88e9637ff
+covered_bank_ids:
+- dbs
+- ocbc
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260716EM7G0000H
+source_bundle: QtD/Factiva_Q2tD2026_2.pdf
+source_page_start: 60
+source_page_end: 61

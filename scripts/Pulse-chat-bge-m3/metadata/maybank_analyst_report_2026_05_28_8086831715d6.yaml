@@ -1,0 +1,25 @@
+document_id: maybank_analyst_report_2026_05_28_8086831715d6
+bank_id: maybank
+title: 'Maybank (Malayan Banking): First Take: Weak trading drives 1Q26 miss; capital
+  return is key'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-05-28'
+reporting_period:
+  start: '2026-05-28'
+  end: '2026-05-28'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_analyst_report_2026_05_28_8086831715d6.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 8086831715d65282e406f0b6818a74bc8bdee59700a527c55015d12d756a3f48
+covered_bank_ids:
+- maybank
+- uob
+- dbs
+- ocbc
+- cimb
+publisher: J.P. Morgan
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q1 2026/JPMorgan_Maybank_
+  First Take_ Weak trading drives 1Q26 miss_28_May_2026.pdf

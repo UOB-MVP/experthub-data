@@ -1,0 +1,22 @@
+document_id: maybank_news_article_2026_01_16_8147f34e6738
+bank_id: maybank
+title: DOMESTIC FUNDAMENTALS BACK RINGGIT
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-01-16'
+reporting_period:
+  start: '2026-01-16'
+  end: '2026-01-16'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_01_16_8147f34e6738.pdf
+source_url: https://global.factiva.com/
+checksum: 59ad35984816bba796ddb1904f4597fd0bdfd965e9452f85bc9606a2e2b6648b
+covered_bank_ids:
+- maybank
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260116EM1G0000B
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q1/Factiva_CIMBMAY_Q1.pdf
+source_page_start: 60
+source_page_end: 60

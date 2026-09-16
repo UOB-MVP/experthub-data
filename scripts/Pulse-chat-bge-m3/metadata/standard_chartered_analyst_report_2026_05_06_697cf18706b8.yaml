@@ -1,0 +1,18 @@
+document_id: standard_chartered_analyst_report_2026_05_06_697cf18706b8
+bank_id: standard_chartered
+title: JPMorgan Chase & Co Research Division Standard Chartered Plc (HK) (2888)  Investor
+  day expectation   15% ROTE underpinned by non-NII and operating leverage 06 May
+  2026
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-05-06'
+reporting_period:
+  start: '2026-05-06'
+  end: '2026-05-06'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_analyst_report_2026_05_06_697cf18706b8.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 697cf18706b8699a46bc9b744c6f8f5efe7b66ec82fc62e86b14cf7e8cde1d6b
+covered_bank_ids:
+- standard_chartered

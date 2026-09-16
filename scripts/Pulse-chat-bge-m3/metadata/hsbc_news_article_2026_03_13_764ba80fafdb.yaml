@@ -1,0 +1,23 @@
+document_id: hsbc_news_article_2026_03_13_764ba80fafdb
+bank_id: hsbc
+title: HSBC, Standard Chartered ‘to get stablecoin licences’
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-03-13'
+reporting_period:
+  start: '2026-03-13'
+  end: '2026-03-13'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_03_13_764ba80fafdb.pdf
+source_url: https://global.factiva.com/
+checksum: 4f80305aad0211a51d2b158309ecfe608bd22406f35d26faf7ff54de3cdd68dd
+covered_bank_ids:
+- hsbc
+- standard_chartered
+publisher: South China Morning Post
+geography: Hong Kong
+source_document_id: SCMP000020260312EM3D00009
+source_bundle: Q1/Factiva_Q12026_1.pdf
+source_page_start: 63
+source_page_end: 64

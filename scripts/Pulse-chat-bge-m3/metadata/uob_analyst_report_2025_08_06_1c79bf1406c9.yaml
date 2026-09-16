@@ -1,0 +1,17 @@
+document_id: uob_analyst_report_2025_08_06_1c79bf1406c9
+bank_id: uob
+title: 'United Overseas Bank: 2Q25 Earnings miss on softer fees; Resumption of FY25
+  outlook.'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-08-06'
+reporting_period:
+  start: '2025-08-06'
+  end: '2025-08-06'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: uob/uob_analyst_report_2025_08_06_1c79bf1406c9.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 1c79bf1406c9353ccff3f6ae0512ee9464924485730629c264b0624809e6e5d5
+covered_bank_ids:
+- uob

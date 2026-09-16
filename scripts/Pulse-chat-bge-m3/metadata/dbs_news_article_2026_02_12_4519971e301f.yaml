@@ -1,0 +1,23 @@
+document_id: dbs_news_article_2026_02_12_4519971e301f
+bank_id: dbs
+title: '8 in 10 SMEs plan overseas expansion in 2026 despite market volatility: DBS
+  survey'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-12'
+reporting_period:
+  start: '2026-02-12'
+  end: '2026-02-12'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_02_12_4519971e301f.pdf
+source_url: https://global.factiva.com/
+checksum: 41c944caf2675d9215b433800ca8c801d59c774c7b6b23d0cf7cebb09ff57eb1
+covered_bank_ids:
+- dbs
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260212EM2C0000G
+source_bundle: Q1/Factiva_Q12026_2.pdf
+source_page_start: 9
+source_page_end: 10

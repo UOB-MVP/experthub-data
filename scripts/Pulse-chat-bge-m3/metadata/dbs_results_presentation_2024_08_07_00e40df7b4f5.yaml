@@ -1,0 +1,16 @@
+document_id: dbs_results_presentation_2024_08_07_00e40df7b4f5
+bank_id: dbs
+title: 2Q24_CFO_presentation
+source_type: official
+document_type: results_presentation
+publication_date: '2024-08-07'
+reporting_period:
+  start: '2024-04-01'
+  end: '2024-06-30'
+  period_type: quarter
+  fiscal_year: 2024
+source_file: dbs/dbs_results_presentation_2024_08_07_00e40df7b4f5.pdf
+source_url: https://www.dbs.com/investors/
+checksum: 00e40df7b4f596d18603ba0080c5342c955c2d432f8e466d6b214419ac95b8cd
+covered_bank_ids:
+- dbs

@@ -1,0 +1,16 @@
+document_id: hsbc_earnings_call_transcript_2025_07_30_8e5a17405d65
+bank_id: hsbc
+title: HSBC Holdings plc Earnings Call 2025-07-30 English
+source_type: approved_third_party
+document_type: earnings_call_transcript
+publication_date: '2025-07-30'
+reporting_period:
+  start: '2025-07-30'
+  end: '2025-07-30'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: hsbc/hsbc_earnings_call_transcript_2025_07_30_8e5a17405d65.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 8e5a17405d65728a6be65149b24dcd93540f2eb8c31369b0c4d0901f844d2361
+covered_bank_ids:
+- hsbc

@@ -1,0 +1,22 @@
+document_id: uob_news_article_2026_01_22_c58ac4170903
+bank_id: uob
+title: UOB rises 2.2% to 9-month high
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-01-22'
+reporting_period:
+  start: '2026-01-22'
+  end: '2026-01-22'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/uob_news_article_2026_01_22_c58ac4170903.pdf
+source_url: https://global.factiva.com/
+checksum: 00e5bf076c51c5dc24ed6a7b9aecd09c082cedc0b5d7308498c546d1ac8947dc
+covered_bank_ids:
+- uob
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260122EM1M000DX
+source_bundle: Q1/Factiva_Q12026_2.pdf
+source_page_start: 92
+source_page_end: 92

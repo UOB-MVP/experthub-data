@@ -1,0 +1,24 @@
+document_id: uob_news_article_2026_07_17_05256175c014
+bank_id: uob
+title: UOB shares fall 3.8% after months of steady gains
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-07-17'
+reporting_period:
+  start: '2026-07-17'
+  end: '2026-07-17'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/uob_news_article_2026_07_17_05256175c014.pdf
+source_url: https://global.factiva.com/
+checksum: e8e14644ef415f5d17913c20db2f2d724e396fcb7e50352e23a792335451aaba
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260717EM7H000B5
+source_bundle: QtD/Factiva_Q2tD2026_2.pdf
+source_page_start: 53
+source_page_end: 53

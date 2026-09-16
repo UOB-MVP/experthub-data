@@ -1,0 +1,22 @@
+document_id: ocbc_news_article_2026_01_06_b8503998eade
+bank_id: ocbc
+title: City ‘gains favour as platform for wealth planning’
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-01-06'
+reporting_period:
+  start: '2026-01-06'
+  end: '2026-01-06'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_news_article_2026_01_06_b8503998eade.pdf
+source_url: https://global.factiva.com/
+checksum: 7272fa8b5adb71e607e09117fce89feade6574d6355f624eb31d44318f9899c1
+covered_bank_ids:
+- ocbc
+publisher: South China Morning Post
+geography: Hong Kong
+source_document_id: SCMP000020260105EM160000H
+source_bundle: Q1/Factiva_Q12026_2.pdf
+source_page_start: 141
+source_page_end: 142

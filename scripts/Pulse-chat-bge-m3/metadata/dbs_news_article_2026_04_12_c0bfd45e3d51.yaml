@@ -1,0 +1,23 @@
+document_id: dbs_news_article_2026_04_12_c0bfd45e3d51
+bank_id: dbs
+title: DBS to probe high-risk fund transfers with more questions to customers
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-04-12'
+reporting_period:
+  start: '2026-04-12'
+  end: '2026-04-12'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_04_12_c0bfd45e3d51.pdf
+source_url: https://global.factiva.com/
+checksum: 596111dec6cd98c9dd51a9c0bd0d8db091701d707a4a9adc054e6e6f8c3d47cb
+covered_bank_ids:
+- dbs
+- ocbc
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260412EM4C0000B
+source_bundle: Q2/Factiva_Q22026_2.pdf
+source_page_start: 75
+source_page_end: 76

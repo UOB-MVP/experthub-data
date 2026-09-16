@@ -1,0 +1,22 @@
+document_id: standard_chartered_news_article_2026_02_14_b29fc2d4a615
+bank_id: standard_chartered
+title: StanChart's Winters learns half a lesson from Dimon
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-14'
+reporting_period:
+  start: '2026-02-14'
+  end: '2026-02-14'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_news_article_2026_02_14_b29fc2d4a615.pdf
+source_url: https://global.factiva.com/
+checksum: 6ada2ec3b908716ff7e8db5a6113d149670a310f042b40654273338b2d083978
+covered_bank_ids:
+- standard_chartered
+publisher: Financial Times
+geography: Asia-Pacific
+source_document_id: FTFTA00020260214EM2E0013R
+source_bundle: Q1/Factiva_Q12026_1.pdf
+source_page_start: 191
+source_page_end: 191

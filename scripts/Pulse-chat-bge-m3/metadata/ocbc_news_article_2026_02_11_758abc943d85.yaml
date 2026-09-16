@@ -1,0 +1,22 @@
+document_id: ocbc_news_article_2026_02_11_758abc943d85
+bank_id: ocbc
+title: Sheng Siong shares slide 3.5% after OCBC ratings downgrade
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-11'
+reporting_period:
+  start: '2026-02-11'
+  end: '2026-02-11'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_news_article_2026_02_11_758abc943d85.pdf
+source_url: https://global.factiva.com/
+checksum: f7ab1c955f02030c32d6ca26675744a3ba4afa8d40a74861c4c30609fc01cce1
+covered_bank_ids:
+- ocbc
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260211EM2B0012X
+source_bundle: Q1/Factiva_Q12026_2.pdf
+source_page_start: 12
+source_page_end: 13

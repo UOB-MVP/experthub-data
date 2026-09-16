@@ -1,0 +1,19 @@
+document_id: market_industry_report_2025_09_02_49f8223563d4
+bank_id: market
+title: 'Global Spillovers: Navigating The International Impacts Of US'
+source_type: approved_third_party
+document_type: industry_report
+publication_date: '2025-09-02'
+reporting_period:
+  start: '2025-09-02'
+  end: '2025-09-02'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: market/market_industry_report_2025_09_02_49f8223563d4.pdf
+source_url: https://www.fitchsolutions.com/bmi
+checksum: 49f8223563d474134d4e68b7b9dc4520acb64b2b190d6753247e97eb06b9de0d
+covered_bank_ids:
+- market
+publisher: BMI
+geography: Global
+source_bundle: BMI/BMI Global Spillovers - 02 Sept 2025.pdf

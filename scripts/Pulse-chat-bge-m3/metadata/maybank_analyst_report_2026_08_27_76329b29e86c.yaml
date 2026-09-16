@@ -1,0 +1,20 @@
+document_id: maybank_analyst_report_2026_08_27_76329b29e86c
+bank_id: maybank
+title: 2Q 1H26 Robust operations but out-of-favour
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-08-27'
+reporting_period:
+  start: '2026-08-27'
+  end: '2026-08-27'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_analyst_report_2026_08_27_76329b29e86c.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 76329b29e86cd27b75f7626db1af94c11430fc82a965aa44b1ec79b6f8fdcd5c
+covered_bank_ids:
+- maybank
+publisher: Macquarie Research
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q2 2026/Macquarie Research_2Q_1H26_
+  Robust operations but out-of-favour_27_Aug_2026.pdf

@@ -1,0 +1,16 @@
+document_id: uob_analyst_report_2026_04_17_e01e037a739a
+bank_id: uob
+title: 'United Overseas Bank (UOB): Model Update'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-04-17'
+reporting_period:
+  start: '2026-04-17'
+  end: '2026-04-17'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/uob_analyst_report_2026_04_17_e01e037a739a.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: e01e037a739a287bd01bf31cf434d3e5fd0cbb11635cb3066012894f6a30346f
+covered_bank_ids:
+- uob

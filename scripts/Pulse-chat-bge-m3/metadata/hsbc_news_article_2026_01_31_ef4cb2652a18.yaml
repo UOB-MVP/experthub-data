@@ -1,0 +1,22 @@
+document_id: hsbc_news_article_2026_01_31_ef4cb2652a18
+bank_id: hsbc
+title: HSBC told to conduct thorough investigation after system shutdown
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-01-31'
+reporting_period:
+  start: '2026-01-31'
+  end: '2026-01-31'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_01_31_ef4cb2652a18.pdf
+source_url: https://global.factiva.com/
+checksum: 444bbbb0647c657680a33fe3713b0321f45cd4036d96f8370096e7daa225ed3b
+covered_bank_ids:
+- hsbc
+publisher: South China Morning Post
+geography: Hong Kong
+source_document_id: SCMP000020260130EM1V00003
+source_bundle: Q1/Factiva_Q12026_2.pdf
+source_page_start: 60
+source_page_end: 61

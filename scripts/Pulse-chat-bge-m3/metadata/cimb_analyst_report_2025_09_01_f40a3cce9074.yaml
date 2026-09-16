@@ -1,0 +1,20 @@
+document_id: cimb_analyst_report_2025_09_01_f40a3cce9074
+bank_id: cimb
+title: Microsoft Word - CIMB MK 2Q25 results 020925 ok.docx
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-09-01'
+reporting_period:
+  start: '2025-09-01'
+  end: '2025-09-01'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: cimb/cimb_analyst_report_2025_09_01_f40a3cce9074.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: f40a3cce9074b72275681b380574031b0bad9557f2f705ff146345f54bc8c79b
+covered_bank_ids:
+- cimb
+publisher: AmInvestment Bank
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q2 2025/AmInvestment Bank_CIMB_Strong
+  Core Performance_01_Sep_2025.pdf

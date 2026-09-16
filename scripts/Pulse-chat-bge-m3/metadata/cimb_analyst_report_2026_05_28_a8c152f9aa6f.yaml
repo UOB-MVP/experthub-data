@@ -1,0 +1,21 @@
+document_id: cimb_analyst_report_2026_05_28_a8c152f9aa6f
+bank_id: cimb
+title: CIMB - No Strains So Far
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-05-28'
+reporting_period:
+  start: '2026-05-28'
+  end: '2026-05-28'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: cimb/cimb_analyst_report_2026_05_28_a8c152f9aa6f.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: a8c152f9aa6f6d5a488911b0cec368a16a70cfb071c0e86e3f8aba5d51da5fd8
+covered_bank_ids:
+- cimb
+- maybank
+publisher: AUERBACH GRAYSON
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q1 2026/AUERBACH GRAYSON_ CIMB
+  - No Strains So Far_28_May_2026.pdf

@@ -1,0 +1,21 @@
+document_id: maybank_analyst_report_2024_03_04_35cdd5875921
+bank_id: maybank
+title: Maybank-4Q23-Funding via
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2024-03-04'
+reporting_period:
+  start: '2024-03-04'
+  end: '2024-03-04'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: maybank/maybank_analyst_report_2024_03_04_35cdd5875921.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 35cdd58759218edeb2a4bec765d42aeb9cc76516e167bfeac08aac972df0ef71
+covered_bank_ids:
+- maybank
+- cimb
+publisher: MBSB Investment Bank
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q4 2023/MBSB Investment
+  Bank_Maybank-4Q23-Funding via_04_Mar_2024.pdf

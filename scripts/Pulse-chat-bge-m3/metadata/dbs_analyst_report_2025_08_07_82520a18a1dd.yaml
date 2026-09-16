@@ -1,0 +1,17 @@
+document_id: dbs_analyst_report_2025_08_07_82520a18a1dd
+bank_id: dbs
+title: 'Singapore Banks: DBS meets, UOB misses; relative trades should work'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-08-07'
+reporting_period:
+  start: '2025-08-07'
+  end: '2025-08-07'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: dbs/dbs_analyst_report_2025_08_07_82520a18a1dd.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 82520a18a1dd5bf1d4fa40e2babd7f2fa0b57f7da255f01230749c1b502455f7
+covered_bank_ids:
+- uob
+- dbs

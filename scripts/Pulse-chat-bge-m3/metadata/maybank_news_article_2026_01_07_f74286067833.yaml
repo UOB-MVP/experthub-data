@@ -1,0 +1,22 @@
+document_id: maybank_news_article_2026_01_07_f74286067833
+bank_id: maybank
+title: Foreign demand for ringgit bonds stays strong
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-01-07'
+reporting_period:
+  start: '2026-01-07'
+  end: '2026-01-07'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_01_07_f74286067833.pdf
+source_url: https://global.factiva.com/
+checksum: ed5856bf314b7724d54f667d68a096fe934fe1c5b2b8bb1d37bb2c9998493cea
+covered_bank_ids:
+- maybank
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260107EM1700014
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q1/Factiva_CIMBMAY_Q1.pdf
+source_page_start: 71
+source_page_end: 71

@@ -1,0 +1,23 @@
+document_id: ocbc_news_article_2026_08_18_f5f0a102603e
+bank_id: ocbc
+title: Sustained Land buys Thomson Lane plot for S$578m, plans condo project on prime
+  site
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-18'
+reporting_period:
+  start: '2026-08-18'
+  end: '2026-08-18'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_news_article_2026_08_18_f5f0a102603e.pdf
+source_url: https://global.factiva.com/
+checksum: 4a36fc8f89abeef2d3c4c962ed3f838010b9a4145ca64f672ff935b0f48af379
+covered_bank_ids:
+- ocbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260818EM8I0000D
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 87
+source_page_end: 88

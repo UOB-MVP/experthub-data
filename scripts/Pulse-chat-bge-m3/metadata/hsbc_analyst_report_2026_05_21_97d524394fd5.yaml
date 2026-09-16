@@ -1,0 +1,16 @@
+document_id: hsbc_analyst_report_2026_05_21_97d524394fd5
+bank_id: hsbc
+title: 'HSBC Holdings: Feedback from the Asia Seminar'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-05-21'
+reporting_period:
+  start: '2026-05-21'
+  end: '2026-05-21'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_analyst_report_2026_05_21_97d524394fd5.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 97d524394fd50bcd324b4d424161c74d97855a195286086c10e5e673421cbb6f
+covered_bank_ids:
+- hsbc

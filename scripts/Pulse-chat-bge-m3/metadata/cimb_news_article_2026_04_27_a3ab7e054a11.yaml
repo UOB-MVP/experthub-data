@@ -1,0 +1,23 @@
+document_id: cimb_news_article_2026_04_27_a3ab7e054a11
+bank_id: cimb
+title: 'Corporate: CIMB Niaga to spin off Islamic unit in the fourth quarter'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-04-27'
+reporting_period:
+  start: '2026-04-27'
+  end: '2026-04-27'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: cimb/cimb_news_article_2026_04_27_a3ab7e054a11.pdf
+source_url: https://global.factiva.com/
+checksum: 25b1380e73566951001e1d828244aed287be4092b79984f99d85c52ed6ab478d
+covered_bank_ids:
+- hsbc
+- cimb
+publisher: The Edge Malaysia (Weekly)
+geography: Malaysia
+source_document_id: EDGEWK0020260429EM4R00006
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q2/Factiva_CIMBMAY_Q2.pdf
+source_page_start: 32
+source_page_end: 33

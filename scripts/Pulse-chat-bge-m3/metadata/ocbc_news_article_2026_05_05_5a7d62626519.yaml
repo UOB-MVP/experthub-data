@@ -1,0 +1,24 @@
+document_id: ocbc_news_article_2026_05_05_5a7d62626519
+bank_id: ocbc
+title: Analysts still positive on Mapletree Logistics Trust amid forex and rental
+  headwinds, asset recycling tailwinds
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-05-05'
+reporting_period:
+  start: '2026-05-05'
+  end: '2026-05-05'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_news_article_2026_05_05_5a7d62626519.pdf
+source_url: https://global.factiva.com/
+checksum: d2b01c54b3aa6b90a9d4031113c93b89b5f1d4ce0887e320d17096a205ff2ccd
+covered_bank_ids:
+- dbs
+- ocbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260505EM55001UQ
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 174
+source_page_end: 175

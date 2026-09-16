@@ -1,0 +1,25 @@
+document_id: dbs_news_article_2026_02_03_fa1a89a6c575
+bank_id: dbs
+title: Collection of notes for CNY hongbaos kicks off on Feb 3, banks roll out initiatives
+  to reduce wait times
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-03'
+reporting_period:
+  start: '2026-02-03'
+  end: '2026-02-03'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_02_03_fa1a89a6c575.pdf
+source_url: https://global.factiva.com/
+checksum: c2e8ad9a5743275303b67fb88c28ab5b31e3f00a2e1ad26cd30577689d91fa1b
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260203EM23002GX
+source_bundle: Q1/Factiva_Q12026_2.pdf
+source_page_start: 53
+source_page_end: 55

@@ -1,0 +1,20 @@
+document_id: cimb_analyst_report_2024_02_29_8dc1df13ce66
+bank_id: cimb
+title: CIMB MK 01Mar24
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2024-02-29'
+reporting_period:
+  start: '2024-02-29'
+  end: '2024-02-29'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: cimb/cimb_analyst_report_2024_02_29_8dc1df13ce66.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 8dc1df13ce66a8da712159f7a02ecfbe2f20656bf503dd203642ca8ad3b6ce04
+covered_bank_ids:
+- cimb
+publisher: AmInvestment Bank Berhad Research Division
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q4 2023/AmInvestment Bank Berhad
+  Research Division_CIMB GROUP, 1 Mar 2024_29_Feb_2024.pdf

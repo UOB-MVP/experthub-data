@@ -1,0 +1,23 @@
+document_id: ocbc_news_article_2026_05_20_3eb893f03d77
+bank_id: ocbc
+title: Former OCBC trading rep, ex-GM of Sasseur Reit affiliate found guilty of trading
+  offences
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-05-20'
+reporting_period:
+  start: '2026-05-20'
+  end: '2026-05-20'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_news_article_2026_05_20_3eb893f03d77.pdf
+source_url: https://global.factiva.com/
+checksum: cbe6bbe045ab6323807c68516f87d7c0d83ec84e5e29dbe82ef7e4de4984f1fb
+covered_bank_ids:
+- ocbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260520EM5K001P5
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 106
+source_page_end: 107

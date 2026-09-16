@@ -1,0 +1,23 @@
+document_id: maybank_news_article_2026_01_12_7adc457a483f
+bank_id: maybank
+title: EPF trims stakes in Maybank, RHB Bank
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-01-12'
+reporting_period:
+  start: '2026-01-12'
+  end: '2026-01-12'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_01_12_7adc457a483f.pdf
+source_url: https://global.factiva.com/
+checksum: db3666584b5d1f0ab32f6e30325f770ce3c4c8cf6dcb9ec1c393112440ff8f88
+covered_bank_ids:
+- cimb
+- maybank
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260112EM1C0002T
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q1/Factiva_CIMBMAY_Q1.pdf
+source_page_start: 68
+source_page_end: 68

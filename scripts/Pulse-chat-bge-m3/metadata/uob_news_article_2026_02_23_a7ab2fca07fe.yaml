@@ -1,0 +1,24 @@
+document_id: uob_news_article_2026_02_23_a7ab2fca07fe
+bank_id: uob
+title: 'Stocks to watch: UOI, Seatrium, Parkway Life Reit, Clas, Raffles Medical,
+  Vicom, Concord New Energy'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-23'
+reporting_period:
+  start: '2026-02-23'
+  end: '2026-02-23'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/uob_news_article_2026_02_23_a7ab2fca07fe.pdf
+source_url: https://global.factiva.com/
+checksum: 0b0ae5f4dc6f3fb177fb82cc5d7b01dd3c693465cc903f7f7304b28d1239d74a
+covered_bank_ids:
+- uob
+- dbs
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260223EM2N000B5
+source_bundle: Q1/Factiva_Q12026_1.pdf
+source_page_start: 159
+source_page_end: 160

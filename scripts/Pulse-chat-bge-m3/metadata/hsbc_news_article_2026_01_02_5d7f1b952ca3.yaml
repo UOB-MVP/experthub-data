@@ -1,0 +1,26 @@
+document_id: hsbc_news_article_2026_01_02_5d7f1b952ca3
+bank_id: hsbc
+title: Affluent ‘make their money by age of 39’
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-01-02'
+reporting_period:
+  start: '2026-01-02'
+  end: '2026-01-02'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_01_02_5d7f1b952ca3.pdf
+source_url: https://global.factiva.com/
+checksum: 394fb3ee686bfd20243244e60e85dadd07910ded0828a2d8cca2751376cb347e
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+- hsbc
+- standard_chartered
+publisher: South China Morning Post
+geography: Hong Kong
+source_document_id: SCMP000020260101EM1200016
+source_bundle: Q1/Factiva_Q12026_2.pdf
+source_page_start: 147
+source_page_end: 148

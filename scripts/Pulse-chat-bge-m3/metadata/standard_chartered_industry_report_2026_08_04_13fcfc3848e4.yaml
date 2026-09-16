@@ -1,0 +1,16 @@
+document_id: standard_chartered_industry_report_2026_08_04_13fcfc3848e4
+bank_id: standard_chartered
+title: Raymond Ang - Standard Chartered Private Bank - Asian Private Banker
+source_type: approved_third_party
+document_type: industry_report
+publication_date: '2026-08-04'
+reporting_period:
+  start: '2026-08-04'
+  end: '2026-08-04'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_industry_report_2026_08_04_13fcfc3848e4.pdf
+source_url: https://asianprivatebanker.com/final-word-2025/raymond-ang-standard-chartered-private-bank/
+checksum: 13fcfc3848e47d4b7b8a26afd22eead6dc034064a2cae834f2f128a303400e39
+covered_bank_ids:
+- standard_chartered

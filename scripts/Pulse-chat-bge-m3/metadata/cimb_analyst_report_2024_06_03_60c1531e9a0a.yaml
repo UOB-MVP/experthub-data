@@ -1,0 +1,24 @@
+document_id: cimb_analyst_report_2024_06_03_60c1531e9a0a
+bank_id: cimb
+title: Potential rewards
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2024-06-03'
+reporting_period:
+  start: '2024-06-03'
+  end: '2024-06-03'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: cimb/cimb_analyst_report_2024_06_03_60c1531e9a0a.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 60c1531e9a0a333c1d9ab2d436548e728338ffd235a0f78bc663317c672f2eb2
+covered_bank_ids:
+- cimb
+- uob
+- dbs
+- ocbc
+- maybank
+publisher: CLSA
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q1 2024/CLSA_CIMB - BUY (Potential
+  rewards)_03_Jun_2024.pdf

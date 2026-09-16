@@ -1,0 +1,23 @@
+document_id: dbs_news_article_2026_08_03_144b9149117b
+bank_id: dbs
+title: DBS names former Ping An chief innovation officer Jonathan Larsen to board
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-03'
+reporting_period:
+  start: '2026-08-03'
+  end: '2026-08-03'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_08_03_144b9149117b.pdf
+source_url: https://global.factiva.com/
+checksum: 1237c697afefbd7d6d805ebf92b7327ccbe167c947674f528954d9c3738ee235
+covered_bank_ids:
+- dbs
+- standard_chartered
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260803EM83001E1
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 165
+source_page_end: 165

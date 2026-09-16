@@ -1,0 +1,22 @@
+document_id: dbs_news_article_2026_05_20_4ab5f6614843
+bank_id: dbs
+title: '‘Show me your agent’: DBS chief on transforming the bank with agentic AI'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-05-20'
+reporting_period:
+  start: '2026-05-20'
+  end: '2026-05-20'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_05_20_4ab5f6614843.pdf
+source_url: https://global.factiva.com/
+checksum: 19361d0909e16b4280223445caaa1292205f842df848eee3ed7687452fe95e96
+covered_bank_ids:
+- dbs
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260520EM5K0000A
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 112
+source_page_end: 115

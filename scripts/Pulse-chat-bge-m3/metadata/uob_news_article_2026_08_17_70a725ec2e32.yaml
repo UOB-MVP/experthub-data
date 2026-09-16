@@ -1,0 +1,22 @@
+document_id: uob_news_article_2026_08_17_70a725ec2e32
+bank_id: uob
+title: UOB Heartbeat Run raises S$1.4m for 20,500 children in need
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-17'
+reporting_period:
+  start: '2026-08-17'
+  end: '2026-08-17'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/uob_news_article_2026_08_17_70a725ec2e32.pdf
+source_url: https://global.factiva.com/
+checksum: 0c0fd29a7f3fcd282a604a9769429d123c485a4b6da62a537b0eee71ea76848e
+covered_bank_ids:
+- uob
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260817EM8H0000C
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 93
+source_page_end: 94

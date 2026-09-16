@@ -1,0 +1,23 @@
+document_id: dbs_news_article_2026_05_21_4f779ac39a3e
+bank_id: dbs
+title: 'Singapore welcomes healthy competition for AI leadership; not a zero-sum game:
+  Gan Kim Yong'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-05-21'
+reporting_period:
+  start: '2026-05-21'
+  end: '2026-05-21'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_05_21_4f779ac39a3e.pdf
+source_url: https://global.factiva.com/
+checksum: 24b83054fb0516b646cb74a3b7ddda1a6460005eb170bb55ed78a5785f1efffd
+covered_bank_ids:
+- dbs
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260521EM5L0000A
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 99
+source_page_end: 100

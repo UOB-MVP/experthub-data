@@ -1,0 +1,22 @@
+document_id: uob_news_article_2026_04_20_ebe0b493fcb2
+bank_id: uob
+title: 'UOB Kay Hian’s Indonesia unit suspended over due diligence failures: Official'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-04-20'
+reporting_period:
+  start: '2026-04-20'
+  end: '2026-04-20'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/uob_news_article_2026_04_20_ebe0b493fcb2.pdf
+source_url: https://global.factiva.com/
+checksum: a84a95dbb42a3e17747a427ee46434ecd075430e9ca8731a83cd6dca00ebd8ed
+covered_bank_ids:
+- uob
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260420EM4K0008D
+source_bundle: Q2/Factiva_Q22026_2.pdf
+source_page_start: 48
+source_page_end: 49

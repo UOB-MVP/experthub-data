@@ -1,0 +1,23 @@
+document_id: uob_news_article_2026_08_07_07fe64e8adf0
+bank_id: uob
+title: UOB dips 2.2% while OCBC rises 2% after Q2 earnings releases
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-07'
+reporting_period:
+  start: '2026-08-07'
+  end: '2026-08-07'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/uob_news_article_2026_08_07_07fe64e8adf0.pdf
+source_url: https://global.factiva.com/
+checksum: f8fcd6cab7a309213d4b6f0235f225d15a9651d5583b1d776aebf137c790dca9
+covered_bank_ids:
+- uob
+- ocbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260807EM870005M
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 137
+source_page_end: 137

@@ -1,0 +1,21 @@
+document_id: cimb_analyst_report_2025_06_02_bfa784e3130f
+bank_id: cimb
+title: CIMB - 1Q25 results within expectations
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-06-02'
+reporting_period:
+  start: '2025-06-02'
+  end: '2025-06-02'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: cimb/cimb_analyst_report_2025_06_02_bfa784e3130f.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: bfa784e3130febc52b7e0de520f90a50cc20bf7a9bb7a7658a7cc87173017d39
+covered_bank_ids:
+- cimb
+- maybank
+publisher: Maybank
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q1 2025/Maybank_CIMB - 1Q25
+  results within expectations_02_Jun_2025.pdf

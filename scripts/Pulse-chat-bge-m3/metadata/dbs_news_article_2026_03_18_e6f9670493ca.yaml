@@ -1,0 +1,24 @@
+document_id: dbs_news_article_2026_03_18_e6f9670493ca
+bank_id: dbs
+title: Singapore’s Feb key exports growth slows to 4%; electronics surge eases, non-electronics
+  slide
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-03-18'
+reporting_period:
+  start: '2026-03-18'
+  end: '2026-03-18'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_03_18_e6f9670493ca.pdf
+source_url: https://global.factiva.com/
+checksum: 129a0a085f93d1d9cc03010cf5cae42daf6e172bf4032f1349552a0b7ed7d5e6
+covered_bank_ids:
+- dbs
+- ocbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260318EM3I0000H
+source_bundle: Q1/Factiva_Q12026_1.pdf
+source_page_start: 46
+source_page_end: 48

@@ -1,0 +1,24 @@
+document_id: dbs_news_article_2026_01_15_396c66aae0ba
+bank_id: dbs
+title: DBS unlocks S$1b in AI value in 2025
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-01-15'
+reporting_period:
+  start: '2026-01-15'
+  end: '2026-01-15'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_01_15_396c66aae0ba.pdf
+source_url: https://global.factiva.com/
+checksum: 04f4970c1f42433fe54e8d290ea03cb60172ed7b167bf2e657e23496bd56c883
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260115EM1F00005
+source_bundle: Q1/Factiva_Q12026_2.pdf
+source_page_start: 116
+source_page_end: 117

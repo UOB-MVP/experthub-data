@@ -1,0 +1,22 @@
+document_id: hsbc_news_article_2026_04_01_fd72ac01c6c9
+bank_id: hsbc
+title: Five of seven private health insurers hike IP premiums for existing plans
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-04-01'
+reporting_period:
+  start: '2026-04-01'
+  end: '2026-04-01'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_04_01_fd72ac01c6c9.pdf
+source_url: https://global.factiva.com/
+checksum: 36f9878afaf8eb0bfc24cb73cef855cec153ae5dad24c7c0a6725dbbf0bfbcaa
+covered_bank_ids:
+- hsbc
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260401EM410033A
+source_bundle: Q2/Factiva_Q22026_2.pdf
+source_page_start: 105
+source_page_end: 106

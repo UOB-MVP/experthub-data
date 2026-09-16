@@ -1,0 +1,24 @@
+document_id: uob_news_article_2026_04_27_ee81395197e8
+bank_id: uob
+title: JEP, XMH chairs up stakes; AGT becomes OKP substantial shareholder
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-04-27'
+reporting_period:
+  start: '2026-04-27'
+  end: '2026-04-27'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/uob_news_article_2026_04_27_ee81395197e8.pdf
+source_url: https://global.factiva.com/
+checksum: fbc3591443c9f608ee480b2d2eab68f7dcf02402d995efbc452e05ae69dfba25
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260427EM4R0000K
+source_bundle: Q2/Factiva_Q22026_2.pdf
+source_page_start: 17
+source_page_end: 19

@@ -1,0 +1,24 @@
+document_id: uob_news_article_2026_08_08_f3832eb02446
+bank_id: uob
+title: UOB pursues capital-light strategy as Q2 profit rises, trims fee growth outlook
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-08'
+reporting_period:
+  start: '2026-08-08'
+  end: '2026-08-08'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/uob_news_article_2026_08_08_f3832eb02446.pdf
+source_url: https://global.factiva.com/
+checksum: 1e681608f2b7fa87f14f4b23bcf698c81a4bc2e8144dfeabb6ef9ae7b28b5292
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260808EM880000K
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 122
+source_page_end: 124

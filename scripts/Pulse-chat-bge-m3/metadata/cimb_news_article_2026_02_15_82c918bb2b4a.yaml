@@ -1,0 +1,25 @@
+document_id: cimb_news_article_2026_02_15_82c918bb2b4a
+bank_id: cimb
+title: Not every market dip is a buying opportunity. Here’s what investors need to
+  know
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-15'
+reporting_period:
+  start: '2026-02-15'
+  end: '2026-02-15'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: cimb/cimb_news_article_2026_02_15_82c918bb2b4a.pdf
+source_url: https://global.factiva.com/
+checksum: e81ebeff5fe959a046e8b20c59f759a47d0062626f2f7adc82c668cf5432c578
+covered_bank_ids:
+- ocbc
+- standard_chartered
+- cimb
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260215EM2F00008
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q1/Factiva_CIMBMAY_Q1.pdf
+source_page_start: 34
+source_page_end: 37

@@ -1,0 +1,22 @@
+document_id: ocbc_news_article_2026_07_24_08e7e5ea32f3
+bank_id: ocbc
+title: OCBC, Asset World Corp ink pact with US$200 million sustainability-linked loan
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-07-24'
+reporting_period:
+  start: '2026-07-24'
+  end: '2026-07-24'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_news_article_2026_07_24_08e7e5ea32f3.pdf
+source_url: https://global.factiva.com/
+checksum: d0a95469ec5e95cbf6af45d0216e10c67011ada53b38e9a46721860039567f3d
+covered_bank_ids:
+- ocbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260724EM7O0015P
+source_bundle: QtD/Factiva_Q2tD2026_2.pdf
+source_page_start: 39
+source_page_end: 39

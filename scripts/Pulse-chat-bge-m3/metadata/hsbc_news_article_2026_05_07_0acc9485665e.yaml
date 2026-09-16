@@ -1,0 +1,22 @@
+document_id: hsbc_news_article_2026_05_07_0acc9485665e
+bank_id: hsbc
+title: Opaque Deals At HSBC Left Bank Vulnerable
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-05-07'
+reporting_period:
+  start: '2026-05-07'
+  end: '2026-05-07'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_05_07_0acc9485665e.pdf
+source_url: https://global.factiva.com/
+checksum: 731adb7a6d524982aacbcfc8841a99d56f86e28782414fc406c786802dcdabc0
+covered_bank_ids:
+- hsbc
+publisher: The Wall Street Journal
+geography: Asia-Pacific
+source_document_id: J000000020260507EM570001D
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 165
+source_page_end: 166

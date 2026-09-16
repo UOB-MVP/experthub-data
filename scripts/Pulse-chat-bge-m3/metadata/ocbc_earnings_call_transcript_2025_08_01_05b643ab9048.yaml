@@ -1,0 +1,16 @@
+document_id: ocbc_earnings_call_transcript_2025_08_01_05b643ab9048
+bank_id: ocbc
+title: OCBC Earnings Call 2025-08-01 English
+source_type: approved_third_party
+document_type: earnings_call_transcript
+publication_date: '2025-08-01'
+reporting_period:
+  start: '2025-08-01'
+  end: '2025-08-01'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: ocbc/ocbc_earnings_call_transcript_2025_08_01_05b643ab9048.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 05b643ab90485aa5314620d2630ae69810411b2d3c28763e1d88bbaf5ac75270
+covered_bank_ids:
+- ocbc

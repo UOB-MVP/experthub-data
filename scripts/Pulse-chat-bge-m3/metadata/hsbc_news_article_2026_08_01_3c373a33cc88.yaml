@@ -1,0 +1,22 @@
+document_id: hsbc_news_article_2026_08_01_3c373a33cc88
+bank_id: hsbc
+title: HSBC sells $25bn Australian home loan book to Blackstone amid restructuring
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-01'
+reporting_period:
+  start: '2026-08-01'
+  end: '2026-08-01'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_08_01_3c373a33cc88.pdf
+source_url: https://global.factiva.com/
+checksum: 907448adb9450d69d5bfd183626c223a3ee16dec90ceda849f2e61ce5df6d3bc
+covered_bank_ids:
+- hsbc
+publisher: Financial Times
+geography: Asia-Pacific
+source_document_id: FTFTA00020260801EM81000RN
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 177
+source_page_end: 177

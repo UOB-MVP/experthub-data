@@ -1,0 +1,22 @@
+document_id: maybank_analyst_report_2026_02_27_f6f460af29bc
+bank_id: maybank
+title: Microsoft Word - md260227
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-02-27'
+reporting_period:
+  start: '2026-02-27'
+  end: '2026-02-27'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_analyst_report_2026_02_27_f6f460af29bc.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: f6f460af29bcbeb7744e14a7ab0fe2dc64a8a5c9636cf851d30b820f457fbb05
+covered_bank_ids:
+- maybank
+- uob
+- cimb
+publisher: UOB Kay Hian Research
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q4 2025/UOB Kay Hian Research_Malayan
+  Banking - 4Q25_ Holding Steady_27_Feb_2026.pdf

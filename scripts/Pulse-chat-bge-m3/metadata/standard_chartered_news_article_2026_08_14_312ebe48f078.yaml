@@ -1,0 +1,23 @@
+document_id: standard_chartered_news_article_2026_08_14_312ebe48f078
+bank_id: standard_chartered
+title: 'StanChart customers to ‘gain from wider range of services’ after move to Trust
+  Bank: digital bank CEO'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-14'
+reporting_period:
+  start: '2026-08-14'
+  end: '2026-08-14'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_news_article_2026_08_14_312ebe48f078.pdf
+source_url: https://global.factiva.com/
+checksum: 8780d281c1f42c44261b330c73c11c4e2b89857bda17f34ef75590dda5edffb3
+covered_bank_ids:
+- standard_chartered
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260814EM8E00009
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 97
+source_page_end: 98

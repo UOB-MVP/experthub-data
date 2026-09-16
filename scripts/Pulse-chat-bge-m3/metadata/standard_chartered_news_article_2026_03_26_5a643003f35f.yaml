@@ -1,0 +1,22 @@
+document_id: standard_chartered_news_article_2026_03_26_5a643003f35f
+bank_id: standard_chartered
+title: StanChart to sell and lease back two Changi Business Park properties for S$183m
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-03-26'
+reporting_period:
+  start: '2026-03-26'
+  end: '2026-03-26'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_news_article_2026_03_26_5a643003f35f.pdf
+source_url: https://global.factiva.com/
+checksum: 61ea76cd7c156b22eb7c0ae28d721bd654770ef9f846c8063c82140fb6e1da21
+covered_bank_ids:
+- standard_chartered
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260326EM3Q00006
+source_bundle: Q1/Factiva_Q12026_1.pdf
+source_page_start: 18
+source_page_end: 19

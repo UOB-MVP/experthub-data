@@ -1,0 +1,23 @@
+document_id: market_industry_report_2025_09_17_97bc70785918
+bank_id: market
+title: 'Financial services : China'
+source_type: approved_third_party
+document_type: industry_report
+publication_date: '2025-09-17'
+reporting_period:
+  start: '2025-09-17'
+  end: '2025-09-17'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: market/market_industry_report_2025_09_17_97bc70785918.pdf
+source_url: https://viewpoint.eiu.com/analysis/geography/XO/CN/reports/ﬁnancial-services/2025-09-17
+checksum: 97bc70785918918b2d4d0a8af374b2ff60908b4d2bea7111ac058a989bc58d33
+covered_bank_ids:
+- market
+- dbs
+- ocbc
+- hsbc
+- standard_chartered
+publisher: Economist Intelligence Unit
+geography: China
+source_bundle: EMIS/Financial services _ China 2025 (1).pdf

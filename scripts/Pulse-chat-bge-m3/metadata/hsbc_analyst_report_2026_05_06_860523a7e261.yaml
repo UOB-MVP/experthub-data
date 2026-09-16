@@ -1,0 +1,17 @@
+document_id: hsbc_analyst_report_2026_05_06_860523a7e261
+bank_id: hsbc
+title: HSBC (HSBA.L0005.HK) Updating estimates post Q1'26 asset quality in focus,
+  but strong path ahead for NII & returns
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-05-06'
+reporting_period:
+  start: '2026-05-06'
+  end: '2026-05-06'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_analyst_report_2026_05_06_860523a7e261.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 860523a7e261098c61ac59b5b381bbdd933f6019b82ab1dfe826170fe35bebc8
+covered_bank_ids:
+- hsbc

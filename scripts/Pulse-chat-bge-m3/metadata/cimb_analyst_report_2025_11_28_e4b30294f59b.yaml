@@ -1,0 +1,20 @@
+document_id: cimb_analyst_report_2025_11_28_e4b30294f59b
+bank_id: cimb
+title: CIMB 3Q25 Profit Beat on Trading Income
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-11-28'
+reporting_period:
+  start: '2025-11-28'
+  end: '2025-11-28'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: cimb/cimb_analyst_report_2025_11_28_e4b30294f59b.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: e4b30294f59b450c71756e73952eb34347bc5fb8fb56ad41720bffba77f6d5c6
+covered_bank_ids:
+- cimb
+publisher: Citigroup
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q3 2025/Citigroup_CIMB_ 3Q25
+  Profit Beat on Trading Income_28_Nov_2025.pdf

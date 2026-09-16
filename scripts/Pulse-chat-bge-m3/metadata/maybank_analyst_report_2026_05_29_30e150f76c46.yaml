@@ -1,0 +1,21 @@
+document_id: maybank_analyst_report_2026_05_29_30e150f76c46
+bank_id: maybank
+title: Results Note - Malayan Banking - 29 May 2026
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-05-29'
+reporting_period:
+  start: '2026-05-29'
+  end: '2026-05-29'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_analyst_report_2026_05_29_30e150f76c46.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 30e150f76c4650f97b563c26362deb5e5a7cf8e3d076182d0f9c47be57f57d2d
+covered_bank_ids:
+- maybank
+- cimb
+publisher: Kenanga Research
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q1 2026/Kenanga Research_Results
+  Note - Malayan Banking - 29 May 2026_29_May_2026.pdf

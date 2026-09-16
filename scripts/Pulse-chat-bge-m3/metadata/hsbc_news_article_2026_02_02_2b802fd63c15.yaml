@@ -1,0 +1,22 @@
+document_id: hsbc_news_article_2026_02_02_2b802fd63c15
+bank_id: hsbc
+title: ‘More comfortable, confident’ Shannon Tan for HSBC Women’s World C’ship
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-02'
+reporting_period:
+  start: '2026-02-02'
+  end: '2026-02-02'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_02_02_2b802fd63c15.pdf
+source_url: https://global.factiva.com/
+checksum: e0cf87d57eff4e012ca8bdf20359e943e716c4560fee3868bc35625e18005377
+covered_bank_ids:
+- hsbc
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260202EM2200209
+source_bundle: Q1/Factiva_Q12026_2.pdf
+source_page_start: 56
+source_page_end: 57

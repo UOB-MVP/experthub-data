@@ -1,0 +1,21 @@
+document_id: maybank_analyst_report_2025_02_27_c6e979d6c72d
+bank_id: maybank
+title: Microsoft Word - md250227
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-02-27'
+reporting_period:
+  start: '2025-02-27'
+  end: '2025-02-27'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: maybank/maybank_analyst_report_2025_02_27_c6e979d6c72d.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: c6e979d6c72dc8a188d10eee3242834e9ca3c95d304d82c5615c75fdfe248845
+covered_bank_ids:
+- maybank
+- uob
+publisher: UOB Kay Hian
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q4 2024/UOB Kay Hian_Malayan
+  Banking - 4Q24_ Supported By_27_Feb_2025.pdf

@@ -1,0 +1,22 @@
+document_id: uob_news_article_2026_06_10_7da650be309c
+bank_id: uob
+title: My job, my skills, my future
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-06-10'
+reporting_period:
+  start: '2026-06-10'
+  end: '2026-06-10'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/uob_news_article_2026_06_10_7da650be309c.pdf
+source_url: https://global.factiva.com/
+checksum: 8f8d1b77a9eb0ab6b1a84c4ffa52a72c81453df9409068c4b013281faabed4bf
+covered_bank_ids:
+- uob
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260610EM6A001E1
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 51
+source_page_end: 52

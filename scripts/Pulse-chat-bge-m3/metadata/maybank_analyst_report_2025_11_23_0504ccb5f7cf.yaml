@@ -1,0 +1,22 @@
+document_id: maybank_analyst_report_2025_11_23_0504ccb5f7cf
+bank_id: maybank
+title: Maybank Upgrade to Buy
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-11-23'
+reporting_period:
+  start: '2025-11-23'
+  end: '2025-11-23'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: maybank/maybank_analyst_report_2025_11_23_0504ccb5f7cf.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 0504ccb5f7cfc886c0bba7942305fbd843ee48038a9b82cc5dc2065b725be164
+covered_bank_ids:
+- maybank
+- uob
+- cimb
+publisher: Jefferies LLC
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q3 2025/Jefferies LLC_Maybank_Upgrade
+  to Buy_23_Nov_2025.pdf

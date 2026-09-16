@@ -1,0 +1,23 @@
+document_id: ocbc_news_article_2026_08_08_e81d9793499a
+bank_id: ocbc
+title: OCBC raises 2026 loan growth forecast after Q2 profit jumps 22%, lifts dividend
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-08'
+reporting_period:
+  start: '2026-08-08'
+  end: '2026-08-08'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_news_article_2026_08_08_e81d9793499a.pdf
+source_url: https://global.factiva.com/
+checksum: 9ba436424b88c8596d08dc41993528703a04d7cb420aa954e0fdc64583bb0603
+covered_bank_ids:
+- ocbc
+- hsbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260808EM880000M
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 125
+source_page_end: 126

@@ -1,0 +1,20 @@
+document_id: cimb_analyst_report_2026_03_01_c593bf3990cf
+bank_id: cimb
+title: CIMB MK 28Feb26
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-03-01'
+reporting_period:
+  start: '2026-03-01'
+  end: '2026-03-01'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: cimb/cimb_analyst_report_2026_03_01_c593bf3990cf.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: c593bf3990cfddf9b99782e208482d4cf910538834f14fa6c08eb8d7c32a639c
+covered_bank_ids:
+- cimb
+publisher: AmInvestment Bank Berhad Research Division
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q4 2025/AmInvestment Bank Berhad
+  Research Division_CIMB Underappreciated giant_01_Mar_2026.pdf

@@ -1,0 +1,25 @@
+document_id: dbs_news_article_2026_01_02_6ea6e8ccfd12
+bank_id: dbs
+title: S’pore banks still face net interest margin pressure in 2026, but DBS is better
+  hedged, analysts say
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-01-02'
+reporting_period:
+  start: '2026-01-02'
+  end: '2026-01-02'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_01_02_6ea6e8ccfd12.pdf
+source_url: https://global.factiva.com/
+checksum: c2e75d5c4b1fc6f54a8a996ddfffc4006fae5c6e93227d9078de2c8abce80e64
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260102EM1200105
+source_bundle: Q1/Factiva_Q12026_2.pdf
+source_page_start: 144
+source_page_end: 146

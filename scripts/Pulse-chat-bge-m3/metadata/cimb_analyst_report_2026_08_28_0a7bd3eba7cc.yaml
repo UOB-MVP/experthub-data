@@ -1,0 +1,24 @@
+document_id: cimb_analyst_report_2026_08_28_0a7bd3eba7cc
+bank_id: cimb
+title: 'CIMB Group Holdings: First Take: A small beat vs. JPMe; stay N'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-08-28'
+reporting_period:
+  start: '2026-08-28'
+  end: '2026-08-28'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: cimb/cimb_analyst_report_2026_08_28_0a7bd3eba7cc.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 0a7bd3eba7cc3ff381d638875b1a2f8be4cf8b3b75a5652046fb26f7b302450a
+covered_bank_ids:
+- cimb
+- uob
+- dbs
+- ocbc
+- maybank
+publisher: J.P. Morgan
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q2 2026/JPMorgan_CIMB_ First
+  Take_ A small beat vs. JPMe_28_Aug_2026.pdf

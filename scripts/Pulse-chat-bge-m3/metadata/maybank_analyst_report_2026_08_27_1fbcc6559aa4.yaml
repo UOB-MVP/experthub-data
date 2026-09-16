@@ -1,0 +1,20 @@
+document_id: maybank_analyst_report_2026_08_27_1fbcc6559aa4
+bank_id: maybank
+title: MAYBANK 2Q26 Results Review
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-08-27'
+reporting_period:
+  start: '2026-08-27'
+  end: '2026-08-27'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_analyst_report_2026_08_27_1fbcc6559aa4.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 1fbcc6559aa4e7814002e432108b94f4d8ab04afc65f00da13530a8f7c11693b
+covered_bank_ids:
+- maybank
+publisher: Hong Leong
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q2 2026/Hong Leong_MAYBANK
+  2Q26 Results Review_27_Aug_2026.pdf

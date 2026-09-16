@@ -1,0 +1,23 @@
+document_id: standard_chartered_news_article_2026_07_11_e08101ca0239
+bank_id: standard_chartered
+title: 'China narrows AI gap with US as open-source shift could hit valuations: George
+  Yeo'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-07-11'
+reporting_period:
+  start: '2026-07-11'
+  end: '2026-07-11'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_news_article_2026_07_11_e08101ca0239.pdf
+source_url: https://global.factiva.com/
+checksum: 352f58b895b71aa5441ddd7cd74740ef89f82bc1772164ace53d68331ae0f460
+covered_bank_ids:
+- standard_chartered
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260711EM7B0000H
+source_bundle: QtD/Factiva_Q2tD2026_2.pdf
+source_page_start: 81
+source_page_end: 82

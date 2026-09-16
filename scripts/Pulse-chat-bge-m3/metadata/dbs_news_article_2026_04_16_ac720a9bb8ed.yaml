@@ -1,0 +1,22 @@
+document_id: dbs_news_article_2026_04_16_ac720a9bb8ed
+bank_id: dbs
+title: DBS acquires six floors at The Center for HK$2.6b
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-04-16'
+reporting_period:
+  start: '2026-04-16'
+  end: '2026-04-16'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_04_16_ac720a9bb8ed.pdf
+source_url: https://global.factiva.com/
+checksum: c7d93155eea405b9e1541a1a30de4a68c417281850611d649b8a1efa27bb88fd
+covered_bank_ids:
+- dbs
+publisher: South China Morning Post
+geography: Hong Kong
+source_document_id: SCMP000020260415EM4G0000B
+source_bundle: Q2/Factiva_Q22026_2.pdf
+source_page_start: 60
+source_page_end: 61

@@ -1,0 +1,20 @@
+document_id: cimb_analyst_report_2024_06_03_810b8875a8d2
+bank_id: cimb
+title: CIMB Group
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2024-06-03'
+reporting_period:
+  start: '2024-06-03'
+  end: '2024-06-03'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: cimb/cimb_analyst_report_2024_06_03_810b8875a8d2.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 810b8875a8d2d7c50d22fce555c4c9122520d8a0984d539ee167ba5466dac577
+covered_bank_ids:
+- cimb
+publisher: Hong Leong Investment Bank
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q1 2024/Hong Leong Investment
+  Bank_CIMB_Group_03_Jun_2024.pdf

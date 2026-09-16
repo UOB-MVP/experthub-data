@@ -1,0 +1,20 @@
+document_id: cimb_analyst_report_2024_11_28_68e0b37cf687
+bank_id: cimb
+title: CIMB-3Q24-Strong Performance Led by NOII
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2024-11-28'
+reporting_period:
+  start: '2024-11-28'
+  end: '2024-11-28'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: cimb/cimb_analyst_report_2024_11_28_68e0b37cf687.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 68e0b37cf6871a9a7a8cafc37a5831c5532974d48169e41a821b7fe9a6fa8201
+covered_bank_ids:
+- cimb
+publisher: MBSB Investment Bank
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q3 2024/MBSB Investment Bank_CIMB-3Q24-Strong
+  Performance Led by NOII_28_Nov_2024.pdf

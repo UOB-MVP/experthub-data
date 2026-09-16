@@ -1,0 +1,20 @@
+document_id: cimb_analyst_report_2026_05_29_46736875874a
+bank_id: cimb
+title: CIMB-1Q26-NIM Expansion Expected
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-05-29'
+reporting_period:
+  start: '2026-05-29'
+  end: '2026-05-29'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: cimb/cimb_analyst_report_2026_05_29_46736875874a.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 46736875874a70d25987e3283c7e8d319102729b8bfc1dda24001631044ea577
+covered_bank_ids:
+- cimb
+publisher: MBSB Investment Bank
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q1 2026/MBSB Investment Bank_CIMB-1Q26-NIM
+  Expansion Expected_29_May_2026.pdf

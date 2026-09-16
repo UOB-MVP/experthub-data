@@ -1,0 +1,22 @@
+document_id: maybank_news_article_2026_01_24_2c4dd6923989
+bank_id: maybank
+title: SUNWAY HEALTHCARE’S BURSA LISTING APPROVED
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-01-24'
+reporting_period:
+  start: '2026-01-24'
+  end: '2026-01-24'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_01_24_2c4dd6923989.pdf
+source_url: https://global.factiva.com/
+checksum: ecdff1830073df18bac9cbdbc825734af432f4b89718445ce15fd96313e21b5a
+covered_bank_ids:
+- maybank
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260126EM1O0000E
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q1/Factiva_CIMBMAY_Q1.pdf
+source_page_start: 55
+source_page_end: 55

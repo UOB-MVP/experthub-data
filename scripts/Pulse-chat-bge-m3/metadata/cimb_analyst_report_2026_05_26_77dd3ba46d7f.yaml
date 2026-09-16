@@ -1,0 +1,24 @@
+document_id: cimb_analyst_report_2026_05_26_77dd3ba46d7f
+bank_id: cimb
+title: CIMB Group
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-05-26'
+reporting_period:
+  start: '2026-05-26'
+  end: '2026-05-26'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: cimb/cimb_analyst_report_2026_05_26_77dd3ba46d7f.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 77dd3ba46d7f83fc498f7df6074f1c64ecca553c031cd39c329ea0b6b3132afc
+covered_bank_ids:
+- cimb
+- uob
+- dbs
+- ocbc
+- maybank
+publisher: BofA Securities
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q1 2026/BofA_CIMB_ 1Q26 – core
+  drivers largely intact_26_May_2026.pdf

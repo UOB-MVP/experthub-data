@@ -1,0 +1,25 @@
+document_id: cimb_analyst_report_2025_02_28_67fa713e765e
+bank_id: cimb
+title: 'CIMB Group Holdings: First take: 4Q misses on treasury and Niaga, 2025 guidance
+  appears low'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-02-28'
+reporting_period:
+  start: '2025-02-28'
+  end: '2025-02-28'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: cimb/cimb_analyst_report_2025_02_28_67fa713e765e.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 67fa713e765e64debfa15820c29dc19610f0fb30b884fa4eed6ba6a82734c49d
+covered_bank_ids:
+- cimb
+- uob
+- dbs
+- ocbc
+- maybank
+publisher: J.P. Morgan
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q4 2024/JPMorgan_CIMB_ First
+  take_ 4Q misses on treasury and Niaga_28_Feb_2025.pdf

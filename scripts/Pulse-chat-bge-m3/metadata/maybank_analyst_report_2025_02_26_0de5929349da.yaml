@@ -1,0 +1,20 @@
+document_id: maybank_analyst_report_2025_02_26_0de5929349da
+bank_id: maybank
+title: Maybank - Beats high earnings expectations
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-02-26'
+reporting_period:
+  start: '2025-02-26'
+  end: '2025-02-26'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: maybank/maybank_analyst_report_2025_02_26_0de5929349da.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 0de5929349da81804644c97e01b40e3891a4780a5e3e983420b32858900a1fe6
+covered_bank_ids:
+- maybank
+publisher: Nomura Securities
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q4 2024/Nomura Securities_Maybank
+  - Beats _high earnings expectations_26_Feb_2025.pdf

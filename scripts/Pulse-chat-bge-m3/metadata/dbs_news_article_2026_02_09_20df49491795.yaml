@@ -1,0 +1,22 @@
+document_id: dbs_news_article_2026_02_09_20df49491795
+bank_id: dbs
+title: DBS to give junior staff one-time bonus of S$1,000 each
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-09'
+reporting_period:
+  start: '2026-02-09'
+  end: '2026-02-09'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_02_09_20df49491795.pdf
+source_url: https://global.factiva.com/
+checksum: c7e509147ae04f3189f34e00c98a73c913fb0f3d0c72b9b21f971ad3dc4305c5
+covered_bank_ids:
+- dbs
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260209EM29001JL
+source_bundle: Q1/Factiva_Q12026_2.pdf
+source_page_start: 28
+source_page_end: 28

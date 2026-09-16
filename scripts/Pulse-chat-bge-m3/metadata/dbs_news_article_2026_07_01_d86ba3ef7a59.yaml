@@ -1,0 +1,22 @@
+document_id: dbs_news_article_2026_07_01_d86ba3ef7a59
+bank_id: dbs
+title: DBS completes US$1b significant risk transfer deal, a first for Singapore bank
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-07-01'
+reporting_period:
+  start: '2026-07-01'
+  end: '2026-07-01'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_07_01_d86ba3ef7a59.pdf
+source_url: https://global.factiva.com/
+checksum: 354b9eff02bb4673167e4fd2df97236e644cee23d083e03bfccc584498073122
+covered_bank_ids:
+- dbs
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260701EM7100004
+source_bundle: QtD/Factiva_Q2tD2026_2.pdf
+source_page_start: 117
+source_page_end: 117

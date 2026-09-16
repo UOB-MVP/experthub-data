@@ -1,0 +1,22 @@
+document_id: dbs_news_article_2026_03_25_bd5915375c7d
+bank_id: dbs
+title: DBS, Genting Singapore and CapitaLand lead retail buys on SGX in March
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-03-25'
+reporting_period:
+  start: '2026-03-25'
+  end: '2026-03-25'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_03_25_bd5915375c7d.pdf
+source_url: https://global.factiva.com/
+checksum: a44e10f2e70054c73ef33b1cc94ad7dc78afcf94cb20c482304355a8f027eb5c
+covered_bank_ids:
+- dbs
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260325EM3P001MD
+source_bundle: Q1/Factiva_Q12026_1.pdf
+source_page_start: 20
+source_page_end: 21

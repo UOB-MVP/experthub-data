@@ -1,0 +1,16 @@
+document_id: uob_analyst_report_2026_05_11_21a78803a60c
+bank_id: uob
+title: 'APAC Credit Roundup: Weekly Review: Week ended May 8'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-05-11'
+reporting_period:
+  start: '2026-05-11'
+  end: '2026-05-11'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/uob_analyst_report_2026_05_11_21a78803a60c.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 21a78803a60c79cd23c1d6ee23ca02d784ce272dbb34d6be774afae2854ab304
+covered_bank_ids:
+- uob

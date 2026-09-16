@@ -1,0 +1,19 @@
+document_id: cimb_earnings_call_transcript_2026_08_28_56ee3a2975c9
+bank_id: cimb
+title: CIMB Group Holdings Berhad FQ2 2026 Earnings Call Transcript
+source_type: approved_third_party
+document_type: earnings_call_transcript
+publication_date: '2026-08-28'
+reporting_period:
+  start: '2026-04-01'
+  end: '2026-06-30'
+  period_type: quarter
+  fiscal_year: 2026
+source_file: cimb/cimb_earnings_call_transcript_2026_08_28_56ee3a2975c9.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 56ee3a2975c9f9f38afcd750cbb37d1242bab0a5df1f05d043de4d7cf688659b
+covered_bank_ids:
+- cimb
+publisher: S&P Global Market Intelligence
+geography: Malaysia
+source_bundle: earnings call CIMB.zip/CIMB/CIMB_Transcript_Q22026.pdf

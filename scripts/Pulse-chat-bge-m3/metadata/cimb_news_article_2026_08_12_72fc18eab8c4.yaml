@@ -1,0 +1,22 @@
+document_id: cimb_news_article_2026_08_12_72fc18eab8c4
+bank_id: cimb
+title: ‘OVERWEIGHT’ CALLS ON PALM OIL SECTOR
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-12'
+reporting_period:
+  start: '2026-08-12'
+  end: '2026-08-12'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: cimb/cimb_news_article_2026_08_12_72fc18eab8c4.pdf
+source_url: https://global.factiva.com/
+checksum: ad8d1b1d1e4d2a9349aa15955ef60b4b6373bdcced35d8ad128eafda8113ff79
+covered_bank_ids:
+- cimb
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260812EM8C00002
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/QtD/Factiva_CIMBMAY_QtD2026.pdf
+source_page_start: 16
+source_page_end: 16

@@ -1,0 +1,20 @@
+document_id: maybank_analyst_report_2024_08_28_097d94da83b1
+bank_id: maybank
+title: Maybank 2Q24 Results Review
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2024-08-28'
+reporting_period:
+  start: '2024-08-28'
+  end: '2024-08-28'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: maybank/maybank_analyst_report_2024_08_28_097d94da83b1.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 097d94da83b176d444df87d790248c6b7e7d803c80230f384c76813251d37cd1
+covered_bank_ids:
+- maybank
+publisher: Hong Leong
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q2 2024/Hong Leong_Maybank
+  2Q24 Results Review_28_Aug_2024.pdf

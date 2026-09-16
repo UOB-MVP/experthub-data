@@ -1,0 +1,20 @@
+document_id: cimb_analyst_report_2025_06_02_598f78b8a532
+bank_id: cimb
+title: CIMB 1Q25 Results Review
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-06-02'
+reporting_period:
+  start: '2025-06-02'
+  end: '2025-06-02'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: cimb/cimb_analyst_report_2025_06_02_598f78b8a532.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 598f78b8a532e7eb6f1658eebc2ed66f7b709fb344e269c3363a785920dbb898
+covered_bank_ids:
+- cimb
+publisher: Hong Leong Investment Bank
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q1 2025/Hong Leong Investment
+  Bank_CIMB 1Q25 Results Review_02_Jun_2025.pdf

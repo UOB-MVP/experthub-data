@@ -1,0 +1,14 @@
+document_id: hsbc_holdings_annual_report_2025_en
+bank_id: hsbc
+title: HSBC Holdings plc Annual Report and Accounts 2025
+source_type: official
+document_type: annual_report
+publication_date: "2026-02-25"
+reporting_period:
+  start: "2025-01-01"
+  end: "2025-12-31"
+  period_type: fiscal_year
+  fiscal_year: 2025
+source_file: hsbc/hsbc-holdings-plc-annual-report-2025.pdf
+source_url: https://www.hsbc.com/investors/results-and-announcements/annual-report
+checksum: 94aab2f5c83d1060ee95d344f1915833869fe4502dc635e4ab9ca84f496ee94b

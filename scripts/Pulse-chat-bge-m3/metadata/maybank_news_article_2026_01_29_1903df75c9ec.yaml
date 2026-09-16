@@ -1,0 +1,22 @@
+document_id: maybank_news_article_2026_01_29_1903df75c9ec
+bank_id: maybank
+title: FOREIGN FUNDS DRIVE BURSA RALLY
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-01-29'
+reporting_period:
+  start: '2026-01-29'
+  end: '2026-01-29'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_01_29_1903df75c9ec.pdf
+source_url: https://global.factiva.com/
+checksum: 04204a86c72772c4992c6306276011980460f2be12fa4162663e3a96eb067c34
+covered_bank_ids:
+- maybank
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260129EM1T0000A
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q1/Factiva_CIMBMAY_Q1.pdf
+source_page_start: 50
+source_page_end: 50

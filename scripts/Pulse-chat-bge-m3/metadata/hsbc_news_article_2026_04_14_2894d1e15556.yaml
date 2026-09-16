@@ -1,0 +1,23 @@
+document_id: hsbc_news_article_2026_04_14_2894d1e15556
+bank_id: hsbc
+title: HSBC to continue to invest in Gulf wealth business
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-04-14'
+reporting_period:
+  start: '2026-04-14'
+  end: '2026-04-14'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_04_14_2894d1e15556.pdf
+source_url: https://global.factiva.com/
+checksum: 09055c38b884b84dc6a004346e1506089c266c3a57ddfb2997afa7983b2f905f
+covered_bank_ids:
+- hsbc
+- standard_chartered
+publisher: South China Morning Post
+geography: Hong Kong
+source_document_id: SCMP000020260413EM4E0000J
+source_bundle: Q2/Factiva_Q22026_2.pdf
+source_page_start: 71
+source_page_end: 72

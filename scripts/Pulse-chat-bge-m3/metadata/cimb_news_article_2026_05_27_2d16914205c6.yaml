@@ -1,0 +1,22 @@
+document_id: cimb_news_article_2026_05_27_2d16914205c6
+bank_id: cimb
+title: CIMB records RM1.9b profit
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-05-27'
+reporting_period:
+  start: '2026-05-27'
+  end: '2026-05-27'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: cimb/cimb_news_article_2026_05_27_2d16914205c6.pdf
+source_url: https://global.factiva.com/
+checksum: cb0fffe730595c0db3205b986701f9b32b6f6f414869fb0a9fc8bb9b89b08349
+covered_bank_ids:
+- cimb
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260528EM5R0000E
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q2/Factiva_CIMBMAY_Q2.pdf
+source_page_start: 14
+source_page_end: 14

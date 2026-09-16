@@ -1,0 +1,20 @@
+document_id: market_industry_report_2025_12_22_7226c7c1a62a
+bank_id: market
+title: 'Financial services : South Korea'
+source_type: approved_third_party
+document_type: industry_report
+publication_date: '2025-12-22'
+reporting_period:
+  start: '2025-12-22'
+  end: '2025-12-22'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: market/market_industry_report_2025_12_22_7226c7c1a62a.pdf
+source_url: https://viewpoint.eiu.com/analysis/geography/XO/KR/reports/ﬁnancial-services/2025-12-22
+checksum: 7226c7c1a62a74d085d75be4ff7ce1887f5cea02b3d869299a1e2e37e39fe44e
+covered_bank_ids:
+- market
+- standard_chartered
+publisher: Economist Intelligence Unit
+geography: South Korea
+source_bundle: EMIS/Financial services _ South Korea 2025.pdf

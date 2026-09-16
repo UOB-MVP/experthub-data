@@ -1,0 +1,23 @@
+document_id: dbs_news_article_2026_05_25_33cf355309af
+bank_id: dbs
+title: 6½ years’ jail for former DBS manager who cheated 7 victims of nearly $1.4
+  million
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-05-25'
+reporting_period:
+  start: '2026-05-25'
+  end: '2026-05-25'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_05_25_33cf355309af.pdf
+source_url: https://global.factiva.com/
+checksum: ac48fe554e638b8e847681ca26a625d78a91143bcdd28fea24428878126d01c6
+covered_bank_ids:
+- dbs
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260525EM5P000MB
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 86
+source_page_end: 87

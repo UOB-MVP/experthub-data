@@ -1,0 +1,24 @@
+document_id: dbs_news_article_2026_08_10_2aff5f18ca74
+bank_id: dbs
+title: 'Emotional dividends: The compounding return of staying calm'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-10'
+reporting_period:
+  start: '2026-08-10'
+  end: '2026-08-10'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_08_10_2aff5f18ca74.pdf
+source_url: https://global.factiva.com/
+checksum: 030e00e2b292ddb1df8dc90c3f8d2a271f00a8fc39aed80b39829e73add91b9a
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260810EM8A00002
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 113
+source_page_end: 114

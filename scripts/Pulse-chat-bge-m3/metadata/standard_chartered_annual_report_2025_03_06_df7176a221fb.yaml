@@ -1,0 +1,16 @@
+document_id: standard_chartered_annual_report_2025_03_06_df7176a221fb
+bank_id: standard_chartered
+title: standard-chartered-plc-full-year-2024-report
+source_type: official
+document_type: annual_report
+publication_date: '2025-03-06'
+reporting_period:
+  start: '2024-01-01'
+  end: '2024-12-31'
+  period_type: fiscal_year
+  fiscal_year: 2024
+source_file: standard_chartered/standard_chartered_annual_report_2025_03_06_df7176a221fb.pdf
+source_url: https://www.sc.com/en/investors/
+checksum: df7176a221fbc7759c670e6604ea7e906caa7f840708b381250b31e71f55bbdd
+covered_bank_ids:
+- standard_chartered

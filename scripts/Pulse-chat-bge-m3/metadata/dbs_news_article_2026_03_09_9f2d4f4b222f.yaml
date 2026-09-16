@@ -1,0 +1,22 @@
+document_id: dbs_news_article_2026_03_09_9f2d4f4b222f
+bank_id: dbs
+title: Amid Mid-East conflict, DBS advises SMEs to lock in FX exposure
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-03-09'
+reporting_period:
+  start: '2026-03-09'
+  end: '2026-03-09'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_03_09_9f2d4f4b222f.pdf
+source_url: https://global.factiva.com/
+checksum: 273642d28f6fe4930af152797b133db671db53ef954c77e80ee9ec66bacd311f
+covered_bank_ids:
+- dbs
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260309EM3900007
+source_bundle: Q1/Factiva_Q12026_1.pdf
+source_page_start: 84
+source_page_end: 85

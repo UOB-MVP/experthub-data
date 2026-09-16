@@ -1,0 +1,16 @@
+document_id: dbs_results_presentation_2026_04_30_71ec05e294b6
+bank_id: dbs
+title: 1Q26 CEO presentation
+source_type: official
+document_type: results_presentation
+publication_date: '2026-04-30'
+reporting_period:
+  start: '2026-01-01'
+  end: '2026-03-31'
+  period_type: quarter
+  fiscal_year: 2026
+source_file: dbs/dbs_results_presentation_2026_04_30_71ec05e294b6.pdf
+source_url: https://www.dbs.com/investors/
+checksum: 71ec05e294b629467c45bb700a65187d54931efd8eea3ef598ffb294edd3e3f0
+covered_bank_ids:
+- dbs

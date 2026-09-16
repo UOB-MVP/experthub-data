@@ -1,0 +1,24 @@
+document_id: dbs_news_article_2026_06_26_edf99009c492
+bank_id: dbs
+title: ATMs, cashpoints to be closer to home as banks expand support for seniors
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-06-26'
+reporting_period:
+  start: '2026-06-26'
+  end: '2026-06-26'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_06_26_edf99009c492.pdf
+source_url: https://global.factiva.com/
+checksum: 7dff26cf76072d963f06cb8d70ece533327c1e32feca349ef0e43c85434ae331
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260626EM6Q0000C
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 14
+source_page_end: 15

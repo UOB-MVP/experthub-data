@@ -1,0 +1,22 @@
+document_id: hsbc_news_article_2026_02_26_543ccd8cc626
+bank_id: hsbc
+title: HSBC to deliver cost savings six months early
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-26'
+reporting_period:
+  start: '2026-02-26'
+  end: '2026-02-26'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_02_26_543ccd8cc626.pdf
+source_url: https://global.factiva.com/
+checksum: 669b0a49d955008ad9e860434bdbd299d940e59b12b56d3354744fa11ef165e7
+covered_bank_ids:
+- hsbc
+publisher: Financial Times
+geography: Asia-Pacific
+source_document_id: FTFTA00020260226EM2Q0007Z
+source_bundle: Q1/Factiva_Q12026_1.pdf
+source_page_start: 128
+source_page_end: 128

@@ -1,0 +1,20 @@
+document_id: maybank_analyst_report_2025_05_26_b6430dbec72c
+bank_id: maybank
+title: Maybank - In-line earnings
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-05-26'
+reporting_period:
+  start: '2025-05-26'
+  end: '2025-05-26'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: maybank/maybank_analyst_report_2025_05_26_b6430dbec72c.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: b6430dbec72c90c18d2b4020349cce9fc1380acb6f6b7e75cd30b10124501a42
+covered_bank_ids:
+- maybank
+publisher: Nomura Securities
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q1 2025/Nomura Securities_Maybank
+  - In-line earnings_26_May_2025.pdf

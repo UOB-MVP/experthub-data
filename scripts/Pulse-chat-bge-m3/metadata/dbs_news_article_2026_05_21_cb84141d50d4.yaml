@@ -1,0 +1,23 @@
+document_id: dbs_news_article_2026_05_21_cb84141d50d4
+bank_id: dbs
+title: Temasek-backed fund under Singapore’s blended finance initiative hits US$800m
+  in second close
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-05-21'
+reporting_period:
+  start: '2026-05-21'
+  end: '2026-05-21'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_05_21_cb84141d50d4.pdf
+source_url: https://global.factiva.com/
+checksum: 743328dda90db503908dcd3499248d8ccfbeb769a0a26c530f7ea65a52338c63
+covered_bank_ids:
+- dbs
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260521EM5L00009
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 96
+source_page_end: 98

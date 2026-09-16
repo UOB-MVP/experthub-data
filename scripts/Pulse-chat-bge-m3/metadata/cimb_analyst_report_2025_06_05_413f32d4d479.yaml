@@ -1,0 +1,20 @@
+document_id: cimb_analyst_report_2025_06_05_413f32d4d479
+bank_id: cimb
+title: CIMB-1Q25-Overseas Overhaul
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-06-05'
+reporting_period:
+  start: '2025-06-05'
+  end: '2025-06-05'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: cimb/cimb_analyst_report_2025_06_05_413f32d4d479.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 413f32d4d479501e7b8b233e6e590d9b9c1e9c084f8696390d9bdd5832b49f99
+covered_bank_ids:
+- cimb
+publisher: MBSB Investment Bank
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q1 2025/MBSB Investment Bank_CIMB-1Q25-Overseas
+  Overhaul_05_Jun_2025.pdf

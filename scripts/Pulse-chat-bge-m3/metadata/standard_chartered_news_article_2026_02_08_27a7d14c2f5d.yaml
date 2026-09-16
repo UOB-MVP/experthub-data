@@ -1,0 +1,22 @@
+document_id: standard_chartered_news_article_2026_02_08_27a7d14c2f5d
+bank_id: standard_chartered
+title: How a product developer pivoted to AI strategy at StanChart
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-08'
+reporting_period:
+  start: '2026-02-08'
+  end: '2026-02-08'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_news_article_2026_02_08_27a7d14c2f5d.pdf
+source_url: https://global.factiva.com/
+checksum: 9cef782654abc044a3eb451c38bb631c9979cc40e3dbac9484c5a6816f1e9c26
+covered_bank_ids:
+- standard_chartered
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260208EM280000D
+source_bundle: Q1/Factiva_Q12026_2.pdf
+source_page_start: 37
+source_page_end: 38

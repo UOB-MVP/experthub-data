@@ -1,0 +1,23 @@
+document_id: ocbc_news_article_2026_04_23_e93ffd13403e
+bank_id: ocbc
+title: 'Singapore SMEs extend growth streak in Q1, but Middle East war clouds outlook:
+  OCBC'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-04-23'
+reporting_period:
+  start: '2026-04-23'
+  end: '2026-04-23'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_news_article_2026_04_23_e93ffd13403e.pdf
+source_url: https://global.factiva.com/
+checksum: bfd4ec14b6de1dd00971d3a80ea3cef9fce41ad0b58e1d21dd10655cf34707c6
+covered_bank_ids:
+- ocbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260423EM4N0000L
+source_bundle: Q2/Factiva_Q22026_2.pdf
+source_page_start: 37
+source_page_end: 38

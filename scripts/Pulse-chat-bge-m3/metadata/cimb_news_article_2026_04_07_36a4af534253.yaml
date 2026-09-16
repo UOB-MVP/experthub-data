@@ -1,0 +1,23 @@
+document_id: cimb_news_article_2026_04_07_36a4af534253
+bank_id: cimb
+title: FOREIGN INVESTORS TURN NET SELLERS
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-04-07'
+reporting_period:
+  start: '2026-04-07'
+  end: '2026-04-07'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: cimb/cimb_news_article_2026_04_07_36a4af534253.pdf
+source_url: https://global.factiva.com/
+checksum: 879a8d564981b8bfd11c1128b2e9b6df4212f2720fddee20fa54f0de3bf3f205
+covered_bank_ids:
+- cimb
+- maybank
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260407EM4700007
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q2/Factiva_CIMBMAY_Q2.pdf
+source_page_start: 44
+source_page_end: 44

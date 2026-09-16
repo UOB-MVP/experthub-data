@@ -1,0 +1,22 @@
+document_id: dbs_news_article_2026_05_15_17122664604a
+bank_id: dbs
+title: IHH bags S$250 million green loan from DBS to promote safe use of antibiotics
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-05-15'
+reporting_period:
+  start: '2026-05-15'
+  end: '2026-05-15'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_05_15_17122664604a.pdf
+source_url: https://global.factiva.com/
+checksum: 98adf0493fa4000705136ef492156293e6b3c8a39e44d9079edc345ec1154ef0
+covered_bank_ids:
+- dbs
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260515EM5F000XD
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 134
+source_page_end: 134

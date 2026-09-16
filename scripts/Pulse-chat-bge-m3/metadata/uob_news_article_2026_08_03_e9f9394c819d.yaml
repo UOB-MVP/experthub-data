@@ -1,0 +1,23 @@
+document_id: uob_news_article_2026_08_03_e9f9394c819d
+bank_id: uob
+title: Lion Global Investors accumulates shares in Valuetronics and iX Biopharma
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-03'
+reporting_period:
+  start: '2026-08-03'
+  end: '2026-08-03'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/uob_news_article_2026_08_03_e9f9394c819d.pdf
+source_url: https://global.factiva.com/
+checksum: 79c16ad27ddeb25e4063eb85c0248bcf5e891f3d377b8e505d3f6502bb347571
+covered_bank_ids:
+- uob
+- ocbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260803EM830000F
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 166
+source_page_end: 169

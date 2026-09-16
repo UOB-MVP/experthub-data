@@ -1,0 +1,24 @@
+document_id: maybank_analyst_report_2024_08_28_6c6b6fc220ed
+bank_id: maybank
+title: MY Malayan Banking Bhd - An upturn in NIM in 2Q24
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2024-08-28'
+reporting_period:
+  start: '2024-08-28'
+  end: '2024-08-28'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: maybank/maybank_analyst_report_2024_08_28_6c6b6fc220ed.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 6c6b6fc220edf5791e36ffdd38c8696cdd4183e7eb37c6d5ddbbe6bd63d9860d
+covered_bank_ids:
+- maybank
+- uob
+- dbs
+- ocbc
+- cimb
+publisher: CGS International
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q2 2024/CGS International_MY
+  _ Malayan Banking Bhd - An upturn in NIM in 2Q24_28_Aug_2024.pdf

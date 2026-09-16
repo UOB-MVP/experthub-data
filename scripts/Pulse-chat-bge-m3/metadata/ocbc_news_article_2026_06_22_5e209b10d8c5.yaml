@@ -1,0 +1,22 @@
+document_id: ocbc_news_article_2026_06_22_5e209b10d8c5
+bank_id: ocbc
+title: AI simplifies OCBC staff’s customer service tasks, increases productivity
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-06-22'
+reporting_period:
+  start: '2026-06-22'
+  end: '2026-06-22'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_news_article_2026_06_22_5e209b10d8c5.pdf
+source_url: https://global.factiva.com/
+checksum: 837b2d7c6b242b7d776f37ce617f5e59ae643d40f01de104e0bcb17ad0607507
+covered_bank_ids:
+- ocbc
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260622EM6M0000L
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 20
+source_page_end: 21

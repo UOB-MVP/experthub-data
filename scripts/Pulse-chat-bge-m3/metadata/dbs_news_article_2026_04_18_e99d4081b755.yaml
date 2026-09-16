@@ -1,0 +1,24 @@
+document_id: dbs_news_article_2026_04_18_e99d4081b755
+bank_id: dbs
+title: Autobahn Rent A Car directors declared bankrupt over S$50m each owed to DBS
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-04-18'
+reporting_period:
+  start: '2026-04-18'
+  end: '2026-04-18'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_04_18_e99d4081b755.pdf
+source_url: https://global.factiva.com/
+checksum: 92c47b651c950f6f089843dd76489aa6d687fa4521abb30d402a4474d82aab26
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260418EM4I0000D
+source_bundle: Q2/Factiva_Q22026_2.pdf
+source_page_start: 52
+source_page_end: 52

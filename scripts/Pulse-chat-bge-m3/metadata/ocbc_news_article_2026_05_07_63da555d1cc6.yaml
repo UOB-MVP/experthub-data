@@ -1,0 +1,25 @@
+document_id: ocbc_news_article_2026_05_07_63da555d1cc6
+bank_id: ocbc
+title: OCBC Q1 profit rises 5% to S$1.97 billion, beats estimates
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-05-07'
+reporting_period:
+  start: '2026-05-07'
+  end: '2026-05-07'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_news_article_2026_05_07_63da555d1cc6.pdf
+source_url: https://global.factiva.com/
+checksum: f01e3b19310b8badb8325bb4b513516b50813b0ed72700888977dc608a3ee862
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+- hsbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260507EM57001RX
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 164
+source_page_end: 164

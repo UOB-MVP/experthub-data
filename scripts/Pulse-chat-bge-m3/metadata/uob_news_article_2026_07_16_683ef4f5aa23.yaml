@@ -1,0 +1,22 @@
+document_id: uob_news_article_2026_07_16_683ef4f5aa23
+bank_id: uob
+title: F&B businesses to get funding, advisory support under new AI programme
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-07-16'
+reporting_period:
+  start: '2026-07-16'
+  end: '2026-07-16'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/uob_news_article_2026_07_16_683ef4f5aa23.pdf
+source_url: https://global.factiva.com/
+checksum: 8e120faa9433a39283b97f02164be308635611846abee6706264ade505d2d793
+covered_bank_ids:
+- uob
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260716EM7G00004
+source_bundle: QtD/Factiva_Q2tD2026_2.pdf
+source_page_start: 56
+source_page_end: 57

@@ -1,0 +1,22 @@
+document_id: hsbc_news_article_2026_05_06_e4e69b8e721a
+bank_id: hsbc
+title: HSBC to Record Hit From an Alleged Fraud
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-05-06'
+reporting_period:
+  start: '2026-05-06'
+  end: '2026-05-06'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_05_06_e4e69b8e721a.pdf
+source_url: https://global.factiva.com/
+checksum: edd1e7a87dabf8bc5a464f5a7a8aec20c0e2ba038f958f6f56a1953c9f2fd899
+covered_bank_ids:
+- hsbc
+publisher: The Wall Street Journal
+geography: Asia-Pacific
+source_document_id: J000000020260506EM56000BF
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 170
+source_page_end: 170

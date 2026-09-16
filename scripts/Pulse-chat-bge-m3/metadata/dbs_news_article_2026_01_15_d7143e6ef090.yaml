@@ -1,0 +1,24 @@
+document_id: dbs_news_article_2026_01_15_d7143e6ef090
+bank_id: dbs
+title: Top 10 SGX-listed ETFs by net retail flows; SPDR Gold Shares beats STI ETF
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-01-15'
+reporting_period:
+  start: '2026-01-15'
+  end: '2026-01-15'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_01_15_d7143e6ef090.pdf
+source_url: https://global.factiva.com/
+checksum: 24bd6364485dcd34dc4b86260141cf03706c4758309737f4cb39b6f838ed9501
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260115EM1F0005L
+source_bundle: Q1/Factiva_Q12026_2.pdf
+source_page_start: 114
+source_page_end: 115

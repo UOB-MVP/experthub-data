@@ -1,0 +1,23 @@
+document_id: ocbc_news_article_2026_04_17_3f0176c187a6
+bank_id: ocbc
+title: OCBC wealth advisers get Gen AI training to sharpen skills and serve customers
+  better
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-04-17'
+reporting_period:
+  start: '2026-04-17'
+  end: '2026-04-17'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_news_article_2026_04_17_3f0176c187a6.pdf
+source_url: https://global.factiva.com/
+checksum: 105fc37b347ee88386226249fa86debd93b0bb9fe778925b5eddcfaee94acbe8
+covered_bank_ids:
+- ocbc
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260417EM4H002E5
+source_bundle: Q2/Factiva_Q22026_2.pdf
+source_page_start: 56
+source_page_end: 57

@@ -1,0 +1,20 @@
+document_id: cimb_analyst_report_2026_05_28_e69fb0719b5a
+bank_id: cimb
+title: No Immediate Concerns Over Asset Quality
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-05-28'
+reporting_period:
+  start: '2026-05-28'
+  end: '2026-05-28'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: cimb/cimb_analyst_report_2026_05_28_e69fb0719b5a.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: e69fb0719b5a2d502e2d62de44fad073211ab6a0375f5d06d262be14ec307c08
+covered_bank_ids:
+- cimb
+publisher: Public Investment Bank
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q1 2026/Public Investment Bank_No
+  Immediate Concerns Over Asset Quality_28_May_2026.pdf

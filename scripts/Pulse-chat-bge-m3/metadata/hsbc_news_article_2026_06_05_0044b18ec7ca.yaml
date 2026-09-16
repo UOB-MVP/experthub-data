@@ -1,0 +1,22 @@
+document_id: hsbc_news_article_2026_06_05_0044b18ec7ca
+bank_id: hsbc
+title: Probe into HSBC embezzlement case deepens
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-06-05'
+reporting_period:
+  start: '2026-06-05'
+  end: '2026-06-05'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_06_05_0044b18ec7ca.pdf
+source_url: https://global.factiva.com/
+checksum: c0fc64d499a4ee09029b2e9c1ba948e7f6d64ff572d9f78fb8b82848315f6a4f
+covered_bank_ids:
+- hsbc
+publisher: Financial Times
+geography: Asia-Pacific
+source_document_id: FTFTA00020260605EM65000CM
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 67
+source_page_end: 67

@@ -1,0 +1,22 @@
+document_id: hsbc_news_article_2026_08_13_be33ca1346b8
+bank_id: hsbc
+title: HSBC's global insurance arm chief resigns amid overhaul
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-13'
+reporting_period:
+  start: '2026-08-13'
+  end: '2026-08-13'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_08_13_be33ca1346b8.pdf
+source_url: https://global.factiva.com/
+checksum: c933077e53d2ea8079f8cf10958f07584305f34417752a46a1b755ef72d862af
+covered_bank_ids:
+- hsbc
+publisher: Financial Times
+geography: Asia-Pacific
+source_document_id: FTFTA00020260813EM8D0006Y
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 99
+source_page_end: 99

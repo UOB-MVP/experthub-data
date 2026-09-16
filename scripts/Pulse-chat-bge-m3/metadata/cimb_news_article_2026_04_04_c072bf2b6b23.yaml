@@ -1,0 +1,22 @@
+document_id: cimb_news_article_2026_04_04_c072bf2b6b23
+bank_id: cimb
+title: ‘BUY’ CALL STAYS ON FARM FRESH
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-04-04'
+reporting_period:
+  start: '2026-04-04'
+  end: '2026-04-04'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: cimb/cimb_news_article_2026_04_04_c072bf2b6b23.pdf
+source_url: https://global.factiva.com/
+checksum: 8e627469a39de16b0e1dcf83aa697a34d5abb057d78f480f4b19b4b4cadb8420
+covered_bank_ids:
+- cimb
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260406EM4400004
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q2/Factiva_CIMBMAY_Q2.pdf
+source_page_start: 45
+source_page_end: 45

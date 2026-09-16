@@ -1,0 +1,24 @@
+document_id: maybank_analyst_report_2025_02_26_ce2d2f112467
+bank_id: maybank
+title: Malayan Banking - A turnaround
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-02-26'
+reporting_period:
+  start: '2025-02-26'
+  end: '2025-02-26'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: maybank/maybank_analyst_report_2025_02_26_ce2d2f112467.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: ce2d2f11246729aad4d2eae2df024bce15c7690e4c6be78028d084a04696277d
+covered_bank_ids:
+- maybank
+- uob
+- dbs
+- ocbc
+- cimb
+publisher: CGS International
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q4 2024/CGS International_
+  Malayan Banking - A turnaround__26_Feb_2025.pdf

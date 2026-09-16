@@ -1,0 +1,21 @@
+document_id: maybank_analyst_report_2024_11_26_81216b692223
+bank_id: maybank
+title: Maybank 3Q24 slightly behind
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2024-11-26'
+reporting_period:
+  start: '2024-11-26'
+  end: '2024-11-26'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: maybank/maybank_analyst_report_2024_11_26_81216b692223.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 81216b69222320f46bee1b0eae013980719b0b5044ecae164a0ce782253bfbaf
+covered_bank_ids:
+- maybank
+- cimb
+publisher: Citigroup
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q3 2024/Citigroup_Maybank_
+  3Q24 slightly behind_26_Nov_2024.pdf

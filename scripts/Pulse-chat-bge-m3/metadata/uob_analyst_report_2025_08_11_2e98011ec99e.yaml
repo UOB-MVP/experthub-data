@@ -1,0 +1,16 @@
+document_id: uob_analyst_report_2025_08_11_2e98011ec99e
+bank_id: uob
+title: 'United Overseas Bank: Risk Reward Update'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-08-11'
+reporting_period:
+  start: '2025-08-11'
+  end: '2025-08-11'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: uob/uob_analyst_report_2025_08_11_2e98011ec99e.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 2e98011ec99ecd75d964852cffd0f616ba46d179ddbdb7c73ede2e1911fab058
+covered_bank_ids:
+- uob

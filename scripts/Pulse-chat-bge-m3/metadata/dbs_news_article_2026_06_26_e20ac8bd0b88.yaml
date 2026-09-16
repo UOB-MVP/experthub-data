@@ -1,0 +1,23 @@
+document_id: dbs_news_article_2026_06_26_e20ac8bd0b88
+bank_id: dbs
+title: Firm in unpaid wages case had financial woes since 2023, still owes DBS money
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-06-26'
+reporting_period:
+  start: '2026-06-26'
+  end: '2026-06-26'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_06_26_e20ac8bd0b88.pdf
+source_url: https://global.factiva.com/
+checksum: 953ef9b6b2efd14266ed1ec51e7fe4df71ba118b5643ad7ead301d761a5c82bd
+covered_bank_ids:
+- dbs
+- hsbc
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260626EM6Q0000V
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 12
+source_page_end: 13

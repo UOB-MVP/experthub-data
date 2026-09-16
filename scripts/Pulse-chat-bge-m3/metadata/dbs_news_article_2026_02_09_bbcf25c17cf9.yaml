@@ -1,0 +1,22 @@
+document_id: dbs_news_article_2026_02_09_bbcf25c17cf9
+bank_id: dbs
+title: HK, Singapore ‘set to reap rewards as global capital flows shift to Asia’
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-09'
+reporting_period:
+  start: '2026-02-09'
+  end: '2026-02-09'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_02_09_bbcf25c17cf9.pdf
+source_url: https://global.factiva.com/
+checksum: f5338ba274edf47c9715f3dde6fbbd40fe3cef89f9ac17ff89382ba4a06649df
+covered_bank_ids:
+- dbs
+publisher: South China Morning Post
+geography: Hong Kong
+source_document_id: SCMP000020260208EM2900010
+source_bundle: Q1/Factiva_Q12026_2.pdf
+source_page_start: 35
+source_page_end: 36

@@ -1,0 +1,22 @@
+document_id: hsbc_news_article_2026_08_29_52f0d1a0ea23
+bank_id: hsbc
+title: Financial services Chesnara (CSN) BUY 342p
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-29'
+reporting_period:
+  start: '2026-08-29'
+  end: '2026-08-29'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_08_29_52f0d1a0ea23.pdf
+source_url: https://global.factiva.com/
+checksum: 86d2de0ec85082077f0e9a46b148117ed0a30a3fef4dcaa9aed06c314c20f5af
+covered_bank_ids:
+- hsbc
+publisher: Financial Times
+geography: Asia-Pacific
+source_document_id: FTFTA00020260829EM8T000F9
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 26
+source_page_end: 26

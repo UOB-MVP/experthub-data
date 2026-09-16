@@ -1,0 +1,20 @@
+document_id: cimb_analyst_report_2025_09_01_b5763a072f83
+bank_id: cimb
+title: 1H25 Better than it looks but dividend disappoints
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-09-01'
+reporting_period:
+  start: '2025-09-01'
+  end: '2025-09-01'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: cimb/cimb_analyst_report_2025_09_01_b5763a072f83.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: b5763a072f83bd6f1a42390437ecb378cf6b1ea4082815b2be6a357d5cddec22
+covered_bank_ids:
+- cimb
+publisher: Macquarie Research
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q2 2025/Macquarie Research_1H25_
+  Better than it looks but dividend disappoints_01_Sep_2025.pdf

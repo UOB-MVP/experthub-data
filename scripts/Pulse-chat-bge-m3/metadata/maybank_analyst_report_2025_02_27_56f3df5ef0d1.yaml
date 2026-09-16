@@ -1,0 +1,21 @@
+document_id: maybank_analyst_report_2025_02_27_56f3df5ef0d1
+bank_id: maybank
+title: Malayan Banking - Long-Term Targets
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-02-27'
+reporting_period:
+  start: '2025-02-27'
+  end: '2025-02-27'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: maybank/maybank_analyst_report_2025_02_27_56f3df5ef0d1.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 56f3df5ef0d14434aeb157a94af773e877b2327b948eeb05e87de44af922a2d1
+covered_bank_ids:
+- maybank
+- cimb
+publisher: AUERBACH GRAYSON
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q4 2024/AUERBACH GRAYSON_
+  Malayan Banking - Long-Term Targets_27_Feb_2025.pdf

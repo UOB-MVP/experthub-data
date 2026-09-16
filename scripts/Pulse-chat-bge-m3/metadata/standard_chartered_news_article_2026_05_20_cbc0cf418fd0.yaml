@@ -1,0 +1,23 @@
+document_id: standard_chartered_news_article_2026_05_20_cbc0cf418fd0
+bank_id: standard_chartered
+title: StanChart lifts profitability target for 2030
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-05-20'
+reporting_period:
+  start: '2026-05-20'
+  end: '2026-05-20'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_news_article_2026_05_20_cbc0cf418fd0.pdf
+source_url: https://global.factiva.com/
+checksum: 089353578104565035da9dda9d6cef3844e11093eaade08b3ef7bd77d7e553a0
+covered_bank_ids:
+- hsbc
+- standard_chartered
+publisher: South China Morning Post
+geography: Hong Kong
+source_document_id: SCMP000020260519EM5K0000J
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 116
+source_page_end: 117

@@ -1,0 +1,23 @@
+document_id: maybank_news_article_2026_01_06_0501046106eb
+bank_id: maybank
+title: Mixed outlook for telcos amid challenges
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-01-06'
+reporting_period:
+  start: '2026-01-06'
+  end: '2026-01-06'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_01_06_0501046106eb.pdf
+source_url: https://global.factiva.com/
+checksum: 113dc9809bd906871b0f05065084ceedc1fa733613b263e06d18aa0dd8ce778e
+covered_bank_ids:
+- cimb
+- maybank
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260106EM160000V
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q1/Factiva_CIMBMAY_Q1.pdf
+source_page_start: 74
+source_page_end: 74

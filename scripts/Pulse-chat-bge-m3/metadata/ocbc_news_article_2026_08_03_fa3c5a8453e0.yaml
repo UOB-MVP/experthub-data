@@ -1,0 +1,23 @@
+document_id: ocbc_news_article_2026_08_03_fa3c5a8453e0
+bank_id: ocbc
+title: '‘You’ve got to be there in the first place’: Why OCBC China’s Ang Eng Siong
+  wants more Singaporeans to work overseas'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-03'
+reporting_period:
+  start: '2026-08-03'
+  end: '2026-08-03'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_news_article_2026_08_03_fa3c5a8453e0.pdf
+source_url: https://global.factiva.com/
+checksum: 5d05603587dbed10943c7cc2bf307eb23c2a27b9c015fbbe55bfde89559003d6
+covered_bank_ids:
+- ocbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260803EM8300001
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 170
+source_page_end: 172

@@ -1,0 +1,23 @@
+document_id: cimb_news_article_2026_04_27_683297aee502
+bank_id: cimb
+title: Corporate:CIMB Niaga doubles down on fee-based income amid a tougher year
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-04-27'
+reporting_period:
+  start: '2026-04-27'
+  end: '2026-04-27'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: cimb/cimb_news_article_2026_04_27_683297aee502.pdf
+source_url: https://global.factiva.com/
+checksum: 5094c31deac8d8e4830f99bc67c3912e360962288420f827ba01bba1ba73472c
+covered_bank_ids:
+- hsbc
+- cimb
+publisher: The Edge Malaysia (Weekly)
+geography: Malaysia
+source_document_id: EDGEWK0020260429EM4R00005
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q2/Factiva_CIMBMAY_Q2.pdf
+source_page_start: 26
+source_page_end: 29

@@ -1,0 +1,22 @@
+document_id: hsbc_news_article_2026_08_01_7765c50b186e
+bank_id: hsbc
+title: HSBC to sell Australian home loans book
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-01'
+reporting_period:
+  start: '2026-08-01'
+  end: '2026-08-01'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_08_01_7765c50b186e.pdf
+source_url: https://global.factiva.com/
+checksum: 9c0645f68bbef214e7dfe0557656d46c8da6130ab5a8ebbeb37a00ffdbb1b0ce
+covered_bank_ids:
+- hsbc
+publisher: South China Morning Post
+geography: Hong Kong
+source_document_id: SCMP000020260731EM810000E
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 181
+source_page_end: 181

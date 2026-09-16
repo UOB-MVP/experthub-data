@@ -1,0 +1,22 @@
+document_id: maybank_analyst_report_2024_05_27_fee5678633d7
+bank_id: maybank
+title: Microsoft Word - md240527
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2024-05-27'
+reporting_period:
+  start: '2024-05-27'
+  end: '2024-05-27'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: maybank/maybank_analyst_report_2024_05_27_fee5678633d7.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: fee5678633d7a465ada9b875a078c907903add9b1a05c88470e90f96944dc72b
+covered_bank_ids:
+- maybank
+- uob
+- cimb
+publisher: UOB Kay Hian
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q1 2024/UOB Kay Hian_Malayan
+  Banking - 1Q24_ Balanced Risk-to-reward_27_May_2024.pdf

@@ -1,0 +1,21 @@
+document_id: cimb_analyst_report_2025_11_30_8a441a1eb5b5
+bank_id: cimb
+title: Setting the tone
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-11-30'
+reporting_period:
+  start: '2025-11-30'
+  end: '2025-11-30'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: cimb/cimb_analyst_report_2025_11_30_8a441a1eb5b5.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 8a441a1eb5b59cee10a349f8a04d306588a62b871bbb7c2c967856e3c104d85a
+covered_bank_ids:
+- cimb
+- uob
+publisher: CLSA Limited Research Division
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q3 2025/CLSA Limited Research
+  Division_CIMB - O-PF (Setting the tone)_30_Nov_2025.pdf

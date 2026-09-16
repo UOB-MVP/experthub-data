@@ -1,0 +1,21 @@
+document_id: maybank_analyst_report_2024_02_29_a40060c3e4d6
+bank_id: maybank
+title: Malayan Banking - Eyeing a More Normalised
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2024-02-29'
+reporting_period:
+  start: '2024-02-29'
+  end: '2024-02-29'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: maybank/maybank_analyst_report_2024_02_29_a40060c3e4d6.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: a40060c3e4d61ce67a2f4183effac28ac3c1ede638e07520dab303f1ffccdbb8
+covered_bank_ids:
+- maybank
+- cimb
+publisher: AUERBACH GRAYSON
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q4 2023/AUERBACH GRAYSON_
+  Malayan Banking - Eyeing a More Normalised_29_Feb_2024.pdf

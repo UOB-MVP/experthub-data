@@ -1,0 +1,22 @@
+document_id: standard_chartered_news_article_2026_07_30_90859c94de06
+bank_id: standard_chartered
+title: StanChart posts 10% increase in first-half profit
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-07-30'
+reporting_period:
+  start: '2026-07-30'
+  end: '2026-07-30'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_news_article_2026_07_30_90859c94de06.pdf
+source_url: https://global.factiva.com/
+checksum: ef2eed4a3b4f62a0a89db2eb696f153e5be3f3b56b74eba2f062afb134af70e8
+covered_bank_ids:
+- standard_chartered
+publisher: South China Morning Post
+geography: Hong Kong
+source_document_id: SCMP000020260729EM7U0001A
+source_bundle: QtD/Factiva_Q2tD2026_2.pdf
+source_page_start: 11
+source_page_end: 12

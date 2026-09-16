@@ -1,0 +1,22 @@
+document_id: hsbc_news_article_2026_03_23_4ad02ffa4b4c
+bank_id: hsbc
+title: Credit card theft victim asked to pay HK$126,000
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-03-23'
+reporting_period:
+  start: '2026-03-23'
+  end: '2026-03-23'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_03_23_4ad02ffa4b4c.pdf
+source_url: https://global.factiva.com/
+checksum: ef7af54fa3e1d4dc8039c770cf38bf6297074e2cad69157ef551a52402f1bbfe
+covered_bank_ids:
+- hsbc
+publisher: South China Morning Post
+geography: Hong Kong
+source_document_id: SCMP000020260322EM3N00015
+source_bundle: Q1/Factiva_Q12026_1.pdf
+source_page_start: 28
+source_page_end: 29

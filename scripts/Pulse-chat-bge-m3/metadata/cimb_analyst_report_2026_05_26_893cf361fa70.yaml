@@ -1,0 +1,25 @@
+document_id: cimb_analyst_report_2026_05_26_893cf361fa70
+bank_id: cimb
+title: 'CIMB Group: 1Q26 Results - Income disappointing, signs of improvement. FY
+  targets unchanged'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-05-26'
+reporting_period:
+  start: '2026-05-26'
+  end: '2026-05-26'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: cimb/cimb_analyst_report_2026_05_26_893cf361fa70.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 893cf361fa70e6ad7a78ba29e2928c24b8c7c2ed1d63f9e39e94ed39976bb8ce
+covered_bank_ids:
+- cimb
+- uob
+- dbs
+- ocbc
+- maybank
+publisher: Morgan Stanley
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q1 2026/Morgan Stanley_CIMB
+  Group_ 1Q26 Results - Income disappointing_26_May_2026.pdf

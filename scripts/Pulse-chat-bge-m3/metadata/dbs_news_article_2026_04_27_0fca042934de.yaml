@@ -1,0 +1,25 @@
+document_id: dbs_news_article_2026_04_27_0fca042934de
+bank_id: dbs
+title: 'Safe-haven flows, lack of Q1 Fed cut positive for Singapore banks’ outlook:
+  analysts'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-04-27'
+reporting_period:
+  start: '2026-04-27'
+  end: '2026-04-27'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_04_27_0fca042934de.pdf
+source_url: https://global.factiva.com/
+checksum: e328f34ddaa028bf728fcda88919f09f3f84e3a0adaf56ac52f37323fae8bbf4
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260427EM4R0000F
+source_bundle: Q2/Factiva_Q22026_2.pdf
+source_page_start: 20
+source_page_end: 21

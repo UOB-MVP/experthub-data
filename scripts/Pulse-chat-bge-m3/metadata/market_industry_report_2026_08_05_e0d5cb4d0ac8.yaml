@@ -1,0 +1,24 @@
+document_id: market_industry_report_2026_08_05_e0d5cb4d0ac8
+bank_id: market
+title: 'Financial services : Singapore'
+source_type: approved_third_party
+document_type: industry_report
+publication_date: '2026-08-05'
+reporting_period:
+  start: '2026-08-05'
+  end: '2026-08-05'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: market/market_industry_report_2026_08_05_e0d5cb4d0ac8.pdf
+source_url: https://viewpoint.eiu.com/analysis/geography/XO/SG/reports/ﬁnancial-services/2026-08-05
+checksum: e0d5cb4d0ac8ac648ee67b06651a05fe429b93a268be3c9956ec9699b4e9b416
+covered_bank_ids:
+- market
+- uob
+- dbs
+- ocbc
+- hsbc
+- standard_chartered
+publisher: Economist Intelligence Unit
+geography: Singapore
+source_bundle: EMIS/Financial services _ Singapore 2026.pdf

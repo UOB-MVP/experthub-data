@@ -1,0 +1,16 @@
+document_id: hsbc_analyst_report_2026_02_25_a86a8e981f70
+bank_id: hsbc
+title: 'HSBC: Live at EFC 2026'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-02-25'
+reporting_period:
+  start: '2026-02-25'
+  end: '2026-02-25'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_analyst_report_2026_02_25_a86a8e981f70.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: a86a8e981f704a83b259a26a2bd7b4bfb99565e7324be452473656c1a4387d0f
+covered_bank_ids:
+- hsbc

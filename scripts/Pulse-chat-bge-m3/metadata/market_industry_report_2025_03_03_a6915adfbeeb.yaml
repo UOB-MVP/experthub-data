@@ -1,0 +1,20 @@
+document_id: market_industry_report_2025_03_03_a6915adfbeeb
+bank_id: market
+title: Financial services
+source_type: approved_third_party
+document_type: industry_report
+publication_date: '2025-03-03'
+reporting_period:
+  start: '2025-03-03'
+  end: '2025-03-03'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: market/market_industry_report_2025_03_03_a6915adfbeeb.pdf
+source_url: https://viewpoint.eiu.com/analysis/geography/XO/KR/reports/ﬁnancial-services/2025-03-03
+checksum: a6915adfbeeb6ae44c115b52125952f12a161a79de732b8cf81e55c902102bcd
+covered_bank_ids:
+- market
+- standard_chartered
+publisher: Economist Intelligence Unit
+geography: South Korea
+source_bundle: EMIS/Financial services 2025.pdf

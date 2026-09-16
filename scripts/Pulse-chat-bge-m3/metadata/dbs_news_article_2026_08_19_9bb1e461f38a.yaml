@@ -1,0 +1,25 @@
+document_id: dbs_news_article_2026_08_19_9bb1e461f38a
+bank_id: dbs
+title: 'The next chapter for Singapore’s banks: From resilience to growth'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-19'
+reporting_period:
+  start: '2026-08-19'
+  end: '2026-08-19'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_08_19_9bb1e461f38a.pdf
+source_url: https://global.factiva.com/
+checksum: 7b40c7cf0fa02fe723391cdadeb3d3c1a3b577561dc2fa7798a7f95891b9c257
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+- hsbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260819EM8J00002
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 78
+source_page_end: 79

@@ -1,0 +1,23 @@
+document_id: dbs_news_article_2026_05_04_85d7e197e7e1
+bank_id: dbs
+title: Former manager with DBS Bank admits cheating 7 victims, including his uncle,
+  of over S$1 million
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-05-04'
+reporting_period:
+  start: '2026-05-04'
+  end: '2026-05-04'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_05_04_85d7e197e7e1.pdf
+source_url: https://global.factiva.com/
+checksum: a9168f6e2d1254591d890e78fc37505ca9b7e6e8135bcea8372fcb55b89e1c09
+covered_bank_ids:
+- dbs
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260504EM540018H
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 178
+source_page_end: 179

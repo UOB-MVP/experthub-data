@@ -1,0 +1,20 @@
+document_id: maybank_analyst_report_2026_08_27_119f5853f0e1
+bank_id: maybank
+title: Results Note - Maybank - Looking beyond the horizon
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-08-27'
+reporting_period:
+  start: '2026-08-27'
+  end: '2026-08-27'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_analyst_report_2026_08_27_119f5853f0e1.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 119f5853f0e1d984dee6be5a3d7a46d4a4ca1e5dcb56e412ab5b461e7f2cefdc
+covered_bank_ids:
+- maybank
+publisher: Affin Hwang
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q2 2026/Affin Hwang_Maybank_Looking
+  beyond the horizon_27_Aug_2026.pdf

@@ -1,0 +1,22 @@
+document_id: ocbc_news_article_2026_02_26_2fab8e08f262
+bank_id: ocbc
+title: 'OCBC favours special dividends over buybacks for excess capital: CEO'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-26'
+reporting_period:
+  start: '2026-02-26'
+  end: '2026-02-26'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_news_article_2026_02_26_2fab8e08f262.pdf
+source_url: https://global.factiva.com/
+checksum: dc72a01a59372b9397c8e114274c22596a2570c7f72019f9c2ef7dd1cf751c28
+covered_bank_ids:
+- ocbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260226EM2Q0000P
+source_bundle: Q1/Factiva_Q12026_1.pdf
+source_page_start: 132
+source_page_end: 133

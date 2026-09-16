@@ -1,0 +1,22 @@
+document_id: cimb_news_article_2026_02_28_7d223cc86714
+bank_id: cimb
+title: CIMB Q4 NET PROFIT CLIMBS 6.6PC
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-28'
+reporting_period:
+  start: '2026-02-28'
+  end: '2026-02-28'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: cimb/cimb_news_article_2026_02_28_7d223cc86714.pdf
+source_url: https://global.factiva.com/
+checksum: 6597241a96b7752b433b18ff72568b0274d62625a1bb3c2fa5689024a5d20e2d
+covered_bank_ids:
+- cimb
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260302EM2S00001
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q1/Factiva_CIMBMAY_Q1.pdf
+source_page_start: 22
+source_page_end: 22

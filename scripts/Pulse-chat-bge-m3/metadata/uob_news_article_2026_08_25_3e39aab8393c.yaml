@@ -1,0 +1,23 @@
+document_id: uob_news_article_2026_08_25_3e39aab8393c
+bank_id: uob
+title: UOB awarded $76.1m in claims against Indonesian developer of Sentosa Cove project
+  after appeal
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-25'
+reporting_period:
+  start: '2026-08-25'
+  end: '2026-08-25'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/uob_news_article_2026_08_25_3e39aab8393c.pdf
+source_url: https://global.factiva.com/
+checksum: 8fdb2641da0a518d4e4b9085677c694a06c2816baf0fd51c1b5b94b77fdf15ac
+covered_bank_ids:
+- uob
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260825EM8P0000W
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 55
+source_page_end: 56

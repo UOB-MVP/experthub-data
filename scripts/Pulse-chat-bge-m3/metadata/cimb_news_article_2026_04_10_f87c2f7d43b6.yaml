@@ -1,0 +1,22 @@
+document_id: cimb_news_article_2026_04_10_f87c2f7d43b6
+bank_id: cimb
+title: ‘Data centre boom may strain renewable energy financing’
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-04-10'
+reporting_period:
+  start: '2026-04-10'
+  end: '2026-04-10'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: cimb/cimb_news_article_2026_04_10_f87c2f7d43b6.pdf
+source_url: https://global.factiva.com/
+checksum: e7a47e165b13d8c92590d077cb401b3a5e8bedbf806aaf96551a131f8e5e217c
+covered_bank_ids:
+- cimb
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260410EM4A00005
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q2/Factiva_CIMBMAY_Q2.pdf
+source_page_start: 40
+source_page_end: 40

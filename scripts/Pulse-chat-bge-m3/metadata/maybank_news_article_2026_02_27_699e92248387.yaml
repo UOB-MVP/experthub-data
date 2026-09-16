@@ -1,0 +1,22 @@
+document_id: maybank_news_article_2026_02_27_699e92248387
+bank_id: maybank
+title: Maybank net profit rises to RM10.51b
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-27'
+reporting_period:
+  start: '2026-02-27'
+  end: '2026-02-27'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_02_27_699e92248387.pdf
+source_url: https://global.factiva.com/
+checksum: 89c14ccd883c116bc4ba0673356f710e42e0244540288ddba2740c2f966e080b
+covered_bank_ids:
+- maybank
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260227EM2R00007
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q1/Factiva_CIMBMAY_Q1.pdf
+source_page_start: 23
+source_page_end: 23

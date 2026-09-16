@@ -1,0 +1,21 @@
+document_id: maybank_analyst_report_2025_11_24_3eb6c079cb55
+bank_id: maybank
+title: Malayan Banking - NIMs Held Up
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-11-24'
+reporting_period:
+  start: '2025-11-24'
+  end: '2025-11-24'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: maybank/maybank_analyst_report_2025_11_24_3eb6c079cb55.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 3eb6c079cb555c0c3727a847db1af2109d15e0face7ac64f4bbab9e9b8208268
+covered_bank_ids:
+- maybank
+- cimb
+publisher: AUERBACH GRAYSON
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q3 2025/AUERBACH GRAYSON_
+  Malayan Banking - NIMs Held Up_24_Nov_2025.pdf

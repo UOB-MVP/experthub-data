@@ -1,0 +1,22 @@
+document_id: standard_chartered_news_article_2026_01_28_d28ff6be03fd
+bank_id: standard_chartered
+title: StanChart announces multi-year partnership with Formula 1
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-01-28'
+reporting_period:
+  start: '2026-01-28'
+  end: '2026-01-28'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_news_article_2026_01_28_d28ff6be03fd.pdf
+source_url: https://global.factiva.com/
+checksum: f599d49b41d6acf208e4ce126813898f67ab03f3d7e2674515c708d0548983dd
+covered_bank_ids:
+- standard_chartered
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260128EM1S0000Q
+source_bundle: Q1/Factiva_Q12026_2.pdf
+source_page_start: 73
+source_page_end: 73

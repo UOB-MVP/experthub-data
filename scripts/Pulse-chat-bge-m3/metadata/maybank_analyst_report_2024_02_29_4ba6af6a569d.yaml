@@ -1,0 +1,20 @@
+document_id: maybank_analyst_report_2024_02_29_4ba6af6a569d
+bank_id: maybank
+title: Focused Growth
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2024-02-29'
+reporting_period:
+  start: '2024-02-29'
+  end: '2024-02-29'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: maybank/maybank_analyst_report_2024_02_29_4ba6af6a569d.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 4ba6af6a569d5855b3f0a3f67d0b9a7ec1381ca3544a57d09b75c92bfe92070d
+covered_bank_ids:
+- maybank
+publisher: Public Investment Bank Berhad, Research Division
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q4 2023/Public Investment
+  Bank Berhad, Research Division_Focused Growth_29_Feb_2024.pdf

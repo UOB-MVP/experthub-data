@@ -1,0 +1,19 @@
+document_id: maybank_shareholder_meeting_transcript_2026_04_30_719aec8368d5
+bank_id: maybank
+title: Malayan Banking Berhad 2026 Annual General Meeting Transcript
+source_type: approved_third_party
+document_type: shareholder_meeting_transcript
+publication_date: '2026-04-30'
+reporting_period:
+  start: '2026-04-30'
+  end: '2026-04-30'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_shareholder_meeting_transcript_2026_04_30_719aec8368d5.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 719aec8368d59891bd3a5541842d1c9209d80436e4e2e2520de3dd732ea3d77e
+covered_bank_ids:
+- maybank
+publisher: S&P Global Market Intelligence
+geography: Malaysia
+source_bundle: Earning call Maybank.zip/Maybank/Maybank_AGM_2026.pdf

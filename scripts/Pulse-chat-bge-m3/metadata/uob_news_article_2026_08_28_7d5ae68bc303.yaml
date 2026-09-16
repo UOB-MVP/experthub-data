@@ -1,0 +1,23 @@
+document_id: uob_news_article_2026_08_28_7d5ae68bc303
+bank_id: uob
+title: Redemption-only tickets to singer Sammi Cheng’s private UOB show being sold
+  online for up to $1,200
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-28'
+reporting_period:
+  start: '2026-08-28'
+  end: '2026-08-28'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/uob_news_article_2026_08_28_7d5ae68bc303.pdf
+source_url: https://global.factiva.com/
+checksum: 0893588f0c486d25adf612b6d81609f53eafc175b1117462c79f4d4f8febf7ba
+covered_bank_ids:
+- uob
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260828EM8S003BH
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 27
+source_page_end: 28

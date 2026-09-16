@@ -1,0 +1,23 @@
+document_id: dbs_news_article_2026_07_19_4ca43b60bcf4
+bank_id: dbs
+title: DBS offers $3 grocery discounts as part of $10m initiative to help S’poreans
+  with costs
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-07-19'
+reporting_period:
+  start: '2026-07-19'
+  end: '2026-07-19'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_07_19_4ca43b60bcf4.pdf
+source_url: https://global.factiva.com/
+checksum: 2dd45c84da7d531ca0cd774040fb7d2030c4fcbae0049a9c8e920403858649c2
+covered_bank_ids:
+- dbs
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260719EM7J00005
+source_bundle: QtD/Factiva_Q2tD2026_2.pdf
+source_page_start: 51
+source_page_end: 52

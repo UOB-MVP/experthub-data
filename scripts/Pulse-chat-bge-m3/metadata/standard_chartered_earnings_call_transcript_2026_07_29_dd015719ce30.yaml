@@ -1,0 +1,16 @@
+document_id: standard_chartered_earnings_call_transcript_2026_07_29_dd015719ce30
+bank_id: standard_chartered
+title: Standard Chartered PLC Earnings Call 2026-07-29 English
+source_type: approved_third_party
+document_type: earnings_call_transcript
+publication_date: '2026-07-29'
+reporting_period:
+  start: '2026-04-01'
+  end: '2026-06-30'
+  period_type: quarter
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_earnings_call_transcript_2026_07_29_dd015719ce30.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: dd015719ce3013ca518e7943c50bf1f6f93242165685ecb3bde3dd7674370fa8
+covered_bank_ids:
+- standard_chartered

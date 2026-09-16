@@ -1,0 +1,23 @@
+document_id: dbs_news_article_2026_03_05_7cc7a2b54e95
+bank_id: dbs
+title: DBS China captures 38% of Panda bond market in 2025; secures principal underwriting
+  licence
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-03-05'
+reporting_period:
+  start: '2026-03-05'
+  end: '2026-03-05'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_03_05_7cc7a2b54e95.pdf
+source_url: https://global.factiva.com/
+checksum: b1998265fae5a81fce6872475f95b14bbbf6f7cf9c67800439b957de02ee9a6f
+covered_bank_ids:
+- dbs
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260305EM350000C
+source_bundle: Q1/Factiva_Q12026_1.pdf
+source_page_start: 93
+source_page_end: 93

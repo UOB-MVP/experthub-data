@@ -1,0 +1,22 @@
+document_id: uob_news_article_2026_03_03_0150d04d96d1
+bank_id: uob
+title: Reits that don’t trade well should be privatised, or sell assets and be liquidated
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-03-03'
+reporting_period:
+  start: '2026-03-03'
+  end: '2026-03-03'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/uob_news_article_2026_03_03_0150d04d96d1.pdf
+source_url: https://global.factiva.com/
+checksum: 4041c20a9c2ff2732f783fe54b6583d4b5457412245292a60aa19d044d3b56cb
+covered_bank_ids:
+- uob
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260303EM3300007
+source_bundle: Q1/Factiva_Q12026_1.pdf
+source_page_start: 104
+source_page_end: 106

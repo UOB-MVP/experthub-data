@@ -1,0 +1,25 @@
+document_id: ocbc_news_article_2026_07_30_1dc35a2b191c
+bank_id: ocbc
+title: OCBC to cut wealth onboarding to 15 business days with agentic AI; simple cases
+  in 1 day
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-07-30'
+reporting_period:
+  start: '2026-07-30'
+  end: '2026-07-30'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_news_article_2026_07_30_1dc35a2b191c.pdf
+source_url: https://global.factiva.com/
+checksum: 7df5153ec48c649e2aa32e679d687dc74151e19e3636e08efd51630b8078ec7c
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260730EM7U0003D
+source_bundle: QtD/Factiva_Q2tD2026_2.pdf
+source_page_start: 7
+source_page_end: 8

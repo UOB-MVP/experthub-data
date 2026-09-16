@@ -1,0 +1,22 @@
+document_id: standard_chartered_news_article_2026_03_13_ecd1752bbc41
+bank_id: standard_chartered
+title: Liquidators lose appeal to sue StanChart, BSI over dodgy 1MDB deals
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-03-13'
+reporting_period:
+  start: '2026-03-13'
+  end: '2026-03-13'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_news_article_2026_03_13_ecd1752bbc41.pdf
+source_url: https://global.factiva.com/
+checksum: 35a9e4745e4e015789831ea2c795f6d4d963b56f79d44a796c7baf569e03c351
+covered_bank_ids:
+- standard_chartered
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260313EM3D0000D
+source_bundle: Q1/Factiva_Q12026_1.pdf
+source_page_start: 61
+source_page_end: 62

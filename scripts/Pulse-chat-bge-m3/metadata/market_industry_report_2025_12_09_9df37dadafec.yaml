@@ -1,0 +1,20 @@
+document_id: market_industry_report_2025_12_09_9df37dadafec
+bank_id: market
+title: 'Financial services : Pakistan'
+source_type: approved_third_party
+document_type: industry_report
+publication_date: '2025-12-09'
+reporting_period:
+  start: '2025-12-09'
+  end: '2025-12-09'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: market/market_industry_report_2025_12_09_9df37dadafec.pdf
+source_url: https://viewpoint.eiu.com/analysis/geography/XO/PK/reports/ﬁnancial-services/2025-12-09
+checksum: 9df37dadafec17688ed19b33d06d3b44de3cfe3782999c193b84a6a0ca3710c0
+covered_bank_ids:
+- market
+- standard_chartered
+publisher: Economist Intelligence Unit
+geography: Pakistan
+source_bundle: EMIS/Financial services _ Pakistan 2025.pdf

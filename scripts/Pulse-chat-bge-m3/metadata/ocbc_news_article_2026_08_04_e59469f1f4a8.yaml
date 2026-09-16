@@ -1,0 +1,22 @@
+document_id: ocbc_news_article_2026_08_04_e59469f1f4a8
+bank_id: ocbc
+title: OCBC taps Beijing’s ZGC to capture Chinese tech interest in Asean
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-04'
+reporting_period:
+  start: '2026-08-04'
+  end: '2026-08-04'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_news_article_2026_08_04_e59469f1f4a8.pdf
+source_url: https://global.factiva.com/
+checksum: 21dd8486245862520899f085898f6be55cda62edf2c33f6c943376c250a31636
+covered_bank_ids:
+- ocbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260804EM840000F
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 160
+source_page_end: 161

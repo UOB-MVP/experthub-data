@@ -1,0 +1,22 @@
+document_id: dbs_news_article_2026_06_23_b26e1e17632a
+bank_id: dbs
+title: 'DBS tops list of employers sought by Singapore’s fresh graduates: survey'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-06-23'
+reporting_period:
+  start: '2026-06-23'
+  end: '2026-06-23'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_06_23_b26e1e17632a.pdf
+source_url: https://global.factiva.com/
+checksum: 5c834d31efaa59127a53b322604ef4af6af06b79e631306024ae00d586335b6c
+covered_bank_ids:
+- dbs
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260623EM6N0002T
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 18
+source_page_end: 19

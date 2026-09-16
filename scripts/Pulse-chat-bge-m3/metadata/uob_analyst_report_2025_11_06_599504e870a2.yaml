@@ -1,0 +1,17 @@
+document_id: uob_analyst_report_2025_11_06_599504e870a2
+bank_id: uob
+title: 'United Overseas Bank: 3Q25 – miss on asset quality; 2025 base dividend likely
+  cut'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-11-06'
+reporting_period:
+  start: '2025-11-06'
+  end: '2025-11-06'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: uob/uob_analyst_report_2025_11_06_599504e870a2.pdf
+source_url: https://rsch.baml.com/r?q=cLGUPsU1GeQ
+checksum: 599504e870a275703b915382b2c92a95ef37b06307c8396d71eebc6f934d272b
+covered_bank_ids:
+- uob

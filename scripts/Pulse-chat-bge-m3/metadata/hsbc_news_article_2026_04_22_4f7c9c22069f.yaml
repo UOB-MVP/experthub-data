@@ -1,0 +1,23 @@
+document_id: hsbc_news_article_2026_04_22_4f7c9c22069f
+bank_id: hsbc
+title: HSBC rejects Iran-linked money-laundering claim
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-04-22'
+reporting_period:
+  start: '2026-04-22'
+  end: '2026-04-22'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_04_22_4f7c9c22069f.pdf
+source_url: https://global.factiva.com/
+checksum: 65febf9bbecc927def1a02547a4c5f0e4d985ef5daf421e48efc50f468964762
+covered_bank_ids:
+- hsbc
+- standard_chartered
+publisher: South China Morning Post
+geography: Hong Kong
+source_document_id: SCMP000020260421EM4M0000V
+source_bundle: Q2/Factiva_Q22026_2.pdf
+source_page_start: 41
+source_page_end: 42

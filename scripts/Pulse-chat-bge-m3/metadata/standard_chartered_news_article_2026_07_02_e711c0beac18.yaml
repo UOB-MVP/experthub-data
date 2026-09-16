@@ -1,0 +1,23 @@
+document_id: standard_chartered_news_article_2026_07_02_e711c0beac18
+bank_id: standard_chartered
+title: $3.5 billion, 1MDB-linked lawsuit against StanChart to proceed to Singapore
+  trial after bank loses appeal
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-07-02'
+reporting_period:
+  start: '2026-07-02'
+  end: '2026-07-02'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_news_article_2026_07_02_e711c0beac18.pdf
+source_url: https://global.factiva.com/
+checksum: 733541995c842963315a5a4f26eb2178810185a32b1f1413339a9c618b1a4553
+covered_bank_ids:
+- standard_chartered
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260702EM720002T
+source_bundle: QtD/Factiva_Q2tD2026_2.pdf
+source_page_start: 109
+source_page_end: 110

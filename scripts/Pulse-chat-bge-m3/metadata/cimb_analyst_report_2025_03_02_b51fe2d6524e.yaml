@@ -1,0 +1,20 @@
+document_id: cimb_analyst_report_2025_03_02_b51fe2d6524e
+bank_id: cimb
+title: CIMB - 4QFY24 results Looking to New Multi-year Strategy
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-03-02'
+reporting_period:
+  start: '2025-03-02'
+  end: '2025-03-02'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: cimb/cimb_analyst_report_2025_03_02_b51fe2d6524e.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: b51fe2d6524e9d1d2864868621c3e7bc7faa0817211e3f57c69952f84379b95a
+covered_bank_ids:
+- cimb
+publisher: JF Apex Securities
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q4 2024/JF Apex Securities_CIMB
+  - 4QFY24 results_ Looking to New Multi-year Strategy_02_Mar_2025.pdf

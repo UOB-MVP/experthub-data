@@ -1,0 +1,22 @@
+document_id: maybank_news_article_2026_07_24_770d88c64c2d
+bank_id: maybank
+title: Westports rakes in RM360.9m as geopolitical tensions ease
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-07-24'
+reporting_period:
+  start: '2026-07-24'
+  end: '2026-07-24'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_07_24_770d88c64c2d.pdf
+source_url: https://global.factiva.com/
+checksum: 884582a682c533ca38b6b07a46834199238c085556a38af4579d56bf716fc221
+covered_bank_ids:
+- maybank
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260724EM7O00009
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/QtD/Factiva_CIMBMAY_QtD2026.pdf
+source_page_start: 26
+source_page_end: 26

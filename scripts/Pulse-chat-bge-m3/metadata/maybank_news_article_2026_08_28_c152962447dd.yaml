@@ -1,0 +1,22 @@
+document_id: maybank_news_article_2026_08_28_c152962447dd
+bank_id: maybank
+title: MAYBANK HOLDS ON TO TARGETS
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-28'
+reporting_period:
+  start: '2026-08-28'
+  end: '2026-08-28'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_08_28_c152962447dd.pdf
+source_url: https://global.factiva.com/
+checksum: 070096bf94d4027a9c707c6532814dbc8aef6eb3e3a8aff708d50fe5da215aae
+covered_bank_ids:
+- maybank
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260828EM8S0000G
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/QtD/Factiva_CIMBMAY_QtD2026.pdf
+source_page_start: 7
+source_page_end: 7

@@ -1,0 +1,24 @@
+document_id: maybank_analyst_report_2024_11_26_c50410254782
+bank_id: maybank
+title: Malayan Banking
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2024-11-26'
+reporting_period:
+  start: '2024-11-26'
+  end: '2024-11-26'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: maybank/maybank_analyst_report_2024_11_26_c50410254782.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: c50410254782ffce8c548af8129cd41a06f7a3522301ca713c4b2bd11bd6f15d
+covered_bank_ids:
+- maybank
+- uob
+- dbs
+- ocbc
+- cimb
+publisher: CGS International
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q3 2024/CGS International
+  _ Malayan Banking_26_Nov_2024.pdf

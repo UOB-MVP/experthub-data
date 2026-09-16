@@ -1,0 +1,24 @@
+document_id: ocbc_news_article_2026_04_02_a97fdab9e9d7
+bank_id: ocbc
+title: 'Share buyback scheme has helped OCBC’s recent sector outperformance: analysts'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-04-02'
+reporting_period:
+  start: '2026-04-02'
+  end: '2026-04-02'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_news_article_2026_04_02_a97fdab9e9d7.pdf
+source_url: https://global.factiva.com/
+checksum: 7cfac47faea55ac82bc5f4f684d4abd2667a35f01be743f4994c76f8379f9e64
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260402EM42000M9
+source_bundle: Q2/Factiva_Q22026_2.pdf
+source_page_start: 97
+source_page_end: 98

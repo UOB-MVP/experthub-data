@@ -1,0 +1,22 @@
+document_id: maybank_news_article_2026_07_17_fd6514ecfc23
+bank_id: maybank
+title: RM800,000 Bersatu donation linked to projects, says witness
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-07-17'
+reporting_period:
+  start: '2026-07-17'
+  end: '2026-07-17'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_07_17_fd6514ecfc23.pdf
+source_url: https://global.factiva.com/
+checksum: 5da423c0fcd1fa6fb4ec7d513f4db351fa53c2d1b3caf5a5e12b4fc50fd7cc7e
+covered_bank_ids:
+- maybank
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260717EM7H0000I
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/QtD/Factiva_CIMBMAY_QtD2026.pdf
+source_page_start: 34
+source_page_end: 34

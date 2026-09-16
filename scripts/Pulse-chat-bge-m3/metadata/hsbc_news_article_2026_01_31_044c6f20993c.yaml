@@ -1,0 +1,22 @@
+document_id: hsbc_news_article_2026_01_31_044c6f20993c
+bank_id: hsbc
+title: HSBC to target Hong Kong IPO boom
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-01-31'
+reporting_period:
+  start: '2026-01-31'
+  end: '2026-01-31'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_01_31_044c6f20993c.pdf
+source_url: https://global.factiva.com/
+checksum: 54a8d0735d68e41be9d5b98916484b94ab242b1fccf6369ecf444bca879c187c
+covered_bank_ids:
+- hsbc
+publisher: Financial Times
+geography: Asia-Pacific
+source_document_id: FTFTA00020260131EM1V00092
+source_bundle: Q1/Factiva_Q12026_2.pdf
+source_page_start: 58
+source_page_end: 59

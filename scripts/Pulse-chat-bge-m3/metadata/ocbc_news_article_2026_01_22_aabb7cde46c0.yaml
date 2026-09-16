@@ -1,0 +1,22 @@
+document_id: ocbc_news_article_2026_01_22_aabb7cde46c0
+bank_id: ocbc
+title: OCBC sets up securities financing unit for institutional investors
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-01-22'
+reporting_period:
+  start: '2026-01-22'
+  end: '2026-01-22'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_news_article_2026_01_22_aabb7cde46c0.pdf
+source_url: https://global.factiva.com/
+checksum: 1e7a59022c45b2d45e21c6b16d7cc13095260d5852aba788c02462690f6fb826
+covered_bank_ids:
+- ocbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260122EM1M0000F
+source_bundle: Q1/Factiva_Q12026_2.pdf
+source_page_start: 93
+source_page_end: 93

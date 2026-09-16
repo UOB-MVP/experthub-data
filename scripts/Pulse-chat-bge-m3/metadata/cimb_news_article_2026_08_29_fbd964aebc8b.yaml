@@ -1,0 +1,23 @@
+document_id: cimb_news_article_2026_08_29_fbd964aebc8b
+bank_id: cimb
+title: CIMB RULES OUT FOLLOWING MAYBANK
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-29'
+reporting_period:
+  start: '2026-08-29'
+  end: '2026-08-29'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: cimb/cimb_news_article_2026_08_29_fbd964aebc8b.pdf
+source_url: https://global.factiva.com/
+checksum: ed5e3a07a99e518fd48c31e9f76f639f5a00262038e6a41ef2edefd2fa043574
+covered_bank_ids:
+- cimb
+- maybank
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260901EM8T0000A
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/QtD/Factiva_CIMBMAY_QtD2026.pdf
+source_page_start: 3
+source_page_end: 3

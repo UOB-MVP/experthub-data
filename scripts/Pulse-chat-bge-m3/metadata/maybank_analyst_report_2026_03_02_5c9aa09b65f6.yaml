@@ -1,0 +1,20 @@
+document_id: maybank_analyst_report_2026_03_02_5c9aa09b65f6
+bank_id: maybank
+title: Maybank-4Q25-Dividend Disappointment
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-03-02'
+reporting_period:
+  start: '2026-03-02'
+  end: '2026-03-02'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_analyst_report_2026_03_02_5c9aa09b65f6.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 5c9aa09b65f6787b2fbc61cb6bea77a9958837cb6bbdc190fd8a4a465aa4c0ec
+covered_bank_ids:
+- maybank
+publisher: MBSB Investment Bank
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q4 2025/MBSB Investment
+  Bank_Maybank-4Q25-Dividend Disappointment_02_Mar_2026.pdf

@@ -1,0 +1,25 @@
+document_id: dbs_news_article_2026_07_13_1e5fbd6ecebb
+bank_id: dbs
+title: S’pore bank shares hit record highs; DBS tops $70 mark
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-07-13'
+reporting_period:
+  start: '2026-07-13'
+  end: '2026-07-13'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_07_13_1e5fbd6ecebb.pdf
+source_url: https://global.factiva.com/
+checksum: 2767689925bc5d48ecc42234db17834171fb825bcabff537e96ff1bd1bd14fd6
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+- hsbc
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260713EM7D00037
+source_bundle: QtD/Factiva_Q2tD2026_2.pdf
+source_page_start: 76
+source_page_end: 78

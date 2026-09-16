@@ -1,0 +1,23 @@
+document_id: dbs_news_article_2026_04_24_de30c3d3180a
+bank_id: dbs
+title: 3 teens arrested after duping US remitter in business e-mail compromise scam
+  involving $3.7m
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-04-24'
+reporting_period:
+  start: '2026-04-24'
+  end: '2026-04-24'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_04_24_de30c3d3180a.pdf
+source_url: https://global.factiva.com/
+checksum: cef468c7b354029cfb1b560c342f58b679be83acac66880ffbf5df6add2cd94a
+covered_bank_ids:
+- dbs
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260424EM4O002S2
+source_bundle: Q2/Factiva_Q22026_2.pdf
+source_page_start: 28
+source_page_end: 28

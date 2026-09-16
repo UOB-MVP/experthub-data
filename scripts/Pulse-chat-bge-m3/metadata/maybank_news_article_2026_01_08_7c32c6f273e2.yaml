@@ -1,0 +1,22 @@
+document_id: maybank_news_article_2026_01_08_7c32c6f273e2
+bank_id: maybank
+title: Renewable energy sector set for strong run in 2026
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-01-08'
+reporting_period:
+  start: '2026-01-08'
+  end: '2026-01-08'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_01_08_7c32c6f273e2.pdf
+source_url: https://global.factiva.com/
+checksum: e84ad4429431b11b8c35b07648b3985c59b9b6a0f689b7eb85d854df86e5d913
+covered_bank_ids:
+- maybank
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260108EM1800003
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q1/Factiva_CIMBMAY_Q1.pdf
+source_page_start: 70
+source_page_end: 70

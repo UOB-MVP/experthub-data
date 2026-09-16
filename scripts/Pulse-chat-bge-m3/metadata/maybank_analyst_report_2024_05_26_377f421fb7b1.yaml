@@ -1,0 +1,21 @@
+document_id: maybank_analyst_report_2024_05_26_377f421fb7b1
+bank_id: maybank
+title: Maybank-1Q24-Strong Loan Growth Seen
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2024-05-26'
+reporting_period:
+  start: '2024-05-26'
+  end: '2024-05-26'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: maybank/maybank_analyst_report_2024_05_26_377f421fb7b1.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 377f421fb7b192fd29e91081a0955749eaa20a697c83d75fa1f5e1088262fa51
+covered_bank_ids:
+- maybank
+- cimb
+publisher: MBSB Investment Bank
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q1 2024/MBSB Investment
+  Bank_Maybank-1Q24-Strong Loan Growth Seen_26_May_2024.pdf

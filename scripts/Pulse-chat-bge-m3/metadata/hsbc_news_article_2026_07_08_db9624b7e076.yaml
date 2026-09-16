@@ -1,0 +1,22 @@
+document_id: hsbc_news_article_2026_07_08_db9624b7e076
+bank_id: hsbc
+title: HSBC scraps its lending to riskier private credit funds after collapses
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-07-08'
+reporting_period:
+  start: '2026-07-08'
+  end: '2026-07-08'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_07_08_db9624b7e076.pdf
+source_url: https://global.factiva.com/
+checksum: ce924b06c74d626ce342f88f06cef1e5cc92059b12954c6d0e79ab5764ce1847
+covered_bank_ids:
+- hsbc
+publisher: Financial Times
+geography: Asia-Pacific
+source_document_id: FTFTA00020260708EM780007P
+source_bundle: QtD/Factiva_Q2tD2026_2.pdf
+source_page_start: 94
+source_page_end: 95

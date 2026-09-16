@@ -1,0 +1,20 @@
+document_id: cimb_analyst_report_2023_11_30_ff4387a3dacc
+bank_id: cimb
+title: CIMB 3Q23 Results Review
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2023-11-30'
+reporting_period:
+  start: '2023-11-30'
+  end: '2023-11-30'
+  period_type: point_in_time
+  fiscal_year: 2023
+source_file: cimb/cimb_analyst_report_2023_11_30_ff4387a3dacc.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: ff4387a3dacca178d09b58f575cf71bc51a8424bbec4567bf0d44394c7ffddf2
+covered_bank_ids:
+- cimb
+publisher: Hong Leong Investment Bank
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q3 2023/Hong Leong Investment
+  Bank_CIMB 3Q23 Results Review_30_Nov_2023.pdf

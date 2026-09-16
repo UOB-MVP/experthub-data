@@ -1,0 +1,24 @@
+document_id: ocbc_news_article_2026_07_31_771e1e7e3461
+bank_id: ocbc
+title: S’pore banks using AI agents to vet private banking clients, speed up onboarding
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-07-31'
+reporting_period:
+  start: '2026-07-31'
+  end: '2026-07-31'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_news_article_2026_07_31_771e1e7e3461.pdf
+source_url: https://global.factiva.com/
+checksum: 35fe6a36e036113a16800c9065f1ac5fdc6e544911f0a3d75b5422f26e388ba4
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260731EM7V0018H
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 183
+source_page_end: 185

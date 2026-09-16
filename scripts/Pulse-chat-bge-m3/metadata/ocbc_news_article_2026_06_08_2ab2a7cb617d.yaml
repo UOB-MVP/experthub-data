@@ -1,0 +1,24 @@
+document_id: ocbc_news_article_2026_06_08_2ab2a7cb617d
+bank_id: ocbc
+title: OCBC to offer physical gold trading and storage to wealthy clients, institutions
+  in Singapore
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-06-08'
+reporting_period:
+  start: '2026-06-08'
+  end: '2026-06-08'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_news_article_2026_06_08_2ab2a7cb617d.pdf
+source_url: https://global.factiva.com/
+checksum: 606336b252df526ca0b2283537223d02e4e0c4d40fa2c31d411557faf3b97850
+covered_bank_ids:
+- uob
+- ocbc
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260608EM680018H
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 58
+source_page_end: 59

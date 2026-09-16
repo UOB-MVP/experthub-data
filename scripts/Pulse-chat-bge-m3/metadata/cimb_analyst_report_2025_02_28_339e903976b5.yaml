@@ -1,0 +1,21 @@
+document_id: cimb_analyst_report_2025_02_28_339e903976b5
+bank_id: cimb
+title: CIMB Group (Buy) - Subdued end to F23
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-02-28'
+reporting_period:
+  start: '2025-02-28'
+  end: '2025-02-28'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: cimb/cimb_analyst_report_2025_02_28_339e903976b5.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 339e903976b5ee7f7f8713dbbfb138c01bd62b7aea58c46956d42c292485d419
+covered_bank_ids:
+- cimb
+- maybank
+publisher: Nomura Securities
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q4 2024/Nomura Securities_CIMB
+  Group (Buy) - Subdued end to F23_28_Feb_2025.pdf

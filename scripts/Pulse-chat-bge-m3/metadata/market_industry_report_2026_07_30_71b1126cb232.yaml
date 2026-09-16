@@ -1,0 +1,20 @@
+document_id: market_industry_report_2026_07_30_71b1126cb232
+bank_id: market
+title: 'Mid-Year Update: Banking Key Themes For 2026'
+source_type: approved_third_party
+document_type: industry_report
+publication_date: '2026-07-30'
+reporting_period:
+  start: '2026-07-30'
+  end: '2026-07-30'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: market/market_industry_report_2026_07_30_71b1126cb232.pdf
+source_url: https://www.fitchsolutions.com/bmi
+checksum: 71b1126cb232abce1ac21119931290eb8b157e94827e60933d179ca342be707e
+covered_bank_ids:
+- market
+- hsbc
+publisher: BMI
+geography: Multi-market
+source_bundle: BMI/BMI Mid-Year Update_ Banking Key Themes For 2026 - 30 Jul 2026.pdf

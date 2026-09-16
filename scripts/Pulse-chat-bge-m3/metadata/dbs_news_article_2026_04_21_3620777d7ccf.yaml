@@ -1,0 +1,22 @@
+document_id: dbs_news_article_2026_04_21_3620777d7ccf
+bank_id: dbs
+title: DBS deploys ‘Alpha’ squads to blend legal, compliance, risk roles
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-04-21'
+reporting_period:
+  start: '2026-04-21'
+  end: '2026-04-21'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_04_21_3620777d7ccf.pdf
+source_url: https://global.factiva.com/
+checksum: 2e9ec7701454c942ba216d9deddccf75f9494de1aba9e4dface1d9b44e576c6c
+covered_bank_ids:
+- dbs
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260421EM4L00008
+source_bundle: Q2/Factiva_Q22026_2.pdf
+source_page_start: 43
+source_page_end: 44

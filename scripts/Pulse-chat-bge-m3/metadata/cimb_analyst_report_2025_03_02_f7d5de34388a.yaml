@@ -1,0 +1,21 @@
+document_id: cimb_analyst_report_2025_03_02_f7d5de34388a
+bank_id: cimb
+title: CIMB Group Holdings - FY24 earnings within expectations
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-03-02'
+reporting_period:
+  start: '2025-03-02'
+  end: '2025-03-02'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: cimb/cimb_analyst_report_2025_03_02_f7d5de34388a.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: f7d5de34388a3a9450efbbcf5aea1c77a715b3570e2a5c2ac1104ab40aa25dfb
+covered_bank_ids:
+- cimb
+- maybank
+publisher: Maybank Research Pte. Ltd.
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q4 2024/Maybank Research Pte.
+  Ltd._CIMB Group Holdings - FY24 earnings within expectations_02_Mar_2025.pdf

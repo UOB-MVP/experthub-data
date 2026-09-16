@@ -1,0 +1,23 @@
+document_id: hsbc_news_article_2026_08_08_8842fd85778c
+bank_id: hsbc
+title: Allianz eyes Singapore wealth, retirement market with its two acquisitions
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-08'
+reporting_period:
+  start: '2026-08-08'
+  end: '2026-08-08'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_08_08_8842fd85778c.pdf
+source_url: https://global.factiva.com/
+checksum: 64db1b6cca13c3b658f908f3104824df14660b8b8e2df02fa43b6a827199fdbf
+covered_bank_ids:
+- uob
+- hsbc
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260808EM880000K
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 129
+source_page_end: 130

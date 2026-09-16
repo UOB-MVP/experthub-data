@@ -1,0 +1,23 @@
+document_id: ocbc_news_article_2026_05_19_4d6693442faa
+bank_id: ocbc
+title: 'Energy transition costs likely to go up over short term due to Iran war: OCBC
+  CSO'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-05-19'
+reporting_period:
+  start: '2026-05-19'
+  end: '2026-05-19'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_news_article_2026_05_19_4d6693442faa.pdf
+source_url: https://global.factiva.com/
+checksum: 9ececbb2b3dc07a9c2c5b556041289217e03d9ba0b266b22a83e952149733b84
+covered_bank_ids:
+- ocbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260519EM5J0000B
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 119
+source_page_end: 121

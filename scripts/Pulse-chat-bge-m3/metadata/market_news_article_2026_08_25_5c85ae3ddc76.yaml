@@ -1,0 +1,22 @@
+document_id: market_news_article_2026_08_25_5c85ae3ddc76
+bank_id: market
+title: Hang Seng Bank steps up investment in wealth business
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-25'
+reporting_period:
+  start: '2026-08-25'
+  end: '2026-08-25'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: market/market_news_article_2026_08_25_5c85ae3ddc76.pdf
+source_url: https://global.factiva.com/
+checksum: ece654835af6c34fdd2b4052cfd59b30f8ea4330f585fc95b295a2dad050c29a
+covered_bank_ids:
+- market
+publisher: South China Morning Post
+geography: Hong Kong
+source_document_id: SCMP000020260824EM8P0001D
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 60
+source_page_end: 61

@@ -1,0 +1,20 @@
+document_id: cimb_analyst_report_2024_03_01_06cf8191cd79
+bank_id: cimb
+title: Exceeding Expectations
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2024-03-01'
+reporting_period:
+  start: '2024-03-01'
+  end: '2024-03-01'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: cimb/cimb_analyst_report_2024_03_01_06cf8191cd79.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 06cf8191cd7974a27f258153713df7945a115f9fee19863c7ecde06711b715ef
+covered_bank_ids:
+- cimb
+publisher: Public Investment Bank Berhad, Research Division
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q4 2023/Public Investment Bank
+  Berhad, Research Division_Exceeding Expectations_01_Mar_2024.pdf

@@ -1,0 +1,21 @@
+document_id: market_industry_report_2026_02_10_878c0918460f
+bank_id: market
+title: 'Financial services : India'
+source_type: approved_third_party
+document_type: industry_report
+publication_date: '2026-02-10'
+reporting_period:
+  start: '2026-02-10'
+  end: '2026-02-10'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: market/market_industry_report_2026_02_10_878c0918460f.pdf
+source_url: https://viewpoint.eiu.com/analysis/geography/XO/IN/reports/ﬁnancial-services/2026-02-10
+checksum: 878c0918460f49f31f35f799c7cbf981c333255fb058cad60ac6ad9fde2ec994
+covered_bank_ids:
+- market
+- hsbc
+- standard_chartered
+publisher: Economist Intelligence Unit
+geography: India
+source_bundle: EMIS/Financial services _ India 2026.pdf

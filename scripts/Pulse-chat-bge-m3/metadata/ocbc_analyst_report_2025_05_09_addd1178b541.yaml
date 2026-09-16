@@ -1,0 +1,17 @@
+document_id: ocbc_analyst_report_2025_05_09_addd1178b541
+bank_id: ocbc
+title: Oversea-Chinese Banking Corp. (OCBC.SI) First Take 1Q25 inline as robust non-NII
+  offsets weaker NIM; 2025 guidance intact
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-05-09'
+reporting_period:
+  start: '2025-05-09'
+  end: '2025-05-09'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: ocbc/ocbc_analyst_report_2025_05_09_addd1178b541.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: addd1178b541bb8f12490cd21e246f702b0fd48ac87cdaf38fecebfe4fb92a07
+covered_bank_ids:
+- ocbc

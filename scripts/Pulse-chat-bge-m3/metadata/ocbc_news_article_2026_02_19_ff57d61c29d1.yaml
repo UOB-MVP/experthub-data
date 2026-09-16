@@ -1,0 +1,23 @@
+document_id: ocbc_news_article_2026_02_19_ff57d61c29d1
+bank_id: ocbc
+title: Gold and silver emerge as top choice for first-time investors at OCBC
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-19'
+reporting_period:
+  start: '2026-02-19'
+  end: '2026-02-19'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_news_article_2026_02_19_ff57d61c29d1.pdf
+source_url: https://global.factiva.com/
+checksum: 78d5a4dfe5f978140b4efb5fc1a8f4effc1a494284890d841925f616682bba7e
+covered_bank_ids:
+- uob
+- ocbc
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260219EM2J0005L
+source_bundle: Q1/Factiva_Q12026_1.pdf
+source_page_start: 186
+source_page_end: 187

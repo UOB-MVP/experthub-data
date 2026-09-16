@@ -1,0 +1,22 @@
+document_id: ocbc_news_article_2026_04_23_d829280976e3
+bank_id: ocbc
+title: Second of four peregrine falcon chicks in Singapore found dead
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-04-23'
+reporting_period:
+  start: '2026-04-23'
+  end: '2026-04-23'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_news_article_2026_04_23_d829280976e3.pdf
+source_url: https://global.factiva.com/
+checksum: dc09a8423d0fd06c7b89ea4090dc38a7b80d93b9659824badd16a90599e95881
+covered_bank_ids:
+- ocbc
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260423EM4N00209
+source_bundle: Q2/Factiva_Q22026_2.pdf
+source_page_start: 36
+source_page_end: 36

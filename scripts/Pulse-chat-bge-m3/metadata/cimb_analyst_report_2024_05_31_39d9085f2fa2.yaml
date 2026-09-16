@@ -1,0 +1,20 @@
+document_id: cimb_analyst_report_2024_05_31_39d9085f2fa2
+bank_id: cimb
+title: CIMB 1Q24 Beat on Trading
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2024-05-31'
+reporting_period:
+  start: '2024-05-31'
+  end: '2024-05-31'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: cimb/cimb_analyst_report_2024_05_31_39d9085f2fa2.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 39d9085f2fa2489cb0fa586206cb2eb75969e4cf71617f2613b801d7775811f6
+covered_bank_ids:
+- cimb
+publisher: Citigroup
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q1 2024/Citigroup_CIMB_ 1Q24
+  Beat on Trading_31_May_2024.pdf

@@ -1,0 +1,22 @@
+document_id: maybank_news_article_2026_02_28_e6895eaed4b9
+bank_id: maybank
+title: Malaysia’s five-year MGS draws RM14.6b in bids
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-28'
+reporting_period:
+  start: '2026-02-28'
+  end: '2026-02-28'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_02_28_e6895eaed4b9.pdf
+source_url: https://global.factiva.com/
+checksum: 86b2f554a6d09f9e8898c7dd08f56d24b729a6fb8d5963f123c93fbc39ead12b
+covered_bank_ids:
+- maybank
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260302EM2S00005
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q1/Factiva_CIMBMAY_Q1.pdf
+source_page_start: 21
+source_page_end: 21

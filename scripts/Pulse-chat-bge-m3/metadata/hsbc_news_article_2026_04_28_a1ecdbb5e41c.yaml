@@ -1,0 +1,22 @@
+document_id: hsbc_news_article_2026_04_28_a1ecdbb5e41c
+bank_id: hsbc
+title: HSBC reviews $300k school subsidy for HK staff
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-04-28'
+reporting_period:
+  start: '2026-04-28'
+  end: '2026-04-28'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_04_28_a1ecdbb5e41c.pdf
+source_url: https://global.factiva.com/
+checksum: 6fd601dee47fc4981570e80da58131d90d4b689e9ba27343cd5dd403e95b9f86
+covered_bank_ids:
+- hsbc
+publisher: The Standard
+geography: Hong Kong
+source_document_id: HKIMAL0020260427EM4S00003
+source_bundle: Q2/Factiva_Q22026_2.pdf
+source_page_start: 16
+source_page_end: 16

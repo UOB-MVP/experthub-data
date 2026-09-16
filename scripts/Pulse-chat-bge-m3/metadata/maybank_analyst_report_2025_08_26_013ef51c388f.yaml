@@ -1,0 +1,21 @@
+document_id: maybank_analyst_report_2025_08_26_013ef51c388f
+bank_id: maybank
+title: One door closes, another opens
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-08-26'
+reporting_period:
+  start: '2025-08-26'
+  end: '2025-08-26'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: maybank/maybank_analyst_report_2025_08_26_013ef51c388f.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 013ef51c388fd2433c5c68cc60f87d2e2c4be3d4cd2fa28cdffb4b5b6f60d285
+covered_bank_ids:
+- maybank
+- uob
+publisher: CLSA
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q2 2025/CLSA_Maybank -
+  O-PF (One door closes, another opens)_26_Aug_2025.pdf

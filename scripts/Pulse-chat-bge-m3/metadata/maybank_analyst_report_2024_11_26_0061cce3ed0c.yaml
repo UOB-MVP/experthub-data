@@ -1,0 +1,20 @@
+document_id: maybank_analyst_report_2024_11_26_0061cce3ed0c
+bank_id: maybank
+title: Maybank - Strong earnings run-rate sustains
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2024-11-26'
+reporting_period:
+  start: '2024-11-26'
+  end: '2024-11-26'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: maybank/maybank_analyst_report_2024_11_26_0061cce3ed0c.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 0061cce3ed0c42ca7438ce1ca7ccd8bad7f8a8aeda99943252322cfb8a3e514e
+covered_bank_ids:
+- maybank
+publisher: Nomura Securities
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q3 2024/Nomura Securities_Maybank
+  - Strong earnings run-rate sustains_26_Nov_2024.pdf

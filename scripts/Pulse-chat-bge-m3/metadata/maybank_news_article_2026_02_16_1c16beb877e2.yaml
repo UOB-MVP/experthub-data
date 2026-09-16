@@ -1,0 +1,22 @@
+document_id: maybank_news_article_2026_02_16_1c16beb877e2
+bank_id: maybank
+title: 'Capital: Small- and mid-cap stocks lag as Bursa Malaysia tests bull territory'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-16'
+reporting_period:
+  start: '2026-02-16'
+  end: '2026-02-16'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_02_16_1c16beb877e2.pdf
+source_url: https://global.factiva.com/
+checksum: 496ecf1e87cffdd5c14fe606577abfb21a837d7d280c91da898ae5ebbc229d71
+covered_bank_ids:
+- maybank
+publisher: The Edge Malaysia (Weekly)
+geography: Malaysia
+source_document_id: EDGEWK0020260219EM2G0000A
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q1/Factiva_CIMBMAY_Q1.pdf
+source_page_start: 31
+source_page_end: 33

@@ -1,0 +1,21 @@
+document_id: cimb_analyst_report_2025_11_30_51dad6a4dd92
+bank_id: cimb
+title: CIMB Group 20251201 HLIB
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-11-30'
+reporting_period:
+  start: '2025-11-30'
+  end: '2025-11-30'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: cimb/cimb_analyst_report_2025_11_30_51dad6a4dd92.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 51dad6a4dd92d3b9c0ba32092cdb6fcc6af8426a7067065d58dc2279a7bad766
+covered_bank_ids:
+- cimb
+- maybank
+publisher: Hong Leong Investment Bank
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q3 2025/Hong Leong Investment
+  Bank_CIMB_Group_20251201_HLIB_30_Nov_2025.pdf

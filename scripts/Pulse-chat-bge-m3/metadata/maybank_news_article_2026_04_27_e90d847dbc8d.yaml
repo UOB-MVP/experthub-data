@@ -1,0 +1,22 @@
+document_id: maybank_news_article_2026_04_27_e90d847dbc8d
+bank_id: maybank
+title: 'City & Country: Property Briefs:'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-04-27'
+reporting_period:
+  start: '2026-04-27'
+  end: '2026-04-27'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_04_27_e90d847dbc8d.pdf
+source_url: https://global.factiva.com/
+checksum: bc1833ccddbec2e67608594950ff14ed6d7eb247f77db03cce4c76d19a38b84c
+covered_bank_ids:
+- maybank
+publisher: The Edge Malaysia (Weekly)
+geography: Malaysia
+source_document_id: EDGEWK0020260429EM4R0000P
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q2/Factiva_CIMBMAY_Q2.pdf
+source_page_start: 30
+source_page_end: 31

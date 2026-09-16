@@ -1,0 +1,20 @@
+document_id: cimb_analyst_report_2024_02_29_737de3b24d0b
+bank_id: cimb
+title: CIMB 4Q23 Results Review 20240301 - HLIB
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2024-02-29'
+reporting_period:
+  start: '2024-02-29'
+  end: '2024-02-29'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: cimb/cimb_analyst_report_2024_02_29_737de3b24d0b.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 737de3b24d0b17dd853a4f4ba3878e18d0cf0da8de36abed72f918065271a88a
+covered_bank_ids:
+- cimb
+publisher: Hong Leong Investment Bank
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q4 2023/Hong Leong Investment
+  Bank_CIMB 4Q23 Results Review 20240301 - HLIB_29_Feb_2024.pdf

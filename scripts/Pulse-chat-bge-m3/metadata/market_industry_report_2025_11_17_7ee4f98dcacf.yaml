@@ -1,0 +1,22 @@
+document_id: market_industry_report_2025_11_17_7ee4f98dcacf
+bank_id: market
+title: 'Financial services : Vietnam'
+source_type: approved_third_party
+document_type: industry_report
+publication_date: '2025-11-17'
+reporting_period:
+  start: '2025-11-17'
+  end: '2025-11-17'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: market/market_industry_report_2025_11_17_7ee4f98dcacf.pdf
+source_url: https://viewpoint.eiu.com/analysis/geography/XO/VN/reports/ﬁnancial-services/2025-11-17
+checksum: 7ee4f98dcacf7369f84c7ff5ce1e931848816069179f76d55a85e72d8a0c14df
+covered_bank_ids:
+- market
+- uob
+- hsbc
+- standard_chartered
+publisher: Economist Intelligence Unit
+geography: Vietnam
+source_bundle: EMIS/Financial services _ Vietnam 2025.pdf

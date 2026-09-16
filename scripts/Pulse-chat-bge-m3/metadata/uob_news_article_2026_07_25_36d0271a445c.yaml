@@ -1,0 +1,23 @@
+document_id: uob_news_article_2026_07_25_36d0271a445c
+bank_id: uob
+title: 'Singapore, Thailand lift Asean consumer confidence as regional outlook diverges:
+  UOB survey'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-07-25'
+reporting_period:
+  start: '2026-07-25'
+  end: '2026-07-25'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/uob_news_article_2026_07_25_36d0271a445c.pdf
+source_url: https://global.factiva.com/
+checksum: 31e1643c51a07382ec3254ff861afef6ff11fa882fc5ef10a1b174d0e87b59c5
+covered_bank_ids:
+- uob
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260725EM7P00007
+source_bundle: QtD/Factiva_Q2tD2026_2.pdf
+source_page_start: 30
+source_page_end: 31

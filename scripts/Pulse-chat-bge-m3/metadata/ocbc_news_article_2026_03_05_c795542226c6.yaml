@@ -1,0 +1,23 @@
+document_id: ocbc_news_article_2026_03_05_c795542226c6
+bank_id: ocbc
+title: OCBC chief Tan Teck Long’s new strategy is a masterstroke, but execution risks
+  abound
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-03-05'
+reporting_period:
+  start: '2026-03-05'
+  end: '2026-03-05'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_news_article_2026_03_05_c795542226c6.pdf
+source_url: https://global.factiva.com/
+checksum: 19ce45683e94ce9deae8ce70665a159ceaa722e2cd55e519a97a40daf1974c40
+covered_bank_ids:
+- ocbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260305EM350000A
+source_bundle: Q1/Factiva_Q12026_1.pdf
+source_page_start: 94
+source_page_end: 96

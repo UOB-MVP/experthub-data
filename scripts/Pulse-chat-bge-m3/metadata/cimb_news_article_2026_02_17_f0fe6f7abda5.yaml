@@ -1,0 +1,22 @@
+document_id: cimb_news_article_2026_02_17_f0fe6f7abda5
+bank_id: cimb
+title: ‘BUY’ CALL STAYS ON CIMB
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-17'
+reporting_period:
+  start: '2026-02-17'
+  end: '2026-02-17'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: cimb/cimb_news_article_2026_02_17_f0fe6f7abda5.pdf
+source_url: https://global.factiva.com/
+checksum: 8fb078a99e118d167a9577cad10b57e03f336acaf1a094ee4a554b944afd19cf
+covered_bank_ids:
+- cimb
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260219EM2H00017
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q1/Factiva_CIMBMAY_Q1.pdf
+source_page_start: 30
+source_page_end: 30

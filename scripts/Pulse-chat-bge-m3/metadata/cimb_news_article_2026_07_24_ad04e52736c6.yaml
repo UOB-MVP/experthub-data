@@ -1,0 +1,22 @@
+document_id: cimb_news_article_2026_07_24_ad04e52736c6
+bank_id: cimb
+title: ‘Hold’ call stays on MyNews
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-07-24'
+reporting_period:
+  start: '2026-07-24'
+  end: '2026-07-24'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: cimb/cimb_news_article_2026_07_24_ad04e52736c6.pdf
+source_url: https://global.factiva.com/
+checksum: 515668238dd26375006cce101e68679b7c30d1e8dfa1d6d3b5c46ca01adac2ed
+covered_bank_ids:
+- cimb
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260724EM7O00003
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/QtD/Factiva_CIMBMAY_QtD2026.pdf
+source_page_start: 27
+source_page_end: 27

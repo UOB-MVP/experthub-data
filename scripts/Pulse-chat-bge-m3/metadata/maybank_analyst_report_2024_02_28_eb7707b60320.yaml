@@ -1,0 +1,24 @@
+document_id: maybank_analyst_report_2024_02_28_eb7707b60320
+bank_id: maybank
+title: 'Maybank (Malayan Banking): Broadly in-line results, stay UW'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2024-02-28'
+reporting_period:
+  start: '2024-02-28'
+  end: '2024-02-28'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: maybank/maybank_analyst_report_2024_02_28_eb7707b60320.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: eb7707b603202ff2681c9710d2ffca8cccb3d8275c2c7e562c7cef55d117e0dd
+covered_bank_ids:
+- maybank
+- uob
+- dbs
+- ocbc
+- cimb
+publisher: J.P. Morgan
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q4 2023/JPMorgan_Maybank_
+  Broadly in-line results_28_Feb_2024.pdf

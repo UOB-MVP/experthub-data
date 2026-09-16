@@ -1,0 +1,22 @@
+document_id: maybank_news_article_2026_02_11_5997bb845089
+bank_id: maybank
+title: Maybank IB retains ‘buy’ call on CPE Technology
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-11'
+reporting_period:
+  start: '2026-02-11'
+  end: '2026-02-11'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_02_11_5997bb845089.pdf
+source_url: https://global.factiva.com/
+checksum: 7336492a4d87ff6fb630c01d4be055f4210bef077c5c58e4b88f0fefa73059d2
+covered_bank_ids:
+- maybank
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260211EM2B00003
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q1/Factiva_CIMBMAY_Q1.pdf
+source_page_start: 39
+source_page_end: 39

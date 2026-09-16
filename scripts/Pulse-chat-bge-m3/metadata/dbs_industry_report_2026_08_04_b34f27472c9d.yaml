@@ -1,0 +1,16 @@
+document_id: dbs_industry_report_2026_08_04_b34f27472c9d
+bank_id: dbs
+title: Carol Wu - DBS - Asian Private Banker
+source_type: approved_third_party
+document_type: industry_report
+publication_date: '2026-08-04'
+reporting_period:
+  start: '2026-08-04'
+  end: '2026-08-04'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_industry_report_2026_08_04_b34f27472c9d.pdf
+source_url: https://asianprivatebanker.com/final-word-2025/carol-wu-dbs/
+checksum: b34f27472c9dad82c3c3454801ac3ece54764e999c40ee7011eadaba9e457b6b
+covered_bank_ids:
+- dbs

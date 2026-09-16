@@ -1,0 +1,23 @@
+document_id: dbs_news_article_2026_08_21_ed96bd2a4f04
+bank_id: dbs
+title: DBS expects tokenised finance investment to catch up with traditional payments,
+  custody in 2-3 years
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-21'
+reporting_period:
+  start: '2026-08-21'
+  end: '2026-08-21'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_08_21_ed96bd2a4f04.pdf
+source_url: https://global.factiva.com/
+checksum: ab63571fe66cfee0c9c48550cd05e0d63e7d2acf9fb85dc8856b647a75c690b8
+covered_bank_ids:
+- dbs
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260821EM8L00105
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 65
+source_page_end: 66

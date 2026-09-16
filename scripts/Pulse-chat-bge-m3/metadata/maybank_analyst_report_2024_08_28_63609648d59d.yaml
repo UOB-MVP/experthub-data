@@ -1,0 +1,20 @@
+document_id: maybank_analyst_report_2024_08_28_63609648d59d
+bank_id: maybank
+title: Maybank - Strong loan growth continues
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2024-08-28'
+reporting_period:
+  start: '2024-08-28'
+  end: '2024-08-28'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: maybank/maybank_analyst_report_2024_08_28_63609648d59d.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 63609648d59d8daf76bb2ae0c191f9bb127e02a3299265a4e66cb8f2cae3b6df
+covered_bank_ids:
+- maybank
+publisher: Nomura Securities
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q2 2024/Nomura Securities_Maybank
+  - Strong loan growth continues_28_Aug_2024.pdf

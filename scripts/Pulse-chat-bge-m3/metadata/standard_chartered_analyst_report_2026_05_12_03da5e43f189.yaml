@@ -1,0 +1,16 @@
+document_id: standard_chartered_analyst_report_2026_05_12_03da5e43f189
+bank_id: standard_chartered
+title: 'Standard Chartered: Hong Kong Investor Day - What are we looking for?'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-05-12'
+reporting_period:
+  start: '2026-05-12'
+  end: '2026-05-12'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_analyst_report_2026_05_12_03da5e43f189.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 03da5e43f189ebf272767dc8b1d9396099ae66d856c6c3e23ef56b79d43032bb
+covered_bank_ids:
+- standard_chartered

@@ -1,0 +1,22 @@
+document_id: hsbc_news_article_2026_01_10_4ddd238edcd4
+bank_id: hsbc
+title: What next after buyout?
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-01-10'
+reporting_period:
+  start: '2026-01-10'
+  end: '2026-01-10'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_01_10_4ddd238edcd4.pdf
+source_url: https://global.factiva.com/
+checksum: 1c01ff51400367080c1b2bf49c7520cdc331d54df3c7f1d3f6df47dd41ee264a
+covered_bank_ids:
+- hsbc
+publisher: South China Morning Post
+geography: Hong Kong
+source_document_id: SCMP000020260109EM1A0000F
+source_bundle: Q1/Factiva_Q12026_2.pdf
+source_page_start: 128
+source_page_end: 130

@@ -1,0 +1,19 @@
+document_id: cimb_earnings_call_transcript_2024_11_28_0f96e973583f
+bank_id: cimb
+title: CIMB Group Holdings Berhad FQ3 2024 Earnings Call Transcript
+source_type: approved_third_party
+document_type: earnings_call_transcript
+publication_date: '2024-11-28'
+reporting_period:
+  start: '2024-07-01'
+  end: '2024-09-30'
+  period_type: quarter
+  fiscal_year: 2024
+source_file: cimb/cimb_earnings_call_transcript_2024_11_28_0f96e973583f.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 0f96e973583fc1001b6ec542dc3ff805119e361d45bb72fcfd51139ee4498147
+covered_bank_ids:
+- cimb
+publisher: S&P Global Market Intelligence
+geography: Malaysia
+source_bundle: earnings call CIMB.zip/CIMB/CIMB_Transcript_Q32024.pdf

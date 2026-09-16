@@ -1,0 +1,22 @@
+document_id: dbs_news_article_2026_08_06_f29cd920e820
+bank_id: dbs
+title: 'Daily Debrief: What Happened Today (Aug 6)'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-06'
+reporting_period:
+  start: '2026-08-06'
+  end: '2026-08-06'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_08_06_f29cd920e820.pdf
+source_url: https://global.factiva.com/
+checksum: 14f26050f3c54aa1f7e8c3fe62470eba764d9c08e72be1993637bb994b699531
+covered_bank_ids:
+- dbs
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260806EM86001JL
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 140
+source_page_end: 140

@@ -1,0 +1,25 @@
+document_id: ocbc_news_article_2026_08_08_a4b572cc98cb
+bank_id: ocbc
+title: OCBC to pay 47-cent dividend as Q2 profit jumps 22% to $2.22b
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-08'
+reporting_period:
+  start: '2026-08-08'
+  end: '2026-08-08'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_news_article_2026_08_08_a4b572cc98cb.pdf
+source_url: https://global.factiva.com/
+checksum: 26bfca08262ae05b0ec834038c8fa2e3683ff3e79f826e7075df5b2acd2c3934
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+- hsbc
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260808EM880000M
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 127
+source_page_end: 128

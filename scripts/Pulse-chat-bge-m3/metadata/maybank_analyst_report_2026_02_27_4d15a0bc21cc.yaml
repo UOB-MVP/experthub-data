@@ -1,0 +1,20 @@
+document_id: maybank_analyst_report_2026_02_27_4d15a0bc21cc
+bank_id: maybank
+title: Maybank 4Q25 Results Review
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-02-27'
+reporting_period:
+  start: '2026-02-27'
+  end: '2026-02-27'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_analyst_report_2026_02_27_4d15a0bc21cc.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 4d15a0bc21cc8b6878c32abdc53e913c5b7bfb95f03d85506e6e5e7870c88827
+covered_bank_ids:
+- maybank
+publisher: Hong Leong Investment Bank
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q4 2025/Hong Leong Investment
+  Bank_Maybank 4Q25 Results Review_27_Feb_2026.pdf

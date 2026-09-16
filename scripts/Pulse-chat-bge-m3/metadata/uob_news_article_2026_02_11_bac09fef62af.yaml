@@ -1,0 +1,23 @@
+document_id: uob_news_article_2026_02_11_bac09fef62af
+bank_id: uob
+title: Stamford Land sues UOB over allocation of excess rights shares in its 2021
+  issue
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-11'
+reporting_period:
+  start: '2026-02-11'
+  end: '2026-02-11'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/uob_news_article_2026_02_11_bac09fef62af.pdf
+source_url: https://global.factiva.com/
+checksum: a6326897abb1b18c3f62bfa4da71c05b29d8beb9fd4e60de75b259a944035699
+covered_bank_ids:
+- uob
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260211EM2B0000D
+source_bundle: Q1/Factiva_Q12026_2.pdf
+source_page_start: 15
+source_page_end: 16

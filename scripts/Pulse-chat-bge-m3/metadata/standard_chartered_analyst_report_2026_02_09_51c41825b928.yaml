@@ -1,0 +1,16 @@
+document_id: standard_chartered_analyst_report_2026_02_09_51c41825b928
+bank_id: standard_chartered
+title: 'Standard Chartered: Resignation of Group CFO and Appointment of Interim CFO'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-02-09'
+reporting_period:
+  start: '2026-02-09'
+  end: '2026-02-09'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_analyst_report_2026_02_09_51c41825b928.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 51c41825b928aaf7f2b2a1826a8f77d2d742e469b135910fc5b0391beeceb0af
+covered_bank_ids:
+- standard_chartered

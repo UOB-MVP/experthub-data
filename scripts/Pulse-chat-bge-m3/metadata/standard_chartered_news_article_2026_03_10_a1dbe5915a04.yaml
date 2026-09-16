@@ -1,0 +1,22 @@
+document_id: standard_chartered_news_article_2026_03_10_a1dbe5915a04
+bank_id: standard_chartered
+title: 'Renminbi adoption gaining traction in Asean: Standard Chartered'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-03-10'
+reporting_period:
+  start: '2026-03-10'
+  end: '2026-03-10'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_news_article_2026_03_10_a1dbe5915a04.pdf
+source_url: https://global.factiva.com/
+checksum: b339170592da03b3c1de4f8ffa41feb87fbec5909e951becb049ec8055828038
+covered_bank_ids:
+- standard_chartered
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260310EM3A00009
+source_bundle: Q1/Factiva_Q12026_1.pdf
+source_page_start: 77
+source_page_end: 78

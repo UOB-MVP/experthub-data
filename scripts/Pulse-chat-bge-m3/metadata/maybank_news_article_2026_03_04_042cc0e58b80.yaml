@@ -1,0 +1,24 @@
+document_id: maybank_news_article_2026_03_04_042cc0e58b80
+bank_id: maybank
+title: Maybank Singapore to give one-off payouts to more than 800 junior staff
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-03-04'
+reporting_period:
+  start: '2026-03-04'
+  end: '2026-03-04'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_03_04_042cc0e58b80.pdf
+source_url: https://global.factiva.com/
+checksum: f5c7d3ed524d0d83731e66ae82234867a1f27735c2f5d8aa73319fb42995181e
+covered_bank_ids:
+- uob
+- dbs
+- maybank
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260304EM340038P
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q1/Factiva_CIMBMAY_Q1.pdf
+source_page_start: 17
+source_page_end: 17

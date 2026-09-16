@@ -1,0 +1,22 @@
+document_id: ocbc_news_article_2026_07_04_8f34138c0419
+bank_id: ocbc
+title: Great Eastern expands wealth advisory as it deepens push into HNW market
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-07-04'
+reporting_period:
+  start: '2026-07-04'
+  end: '2026-07-04'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_news_article_2026_07_04_8f34138c0419.pdf
+source_url: https://global.factiva.com/
+checksum: f3b3f27d65d752ac8892c4a667df907b1f6f74ee040fca59a0ea9b9a51dade4c
+covered_bank_ids:
+- ocbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260704EM740000J
+source_bundle: QtD/Factiva_Q2tD2026_2.pdf
+source_page_start: 101
+source_page_end: 102

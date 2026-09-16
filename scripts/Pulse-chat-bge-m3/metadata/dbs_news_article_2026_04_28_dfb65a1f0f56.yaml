@@ -1,0 +1,25 @@
+document_id: dbs_news_article_2026_04_28_dfb65a1f0f56
+bank_id: dbs
+title: DBS drives S$20b in Apac data centre deals as AI boom tests bank funding limits
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-04-28'
+reporting_period:
+  start: '2026-04-28'
+  end: '2026-04-28'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_04_28_dfb65a1f0f56.pdf
+source_url: https://global.factiva.com/
+checksum: 21e1268feff3949fe38e79d687ec25d572da3ba6abbfb0cd38c7c4c775e6764f
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+- standard_chartered
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260428EM4S00004
+source_bundle: Q2/Factiva_Q22026_2.pdf
+source_page_start: 14
+source_page_end: 15

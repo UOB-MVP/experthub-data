@@ -1,0 +1,20 @@
+document_id: maybank_analyst_report_2024_05_26_e2b894a8a1e8
+bank_id: maybank
+title: MAY MK 27May24
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2024-05-26'
+reporting_period:
+  start: '2024-05-26'
+  end: '2024-05-26'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: maybank/maybank_analyst_report_2024_05_26_e2b894a8a1e8.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: e2b894a8a1e8e794c354ee655e3df05a3874591877a26c4e77283d82dbe805f9
+covered_bank_ids:
+- maybank
+publisher: AmInvestment Bank
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q1 2024/AmInvestment Bank_MALAYAN
+  BANKING, 27 May 2024_26_May_2024.pdf

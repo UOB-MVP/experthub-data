@@ -1,0 +1,22 @@
+document_id: standard_chartered_news_article_2026_09_07_6f4f911ed006
+bank_id: standard_chartered
+title: StanChart eyeing new HK wealth centres
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-09-07'
+reporting_period:
+  start: '2026-09-07'
+  end: '2026-09-07'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_news_article_2026_09_07_6f4f911ed006.pdf
+source_url: https://global.factiva.com/
+checksum: f10c17b18929df0ac1ae5d1920ecc9eb6fb033498fb362ba726e1c39689e1b6e
+covered_bank_ids:
+- standard_chartered
+publisher: South China Morning Post
+geography: Hong Kong
+source_document_id: SCMP000020260906EM970000H
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 10
+source_page_end: 11

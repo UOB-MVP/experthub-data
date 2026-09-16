@@ -1,0 +1,20 @@
+document_id: maybank_analyst_report_2024_11_26_52f0cc7381dc
+bank_id: maybank
+title: Sequentially Steady
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2024-11-26'
+reporting_period:
+  start: '2024-11-26'
+  end: '2024-11-26'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: maybank/maybank_analyst_report_2024_11_26_52f0cc7381dc.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 52f0cc7381dc343dd1efa7b0e2e886f7a698b72e81578bb730573186d6b91b0c
+covered_bank_ids:
+- maybank
+publisher: Public Investment Bank Berhad, Research Division
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q3 2024/Public Investment
+  Bank Berhad, Research Division_Sequentially Steady_26_Nov_2024.pdf

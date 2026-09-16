@@ -1,0 +1,23 @@
+document_id: dbs_news_article_2026_08_26_1d65f12212ab
+bank_id: dbs
+title: DBS rolls out career advisory service to help employees navigate AI-driven
+  change
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-26'
+reporting_period:
+  start: '2026-08-26'
+  end: '2026-08-26'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_08_26_1d65f12212ab.pdf
+source_url: https://global.factiva.com/
+checksum: b19763abcaf4038dcdc11f5afe3181fa1fb5a89e56168a86558a33d2f7d7ebcf
+covered_bank_ids:
+- dbs
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260826EM8Q00005
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 40
+source_page_end: 41

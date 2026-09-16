@@ -1,0 +1,17 @@
+document_id: hsbc_analyst_report_2026_05_22_38871d23debd
+bank_id: hsbc
+title: 'HSBC Holdings plc: Initial view from seminars; Well positioned to capitalise
+  on structural Asia trends'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-05-22'
+reporting_period:
+  start: '2026-05-22'
+  end: '2026-05-22'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_analyst_report_2026_05_22_38871d23debd.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 38871d23debd157920710259898e2c3ad1511aad39b04f4afb48220ad30ea6a2
+covered_bank_ids:
+- hsbc

@@ -1,0 +1,20 @@
+document_id: maybank_analyst_report_2025_02_26_b4657491599f
+bank_id: maybank
+title: Maybank 4Q24 Results Review
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-02-26'
+reporting_period:
+  start: '2025-02-26'
+  end: '2025-02-26'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: maybank/maybank_analyst_report_2025_02_26_b4657491599f.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: b4657491599f6616c2313c84b77df8dbc4269ab627d50935bdf902fca73bc966
+covered_bank_ids:
+- maybank
+publisher: Hong Leong
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q4 2024/Hong Leong_Maybank
+  4Q24 Results Review_26_Feb_2025.pdf

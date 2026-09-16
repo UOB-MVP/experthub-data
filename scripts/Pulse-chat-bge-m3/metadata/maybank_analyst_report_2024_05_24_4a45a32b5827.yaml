@@ -1,0 +1,20 @@
+document_id: maybank_analyst_report_2024_05_24_4a45a32b5827
+bank_id: maybank
+title: Microsoft Word - MAY1Q24
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2024-05-24'
+reporting_period:
+  start: '2024-05-24'
+  end: '2024-05-24'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: maybank/maybank_analyst_report_2024_05_24_4a45a32b5827.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 4a45a32b5827b1d94822d8e15176f89b1b33d5ecb0a295bc1fe03a56807e59a7
+covered_bank_ids:
+- maybank
+publisher: TA Securities Holdings
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q1 2024/TA Securities
+  Holdings_Results Update_ Malayan Banking_24_May_2024.pdf

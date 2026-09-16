@@ -1,0 +1,24 @@
+document_id: dbs_news_article_2026_08_03_d01cd99afb9e
+bank_id: dbs
+title: Glide-path portfolios for CPF attract 25 proposals from interested offerors
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-03'
+reporting_period:
+  start: '2026-08-03'
+  end: '2026-08-03'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_08_03_d01cd99afb9e.pdf
+source_url: https://global.factiva.com/
+checksum: a298ed3d4153ae029ff4ce931b63ab84606402a8277a5f212cd6fa0d1e0e43c3
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260803EM830000A
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 173
+source_page_end: 175

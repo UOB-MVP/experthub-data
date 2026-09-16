@@ -1,0 +1,22 @@
+document_id: dbs_news_article_2026_08_07_636d22d234cd
+bank_id: dbs
+title: Winning Mindset
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-07'
+reporting_period:
+  start: '2026-08-07'
+  end: '2026-08-07'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_08_07_636d22d234cd.pdf
+source_url: https://global.factiva.com/
+checksum: 426691d1064b238c6167fb55c252749169fe7a0da334fa76b0b3fd9e4e86d021
+covered_bank_ids:
+- dbs
+publisher: Forbes Asia
+geography: Asia-Pacific
+source_document_id: FBGL000020260821EM8700006
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 131
+source_page_end: 131

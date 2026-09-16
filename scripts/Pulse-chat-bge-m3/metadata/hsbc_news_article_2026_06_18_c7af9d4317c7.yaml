@@ -1,0 +1,22 @@
+document_id: hsbc_news_article_2026_06_18_c7af9d4317c7
+bank_id: hsbc
+title: HSBC China scores first in QDLP scheme
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-06-18'
+reporting_period:
+  start: '2026-06-18'
+  end: '2026-06-18'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_06_18_c7af9d4317c7.pdf
+source_url: https://global.factiva.com/
+checksum: fadb0823445438fe3c4195659094c95c97370b3d155a857799094bb7fd28d0ea
+covered_bank_ids:
+- hsbc
+publisher: South China Morning Post
+geography: Hong Kong
+source_document_id: SCMP000020260617EM6I0000F
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 25
+source_page_end: 25

@@ -1,0 +1,20 @@
+document_id: cimb_analyst_report_2026_03_02_2dabee2e48c9
+bank_id: cimb
+title: NOII to Drive FY26F Growth
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-03-02'
+reporting_period:
+  start: '2026-03-02'
+  end: '2026-03-02'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: cimb/cimb_analyst_report_2026_03_02_2dabee2e48c9.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 2dabee2e48c9e949144be34f5b182a27a7a22892b399e116a13057250e634775
+covered_bank_ids:
+- cimb
+publisher: Public Investment Bank Berhad, Research Division
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q4 2025/Public Investment Bank
+  Berhad, Research Division_NOII to Drive FY26F Growth_02_Mar_2026.pdf

@@ -1,0 +1,26 @@
+document_id: uob_news_article_2026_05_08_437696b046af
+bank_id: uob
+title: UOB aims to double wealth income to at least S$2.5b by 2030; Q1 profit slips
+  4%
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-05-08'
+reporting_period:
+  start: '2026-05-08'
+  end: '2026-05-08'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/uob_news_article_2026_05_08_437696b046af.pdf
+source_url: https://global.factiva.com/
+checksum: d08b0c4191782df4b4c875a1834d58420f23f3417be06ae6313446a6d6a24626
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+- hsbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260508EM5800003
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 161
+source_page_end: 163

@@ -1,0 +1,23 @@
+document_id: dbs_news_article_2026_08_18_eebf243b0043
+bank_id: dbs
+title: 'Singapore’s financial sector must be bolder to stay at cutting edge: former
+  DBS chief Piyush Gupta'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-18'
+reporting_period:
+  start: '2026-08-18'
+  end: '2026-08-18'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_08_18_eebf243b0043.pdf
+source_url: https://global.factiva.com/
+checksum: eacb7fd624374b947aa26b7ca721178fb9dbaef502fa55b90d56c71396a9522c
+covered_bank_ids:
+- dbs
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260818EM8I0000A
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 89
+source_page_end: 90

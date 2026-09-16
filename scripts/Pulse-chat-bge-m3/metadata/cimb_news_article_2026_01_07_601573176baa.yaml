@@ -1,0 +1,24 @@
+document_id: cimb_news_article_2026_01_07_601573176baa
+bank_id: cimb
+title: HSS Integrated named in suit filed by sukuk holders
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-01-07'
+reporting_period:
+  start: '2026-01-07'
+  end: '2026-01-07'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: cimb/cimb_news_article_2026_01_07_601573176baa.pdf
+source_url: https://global.factiva.com/
+checksum: 318653a096297292d6cb384562315b570a2109708f59f0d45207406f75bca918
+covered_bank_ids:
+- hsbc
+- cimb
+- maybank
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260107EM1700012
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q1/Factiva_CIMBMAY_Q1.pdf
+source_page_start: 72
+source_page_end: 72

@@ -1,0 +1,22 @@
+document_id: maybank_news_article_2026_01_09_4737bca3c68e
+bank_id: maybank
+title: Maybank IB keeps ‘neutral’ view on tech sector
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-01-09'
+reporting_period:
+  start: '2026-01-09'
+  end: '2026-01-09'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_01_09_4737bca3c68e.pdf
+source_url: https://global.factiva.com/
+checksum: 70dae748afab3058637c4c243680a3c34b80fc87f9ad75f87df776f076ec5cd0
+covered_bank_ids:
+- maybank
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260109EM1900001
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q1/Factiva_CIMBMAY_Q1.pdf
+source_page_start: 69
+source_page_end: 69

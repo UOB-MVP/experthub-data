@@ -1,0 +1,17 @@
+document_id: dbs_analyst_report_2025_08_07_5885bc7b74c5
+bank_id: dbs
+title: DBS Group (DBSM.SI) Revising EPS higher post 2Q, we see ability deliver core
+  DPS step-up even in 2027
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-08-07'
+reporting_period:
+  start: '2025-08-07'
+  end: '2025-08-07'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: dbs/dbs_analyst_report_2025_08_07_5885bc7b74c5.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 5885bc7b74c507b4843d0b100f6463cee918252b4ac954c51d1de42c7ca44fae
+covered_bank_ids:
+- dbs

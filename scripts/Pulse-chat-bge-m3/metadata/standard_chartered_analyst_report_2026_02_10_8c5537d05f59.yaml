@@ -1,0 +1,16 @@
+document_id: standard_chartered_analyst_report_2026_02_10_8c5537d05f59
+bank_id: standard_chartered
+title: Standard Chartered (STAN.L2888.HK) CFO transition
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-02-10'
+reporting_period:
+  start: '2026-02-10'
+  end: '2026-02-10'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_analyst_report_2026_02_10_8c5537d05f59.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 8c5537d05f5934cde7dbb14471a64cec75e6a11493d4934b824e864004678d4b
+covered_bank_ids:
+- standard_chartered

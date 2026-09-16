@@ -1,0 +1,22 @@
+document_id: uob_news_article_2026_02_20_93cb68def962
+bank_id: uob
+title: UOI H2 net profit surges 51.5% to S$23.7 million
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-20'
+reporting_period:
+  start: '2026-02-20'
+  end: '2026-02-20'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/uob_news_article_2026_02_20_93cb68def962.pdf
+source_url: https://global.factiva.com/
+checksum: 9a1e71e8ebd83ee3e70c3dd365ba50c56665baa1f57010aac190eb4ab5517317
+covered_bank_ids:
+- uob
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260220EM2K001P5
+source_bundle: Q1/Factiva_Q12026_1.pdf
+source_page_start: 172
+source_page_end: 172

@@ -1,0 +1,22 @@
+document_id: dbs_news_article_2026_09_07_541c2867f2e2
+bank_id: dbs
+title: DBS, Citi bypass traditional banking hours with weekend tokenised deposit payment
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-09-07'
+reporting_period:
+  start: '2026-09-07'
+  end: '2026-09-07'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_09_07_541c2867f2e2.pdf
+source_url: https://global.factiva.com/
+checksum: 15958310561ca391f2755516da6c39e958fc0e2f130eedb73f4a879baea34ece
+covered_bank_ids:
+- dbs
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260907EM9700209
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 7
+source_page_end: 7

@@ -1,0 +1,16 @@
+document_id: dbs_earnings_call_transcript_2026_04_30_571a086685a1
+bank_id: dbs
+title: DBS Group Holdings Ltd Earnings Call 2026-04-30 English
+source_type: approved_third_party
+document_type: earnings_call_transcript
+publication_date: '2026-04-30'
+reporting_period:
+  start: '2026-01-01'
+  end: '2026-03-31'
+  period_type: quarter
+  fiscal_year: 2026
+source_file: dbs/dbs_earnings_call_transcript_2026_04_30_571a086685a1.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 571a086685a10199e06933ee44fe5c6e140da48b9427ccc44debc321055e4c18
+covered_bank_ids:
+- dbs

@@ -1,0 +1,22 @@
+document_id: maybank_news_article_2026_02_25_800a85b9756c
+bank_id: maybank
+title: LIMITED IMPACT SEEN FROM U.S. TARIFFS
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-25'
+reporting_period:
+  start: '2026-02-25'
+  end: '2026-02-25'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_02_25_800a85b9756c.pdf
+source_url: https://global.factiva.com/
+checksum: 048e5ba536fe87306918f78d6fdf4d0079d9fe18fb6302dd7e83ad0883a13c09
+covered_bank_ids:
+- maybank
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260225EM2P00003
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q1/Factiva_CIMBMAY_Q1.pdf
+source_page_start: 24
+source_page_end: 24

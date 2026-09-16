@@ -1,0 +1,16 @@
+document_id: standard_chartered_analyst_report_2025_11_12_28bab533db3a
+bank_id: standard_chartered
+title: 'Standard Chartered: Research Tactical Idea'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-11-12'
+reporting_period:
+  start: '2025-11-12'
+  end: '2025-11-12'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: standard_chartered/standard_chartered_analyst_report_2025_11_12_28bab533db3a.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 28bab533db3a99c8e3858f6c1f3fdabe5063adf5ecb34ff9ad830c6ef4579e3b
+covered_bank_ids:
+- standard_chartered

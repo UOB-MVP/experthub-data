@@ -1,0 +1,16 @@
+document_id: ocbc_earnings_call_transcript_2025_02_26_11529bd4179b
+bank_id: ocbc
+title: OCBC Earnings Call 2025-02-26 English
+source_type: approved_third_party
+document_type: earnings_call_transcript
+publication_date: '2025-02-26'
+reporting_period:
+  start: '2024-10-01'
+  end: '2024-12-31'
+  period_type: quarter
+  fiscal_year: 2024
+source_file: ocbc/ocbc_earnings_call_transcript_2025_02_26_11529bd4179b.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 11529bd4179bcddb9524afed3c624e57f4f6b3b50bdf60e4fa791b40e9f72192
+covered_bank_ids:
+- ocbc

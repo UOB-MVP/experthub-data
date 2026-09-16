@@ -1,0 +1,22 @@
+document_id: hsbc_news_article_2026_01_12_064b54daebfb
+bank_id: hsbc
+title: Dividend yields ‘key for Hang Seng Bank investors’
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-01-12'
+reporting_period:
+  start: '2026-01-12'
+  end: '2026-01-12'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_01_12_064b54daebfb.pdf
+source_url: https://global.factiva.com/
+checksum: 33a1175f3f4a07549c31d4f20fe9c33f374fb6e444ad63a2bd1a0f3fe5b70306
+covered_bank_ids:
+- hsbc
+publisher: South China Morning Post
+geography: Hong Kong
+source_document_id: SCMP000020260111EM1C00006
+source_bundle: Q1/Factiva_Q12026_2.pdf
+source_page_start: 126
+source_page_end: 127

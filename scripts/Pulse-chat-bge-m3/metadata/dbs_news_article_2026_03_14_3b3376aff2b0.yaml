@@ -1,0 +1,25 @@
+document_id: dbs_news_article_2026_03_14_3b3376aff2b0
+bank_id: dbs
+title: Singapore banks could see biggest losses on Indonesia loans among regional
+  peers due to climate risks
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-03-14'
+reporting_period:
+  start: '2026-03-14'
+  end: '2026-03-14'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_03_14_3b3376aff2b0.pdf
+source_url: https://global.factiva.com/
+checksum: 2069a496254adb0425b57f4ade651d13037bec09aef8c66918f7dff543c310f8
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260314EM3E00002
+source_bundle: Q1/Factiva_Q12026_1.pdf
+source_page_start: 56
+source_page_end: 57

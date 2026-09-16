@@ -1,0 +1,22 @@
+document_id: standard_chartered_news_article_2026_05_25_13455881e148
+bank_id: standard_chartered
+title: Shum doubles up to eke out championship lead as Hayes keeps slim hopes alive
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-05-25'
+reporting_period:
+  start: '2026-05-25'
+  end: '2026-05-25'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_news_article_2026_05_25_13455881e148.pdf
+source_url: https://global.factiva.com/
+checksum: af7f67eadba6bd866db2ab0c1edd2b9b2f0a80cb04418bbc50fa5822a06ae6eb
+covered_bank_ids:
+- standard_chartered
+publisher: South China Morning Post
+geography: Hong Kong
+source_document_id: SCMP000020260524EM5P0000D
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 90
+source_page_end: 91

@@ -1,0 +1,22 @@
+document_id: dbs_news_article_2026_07_29_f592c7697c86
+bank_id: dbs
+title: DBS rolls out agentic AI to 350,000 corporate clients
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-07-29'
+reporting_period:
+  start: '2026-07-29'
+  end: '2026-07-29'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_07_29_f592c7697c86.pdf
+source_url: https://global.factiva.com/
+checksum: fdb7401ea4112f419df4b08fca3a1e3103eea9fe3d7803a86dd797936f455606
+covered_bank_ids:
+- dbs
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260729EM7T0000S
+source_bundle: QtD/Factiva_Q2tD2026_2.pdf
+source_page_start: 13
+source_page_end: 14

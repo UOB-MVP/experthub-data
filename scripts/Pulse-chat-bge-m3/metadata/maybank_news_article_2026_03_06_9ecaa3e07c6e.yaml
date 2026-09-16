@@ -1,0 +1,22 @@
+document_id: maybank_news_article_2026_03_06_9ecaa3e07c6e
+bank_id: maybank
+title: VIDA FAILS TO OVERTURN RM15.5m JUDGMENT
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-03-06'
+reporting_period:
+  start: '2026-03-06'
+  end: '2026-03-06'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_03_06_9ecaa3e07c6e.pdf
+source_url: https://global.factiva.com/
+checksum: 708112df8688ddd6f61de56078b48559c648d46930b6cb917c4fee9c49dd3dd4
+covered_bank_ids:
+- maybank
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260306EM360000K
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q1/Factiva_CIMBMAY_Q1.pdf
+source_page_start: 14
+source_page_end: 14

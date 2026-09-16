@@ -1,0 +1,22 @@
+document_id: hsbc_news_article_2026_03_09_0a1f7fede130
+bank_id: hsbc
+title: Global tensions, China tech rise ‘attracting wealth’
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-03-09'
+reporting_period:
+  start: '2026-03-09'
+  end: '2026-03-09'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_03_09_0a1f7fede130.pdf
+source_url: https://global.factiva.com/
+checksum: 1cdce806624aa123a8c3e0fcd88b10499a4743d5849d06c5a21d44bc2d4c6c1c
+covered_bank_ids:
+- hsbc
+publisher: South China Morning Post
+geography: Hong Kong
+source_document_id: SCMP000020260308EM3900003
+source_bundle: Q1/Factiva_Q12026_1.pdf
+source_page_start: 86
+source_page_end: 87

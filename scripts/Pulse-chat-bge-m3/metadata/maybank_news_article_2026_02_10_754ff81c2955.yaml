@@ -1,0 +1,22 @@
+document_id: maybank_news_article_2026_02_10_754ff81c2955
+bank_id: maybank
+title: CONSTRUCTION PROJECTED TO LEAD THE PACK
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-10'
+reporting_period:
+  start: '2026-02-10'
+  end: '2026-02-10'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_02_10_754ff81c2955.pdf
+source_url: https://global.factiva.com/
+checksum: 786293ba002c7b75dda6c8d371c0e65aabf4f5cdc9fad9013ebb2053ab4331b4
+covered_bank_ids:
+- maybank
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260210EM2A00008
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q1/Factiva_CIMBMAY_Q1.pdf
+source_page_start: 40
+source_page_end: 40

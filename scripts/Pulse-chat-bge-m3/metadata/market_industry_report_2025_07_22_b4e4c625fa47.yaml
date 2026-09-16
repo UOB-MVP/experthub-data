@@ -1,0 +1,22 @@
+document_id: market_industry_report_2025_07_22_b4e4c625fa47
+bank_id: market
+title: 'APAC Banks: Mid-Year Review'
+source_type: approved_third_party
+document_type: industry_report
+publication_date: '2025-07-22'
+reporting_period:
+  start: '2025-07-22'
+  end: '2025-07-22'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: market/market_industry_report_2025_07_22_b4e4c625fa47.pdf
+source_url: https://www.fitchsolutions.com/bmi
+checksum: b4e4c625fa47cede7aaf967f13d16cbfd9eabbd9d707ada6daf28e280de23aa7
+covered_bank_ids:
+- market
+- uob
+- dbs
+- ocbc
+publisher: BMI
+geography: Asia-Pacific
+source_bundle: BMI/BMI APAC Banks_ Mid-Year Review - 23 Jul 2025.pdf

@@ -1,0 +1,20 @@
+document_id: cimb_analyst_report_2023_11_30_7f80c5ab65a3
+bank_id: cimb
+title: CIMB Group - FY23F ROE target within grasp
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2023-11-30'
+reporting_period:
+  start: '2023-11-30'
+  end: '2023-11-30'
+  period_type: point_in_time
+  fiscal_year: 2023
+source_file: cimb/cimb_analyst_report_2023_11_30_7f80c5ab65a3.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 7f80c5ab65a3ee73d5e03df3eb954db263469b849ec87c3d1a16ea6ee3184aaa
+covered_bank_ids:
+- cimb
+publisher: Nomura Securities
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q3 2023/Nomura Securities_CIMB
+  Group - FY23F ROE target within grasp_30_Nov_2023.pdf

@@ -1,0 +1,24 @@
+document_id: maybank_analyst_report_2024_05_24_5b30242ad2a2
+bank_id: maybank
+title: 'Maybank (Malayan Banking): First Take: NIM and costs miss, treasury beats'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2024-05-24'
+reporting_period:
+  start: '2024-05-24'
+  end: '2024-05-24'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: maybank/maybank_analyst_report_2024_05_24_5b30242ad2a2.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 5b30242ad2a24301da1ce9d87a6583fbe436e3636c69f793e16aeac5e99510de
+covered_bank_ids:
+- maybank
+- uob
+- dbs
+- ocbc
+- cimb
+publisher: J.P. Morgan
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q1 2024/JPMorgan_Maybank_
+  First Take_ NIM and costs miss_24_May_2024.pdf

@@ -1,0 +1,22 @@
+document_id: hsbc_news_article_2026_01_09_ab8a8df5233f
+bank_id: hsbc
+title: 'Markets: HSBC Settles French Claims Of Tax Fraud for $313 Million'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-01-09'
+reporting_period:
+  start: '2026-01-09'
+  end: '2026-01-09'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_01_09_ab8a8df5233f.pdf
+source_url: https://global.factiva.com/
+checksum: 12f3f0edb61974794f9e96941685ab6ba3c207864e2558294bed9f5bce374845
+covered_bank_ids:
+- hsbc
+publisher: The Wall Street Journal
+geography: Asia-Pacific
+source_document_id: J000000020260109EM190000Z
+source_bundle: Q1/Factiva_Q12026_2.pdf
+source_page_start: 131
+source_page_end: 131

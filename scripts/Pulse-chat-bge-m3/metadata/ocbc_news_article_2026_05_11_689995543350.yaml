@@ -1,0 +1,25 @@
+document_id: ocbc_news_article_2026_05_11_689995543350
+bank_id: ocbc
+title: OCBC, UOB target wealth management growth as demand rises
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-05-11'
+reporting_period:
+  start: '2026-05-11'
+  end: '2026-05-11'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_news_article_2026_05_11_689995543350.pdf
+source_url: https://global.factiva.com/
+checksum: f95f5e36d70523580fc2f34ce8011ed07f3f699e393b8df631f4133c0017a092
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+- hsbc
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260522EM5B0033S
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 148
+source_page_end: 150

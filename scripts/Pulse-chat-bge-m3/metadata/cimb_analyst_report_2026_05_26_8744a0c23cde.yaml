@@ -1,0 +1,20 @@
+document_id: cimb_analyst_report_2026_05_26_8744a0c23cde
+bank_id: cimb
+title: CIMB 1Q26 slightly ahead despite FX drag
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-05-26'
+reporting_period:
+  start: '2026-05-26'
+  end: '2026-05-26'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: cimb/cimb_analyst_report_2026_05_26_8744a0c23cde.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 8744a0c23cdecf4db93818ebb92893f70a45fe5ac863403b261730a6687f4fe8
+covered_bank_ids:
+- cimb
+publisher: Citigroup
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q1 2026/Citigroup_CIMB_ 1Q26
+  slightly ahead despite FX drag_26_May_2026.pdf

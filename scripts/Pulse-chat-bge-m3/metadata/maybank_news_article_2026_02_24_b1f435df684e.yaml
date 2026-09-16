@@ -1,0 +1,23 @@
+document_id: maybank_news_article_2026_02_24_b1f435df684e
+bank_id: maybank
+title: ‘BUY’ CALL ON MAYBANK KEPT
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-24'
+reporting_period:
+  start: '2026-02-24'
+  end: '2026-02-24'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_02_24_b1f435df684e.pdf
+source_url: https://global.factiva.com/
+checksum: d5ed7027d3247f9a84321fff2bd5b0a932145b3c35e454fc245287e26cd03c99
+covered_bank_ids:
+- cimb
+- maybank
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260224EM2O00001
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q1/Factiva_CIMBMAY_Q1.pdf
+source_page_start: 26
+source_page_end: 26

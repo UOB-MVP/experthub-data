@@ -1,0 +1,22 @@
+document_id: cimb_news_article_2026_05_14_67c45c3c1b38
+bank_id: cimb
+title: CIMB Alumni platform unveiled
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-05-14'
+reporting_period:
+  start: '2026-05-14'
+  end: '2026-05-14'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: cimb/cimb_news_article_2026_05_14_67c45c3c1b38.pdf
+source_url: https://global.factiva.com/
+checksum: b7f39090e9ed38179cb1fe29de18e6beb31adc7bc168b85748505a21b8abb7c7
+covered_bank_ids:
+- cimb
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260514EM5E0000D
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q2/Factiva_CIMBMAY_Q2.pdf
+source_page_start: 15
+source_page_end: 15

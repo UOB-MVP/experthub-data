@@ -1,0 +1,20 @@
+document_id: cimb_analyst_report_2024_05_31_2260bcd6061f
+bank_id: cimb
+title: 1Q24 - Another special dividend on the cards
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2024-05-31'
+reporting_period:
+  start: '2024-05-31'
+  end: '2024-05-31'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: cimb/cimb_analyst_report_2024_05_31_2260bcd6061f.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 2260bcd6061fd4f61afb5f918c95d49bc80ec3d4a4f37d8f0aa565b81a1c6d23
+covered_bank_ids:
+- cimb
+publisher: Macquarie Research
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q1 2024/Macquarie Research_1Q24
+  - Another special dividend on the cards__31_May_2024.pdf

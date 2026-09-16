@@ -1,0 +1,20 @@
+document_id: cimb_analyst_report_2023_11_30_e428aff317e3
+bank_id: cimb
+title: CIMB 3Q23 briefing takeaways Earnings beat put
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2023-11-30'
+reporting_period:
+  start: '2023-11-30'
+  end: '2023-11-30'
+  period_type: point_in_time
+  fiscal_year: 2023
+source_file: cimb/cimb_analyst_report_2023_11_30_e428aff317e3.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: e428aff317e32a6a1e57f20b2dfe37ac47f0f6dedc97881ba84829dcdceb5392
+covered_bank_ids:
+- cimb
+publisher: Citigroup
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q3 2023/Citigroup_CIMB_ 3Q23
+  briefing takeaways_ Earnings beat put_30_Nov_2023.pdf

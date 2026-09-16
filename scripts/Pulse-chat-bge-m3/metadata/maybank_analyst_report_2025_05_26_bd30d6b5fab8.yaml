@@ -1,0 +1,20 @@
+document_id: maybank_analyst_report_2025_05_26_bd30d6b5fab8
+bank_id: maybank
+title: MALAYAN BANKING - Within Expectations
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-05-26'
+reporting_period:
+  start: '2025-05-26'
+  end: '2025-05-26'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: maybank/maybank_analyst_report_2025_05_26_bd30d6b5fab8.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: bd30d6b5fab891198943bb150c3821531eefd0292114ea4b5ddfed91152b53db
+covered_bank_ids:
+- maybank
+publisher: Public Investment Bank
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q1 2025/Public Investment
+  Bank_MALAYAN BANKING - Within Expectations_26_May_2025.pdf

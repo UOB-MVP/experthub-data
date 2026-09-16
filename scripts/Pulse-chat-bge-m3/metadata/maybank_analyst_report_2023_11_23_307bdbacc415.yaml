@@ -1,0 +1,20 @@
+document_id: maybank_analyst_report_2023_11_23_307bdbacc415
+bank_id: maybank
+title: Maybank Mixed Bag
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2023-11-23'
+reporting_period:
+  start: '2023-11-23'
+  end: '2023-11-23'
+  period_type: point_in_time
+  fiscal_year: 2023
+source_file: maybank/maybank_analyst_report_2023_11_23_307bdbacc415.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 307bdbacc41531b126cdae16c83d39ef2ad0311bed47fd02098a172316721e29
+covered_bank_ids:
+- maybank
+publisher: Public Investment Bank
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q3 2023/Public Investment
+  Bank_Maybank_Mixed Bag_23_Nov_2023.pdf

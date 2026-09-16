@@ -1,0 +1,16 @@
+document_id: dbs_earnings_release_2025_08_07_9d52932ffce1
+bank_id: dbs
+title: 2Q25 press statement
+source_type: official
+document_type: earnings_release
+publication_date: '2025-08-07'
+reporting_period:
+  start: '2025-04-01'
+  end: '2025-06-30'
+  period_type: quarter
+  fiscal_year: 2025
+source_file: dbs/dbs_earnings_release_2025_08_07_9d52932ffce1.pdf
+source_url: https://www.dbs.com/investors/
+checksum: 9d52932ffce15ab488c2a352cce3ffa38a59a0b1553832feee4d4dc5e20aa085
+covered_bank_ids:
+- dbs

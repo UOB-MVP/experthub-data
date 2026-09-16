@@ -1,0 +1,24 @@
+document_id: maybank_news_article_2026_08_10_713c0fc040c3
+bank_id: maybank
+title: 'Capital: Brokers Digest: Local Equities - Malayan Banking Bhd, Fraser & Neave
+  Holdings Bhd, Hartalega Holdings Bhd, Sunway Construction Group Bhd'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-10'
+reporting_period:
+  start: '2026-08-10'
+  end: '2026-08-10'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_08_10_713c0fc040c3.pdf
+source_url: https://global.factiva.com/
+checksum: f5b641e4ebf4796878efbcc48c9a5241f82ac7a11c5dd3b0db0b6912bd953900
+covered_bank_ids:
+- uob
+- maybank
+publisher: The Edge Malaysia (Weekly)
+geography: Malaysia
+source_document_id: EDGEWK0020260812EM8A0000J
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/QtD/Factiva_CIMBMAY_QtD2026.pdf
+source_page_start: 17
+source_page_end: 18

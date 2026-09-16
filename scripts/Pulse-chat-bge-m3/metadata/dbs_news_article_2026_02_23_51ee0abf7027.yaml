@@ -1,0 +1,23 @@
+document_id: dbs_news_article_2026_02_23_51ee0abf7027
+bank_id: dbs
+title: DBS initiates coverage on Jardine C&C with ‘buy’ on ‘strategic exposure’ to
+  Vietnam, Indonesia
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-23'
+reporting_period:
+  start: '2026-02-23'
+  end: '2026-02-23'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_02_23_51ee0abf7027.pdf
+source_url: https://global.factiva.com/
+checksum: ae40b2b6058be584175393ce6d0a3e61479e442fb7f189faa10b769e54c4d89d
+covered_bank_ids:
+- dbs
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260223EM2N001BA
+source_bundle: Q1/Factiva_Q12026_1.pdf
+source_page_start: 165
+source_page_end: 166

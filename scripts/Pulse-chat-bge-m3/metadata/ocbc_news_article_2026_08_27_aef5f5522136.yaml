@@ -1,0 +1,22 @@
+document_id: ocbc_news_article_2026_08_27_aef5f5522136
+bank_id: ocbc
+title: '‘Listen actively and with empathy’: OCBC officer doubles as anti-scam adviser'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-27'
+reporting_period:
+  start: '2026-08-27'
+  end: '2026-08-27'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_news_article_2026_08_27_aef5f5522136.pdf
+source_url: https://global.factiva.com/
+checksum: 120904e7c59000724bb26eac278df311281df3abccf5e022dc8e8d9dcbed358e
+covered_bank_ids:
+- ocbc
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260827EM8R0000F
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 34
+source_page_end: 35

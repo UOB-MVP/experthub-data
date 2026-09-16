@@ -1,0 +1,25 @@
+document_id: dbs_news_article_2026_03_01_fbf7ecc5e597
+bank_id: dbs
+title: 'Wealth flows, Asean momentum to anchor DBS, OCBC and UOB as lower rates loom
+  in 2026: analysts'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-03-01'
+reporting_period:
+  start: '2026-03-01'
+  end: '2026-03-01'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_03_01_fbf7ecc5e597.pdf
+source_url: https://global.factiva.com/
+checksum: acba5510cec1d47d4a361ed00017b08fc81f345865d7ba3abf493c4339aee61a
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260301EM31000XI
+source_bundle: Q1/Factiva_Q12026_1.pdf
+source_page_start: 118
+source_page_end: 120

@@ -1,0 +1,22 @@
+document_id: maybank_news_article_2026_03_14_86751f409b8b
+bank_id: maybank
+title: Empire Premium going for main market listing
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-03-14'
+reporting_period:
+  start: '2026-03-14'
+  end: '2026-03-14'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_03_14_86751f409b8b.pdf
+source_url: https://global.factiva.com/
+checksum: 401343edeabcb6f507b20cd82100b6c203365abc8466f94575ad4315bfc2e769
+covered_bank_ids:
+- maybank
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260316EM3E0000Z
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/Q1/Factiva_CIMBMAY_Q1.pdf
+source_page_start: 9
+source_page_end: 9

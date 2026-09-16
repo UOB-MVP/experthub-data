@@ -1,0 +1,22 @@
+document_id: hsbc_news_article_2026_01_03_b3b7ee605ffc
+bank_id: hsbc
+title: HSBC files action against Howard and Aidan Barclay
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-01-03'
+reporting_period:
+  start: '2026-01-03'
+  end: '2026-01-03'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_01_03_b3b7ee605ffc.pdf
+source_url: https://global.factiva.com/
+checksum: 3aa0c96c7893fcd755530e573ae7c539208734ce0bede2c2dc4e0fa74c4e21db
+covered_bank_ids:
+- hsbc
+publisher: Financial Times
+geography: Asia-Pacific
+source_document_id: FTFTA00020260103EM13000IG
+source_bundle: Q1/Factiva_Q12026_2.pdf
+source_page_start: 143
+source_page_end: 143

@@ -1,0 +1,23 @@
+document_id: dbs_news_article_2026_07_07_e4964c45819b
+bank_id: dbs
+title: Singapore retail sales grow for 4th straight month but at slower pace
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-07-07'
+reporting_period:
+  start: '2026-07-07'
+  end: '2026-07-07'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_07_07_e4964c45819b.pdf
+source_url: https://global.factiva.com/
+checksum: 0cc21abe794a90e70b5377cfb1f01a4be0158bd4496619f99e66c864587fbbf8
+covered_bank_ids:
+- dbs
+- ocbc
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260707EM7700007
+source_bundle: QtD/Factiva_Q2tD2026_2.pdf
+source_page_start: 98
+source_page_end: 99

@@ -1,0 +1,23 @@
+document_id: standard_chartered_news_article_2026_06_13_54f58e5b2282
+bank_id: standard_chartered
+title: '‘Important to remain involved’: Why StanChart didn’t walk away from the Singapore
+  Marathon'
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-06-13'
+reporting_period:
+  start: '2026-06-13'
+  end: '2026-06-13'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_news_article_2026_06_13_54f58e5b2282.pdf
+source_url: https://global.factiva.com/
+checksum: d4e3ab3f42a8b55b5545e852eec29621daddb69e181c3545872d625b4f3f9c39
+covered_bank_ids:
+- standard_chartered
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260613EM6D00001
+source_bundle: Q2/Factiva_Q22026_1.pdf
+source_page_start: 46
+source_page_end: 47

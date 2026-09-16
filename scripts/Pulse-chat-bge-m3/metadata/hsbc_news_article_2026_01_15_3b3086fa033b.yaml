@@ -1,0 +1,23 @@
+document_id: hsbc_news_article_2026_01_15_3b3086fa033b
+bank_id: hsbc
+title: Chen Xingtong wins HSBC Women’s World Championship qualifier with help from
+  caddie
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-01-15'
+reporting_period:
+  start: '2026-01-15'
+  end: '2026-01-15'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_01_15_3b3086fa033b.pdf
+source_url: https://global.factiva.com/
+checksum: 96147ba011197f3b941e50c6f9f698688becdca1ccf420bcc4066bd8229e7ca6
+covered_bank_ids:
+- hsbc
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260115EM1F0025T
+source_bundle: Q1/Factiva_Q12026_2.pdf
+source_page_start: 108
+source_page_end: 109

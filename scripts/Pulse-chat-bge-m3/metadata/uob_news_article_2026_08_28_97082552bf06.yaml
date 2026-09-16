@@ -1,0 +1,22 @@
+document_id: uob_news_article_2026_08_28_97082552bf06
+bank_id: uob
+title: Hong Leong, RHB and UOB Kay Hian upgrade IHH to ‘buy’ after earnings beat estimates
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-28'
+reporting_period:
+  start: '2026-08-28'
+  end: '2026-08-28'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/uob_news_article_2026_08_28_97082552bf06.pdf
+source_url: https://global.factiva.com/
+checksum: 922680968174029a1b128bbcbfd0bde0fd31c949ed31c460bf49f6a5342ca5f2
+covered_bank_ids:
+- uob
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260828EM8S0012X
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 29
+source_page_end: 30

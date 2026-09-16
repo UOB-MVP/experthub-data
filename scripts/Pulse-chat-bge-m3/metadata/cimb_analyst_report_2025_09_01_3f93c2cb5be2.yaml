@@ -1,0 +1,20 @@
+document_id: cimb_analyst_report_2025_09_01_3f93c2cb5be2
+bank_id: cimb
+title: CIMB 2Q25 Results Slightly Behind
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-09-01'
+reporting_period:
+  start: '2025-09-01'
+  end: '2025-09-01'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: cimb/cimb_analyst_report_2025_09_01_3f93c2cb5be2.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 3f93c2cb5be2d72df354eb060d3b52c691eed0a40bf988aac7b9285b9dbdd8d5
+covered_bank_ids:
+- cimb
+publisher: Citigroup
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q2 2025/Citigroup_CIMB_ 2Q25
+  Results Slightly Behind_01_Sep_2025.pdf

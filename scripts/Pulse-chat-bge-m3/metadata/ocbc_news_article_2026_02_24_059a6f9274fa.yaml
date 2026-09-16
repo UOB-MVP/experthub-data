@@ -1,0 +1,24 @@
+document_id: ocbc_news_article_2026_02_24_059a6f9274fa
+bank_id: ocbc
+title: OCBC Q4 profit up 3% to $1.75 billion to beat forecasts; proposes special dividend
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-02-24'
+reporting_period:
+  start: '2026-02-24'
+  end: '2026-02-24'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_news_article_2026_02_24_059a6f9274fa.pdf
+source_url: https://global.factiva.com/
+checksum: 284647939772ae1199507885e9c9d7c43a0ea6a0252b34e75ab09cedae9e309e
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+publisher: The Straits Times
+geography: Singapore
+source_document_id: STIMES0020260225EM2O0002T
+source_bundle: Q1/Factiva_Q12026_1.pdf
+source_page_start: 153
+source_page_end: 154

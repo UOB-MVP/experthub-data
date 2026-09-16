@@ -1,0 +1,21 @@
+document_id: cimb_analyst_report_2026_05_28_2db51a07d438
+bank_id: cimb
+title: Microsoft Word - md260528
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-05-28'
+reporting_period:
+  start: '2026-05-28'
+  end: '2026-05-28'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: cimb/cimb_analyst_report_2026_05_28_2db51a07d438.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 2db51a07d438220f5655f846618dd00edb857a5508040b4ee8f60d54e2fb1cb7
+covered_bank_ids:
+- cimb
+- uob
+publisher: UOB Kay Hian
+geography: Malaysia
+source_bundle: sell side analyst report CIMB.zip/CIMB/Q1 2026/UOB Kay Hian_CIMB -
+  1Q26_ Resilient Showing_28_May_2026.pdf

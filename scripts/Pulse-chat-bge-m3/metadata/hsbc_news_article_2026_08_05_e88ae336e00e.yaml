@@ -1,0 +1,22 @@
+document_id: hsbc_news_article_2026_08_05_e88ae336e00e
+bank_id: hsbc
+title: HSBC restarts buybacks as profits soar 60% to $10.1bn
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-08-05'
+reporting_period:
+  start: '2026-08-05'
+  end: '2026-08-05'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_news_article_2026_08_05_e88ae336e00e.pdf
+source_url: https://global.factiva.com/
+checksum: 0aad62a8c7ab25dc3134394c5623c4e8122315d80607988579461be83ce60679
+covered_bank_ids:
+- hsbc
+publisher: Financial Times
+geography: Asia-Pacific
+source_document_id: FTFTA00020260805EM850015U
+source_bundle: QtD/Factiva_Q2tD2026_1.pdf
+source_page_start: 152
+source_page_end: 153

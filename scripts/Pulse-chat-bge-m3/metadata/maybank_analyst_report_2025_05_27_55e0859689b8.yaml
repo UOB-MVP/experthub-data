@@ -1,0 +1,21 @@
+document_id: maybank_analyst_report_2025_05_27_55e0859689b8
+bank_id: maybank
+title: Malayan Banking - Still Growing
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-05-27'
+reporting_period:
+  start: '2025-05-27'
+  end: '2025-05-27'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: maybank/maybank_analyst_report_2025_05_27_55e0859689b8.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 55e0859689b853efa23a621701bfd13c038b5292f6a22ebc642a8dcc9db99a93
+covered_bank_ids:
+- maybank
+- cimb
+publisher: AUERBACH GRAYSON
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q1 2025/AUERBACH GRAYSON_
+  Malayan Banking - Still Growing_27_May_2025.pdf

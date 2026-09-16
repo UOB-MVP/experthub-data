@@ -1,0 +1,17 @@
+document_id: dbs_analyst_report_2025_05_07_49448f961268
+bank_id: dbs
+title: 'DBS Group Holdings: 1Q25 Good start to year, guidance lowered only modestly,
+  dividend payments as promised'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-05-07'
+reporting_period:
+  start: '2025-05-07'
+  end: '2025-05-07'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: dbs/dbs_analyst_report_2025_05_07_49448f961268.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 49448f96126843831dadacf0be3c1c86d8f4f17bfe31c15c398ef52e2cc82644
+covered_bank_ids:
+- dbs

@@ -1,0 +1,22 @@
+document_id: maybank_news_article_2026_07_07_f1fe7bd93a33
+bank_id: maybank
+title: Maybank IBG lifts 2026 GDP growth forecast to 4.9pc
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-07-07'
+reporting_period:
+  start: '2026-07-07'
+  end: '2026-07-07'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_news_article_2026_07_07_f1fe7bd93a33.pdf
+source_url: https://global.factiva.com/
+checksum: 3b66fa344aa6599b19203e11490d9d70ae4651927a069b502f6a6216223de737
+covered_bank_ids:
+- maybank
+publisher: New Straits Times
+geography: Malaysia
+source_document_id: NSTRAT0020260707EM7700007
+source_bundle: Full bank CIMB_MAY.zip/CIMB_MAY/QtD/Factiva_CIMBMAY_QtD2026.pdf
+source_page_start: 36
+source_page_end: 36

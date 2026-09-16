@@ -1,0 +1,20 @@
+document_id: maybank_analyst_report_2026_05_28_f72f82aea8ca
+bank_id: maybank
+title: Maybank 1Q26 miss on soft trading income
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-05-28'
+reporting_period:
+  start: '2026-05-28'
+  end: '2026-05-28'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: maybank/maybank_analyst_report_2026_05_28_f72f82aea8ca.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: f72f82aea8caa1797b1c52f67573ddab4f7f8b5a217383428d958268ba3efb70
+covered_bank_ids:
+- maybank
+publisher: Citigroup
+geography: Malaysia
+source_bundle: sell side analyst report Maybank.zip/Maybank/Q1 2026/Citigroup_Maybank_
+  1Q26 miss on soft trading income_28_May_2026.pdf

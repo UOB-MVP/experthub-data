@@ -1,0 +1,17 @@
+document_id: hsbc_analyst_report_2026_05_22_4d9610e5c583
+bank_id: hsbc
+title: JPMorgan Chase & Co Research Division HSBC Holdings plc (0005)  Initial view
+  from seminars; well positioned to capitalise on structural Asia trends 22 May 2026
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-05-22'
+reporting_period:
+  start: '2026-05-22'
+  end: '2026-05-22'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_analyst_report_2026_05_22_4d9610e5c583.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 4d9610e5c5832abf3fd824f1fc9f0cf59da914b3dfc479c4c4fff29dd6e13c86
+covered_bank_ids:
+- hsbc

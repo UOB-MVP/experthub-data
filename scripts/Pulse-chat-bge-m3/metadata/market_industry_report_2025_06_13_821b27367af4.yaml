@@ -1,0 +1,21 @@
+document_id: market_industry_report_2025_06_13_821b27367af4
+bank_id: market
+title: 'Financial services : Philippines'
+source_type: approved_third_party
+document_type: industry_report
+publication_date: '2025-06-13'
+reporting_period:
+  start: '2025-06-13'
+  end: '2025-06-13'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: market/market_industry_report_2025_06_13_821b27367af4.pdf
+source_url: https://viewpoint.eiu.com/analysis/geography/XO/PH/reports/ﬁnancial-services/2025-06-13
+checksum: 821b27367af4c3ba628bafa702cfe9f9f08bdf6e278b47e30954fbe1cedd5d7a
+covered_bank_ids:
+- market
+- hsbc
+- standard_chartered
+publisher: Economist Intelligence Unit
+geography: Philippines
+source_bundle: EMIS/Financial services _ Philippines 2025 (1).pdf

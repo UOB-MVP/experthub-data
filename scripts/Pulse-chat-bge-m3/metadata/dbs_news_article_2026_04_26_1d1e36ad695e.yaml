@@ -1,0 +1,23 @@
+document_id: dbs_news_article_2026_04_26_1d1e36ad695e
+bank_id: dbs
+title: DBS to offer consumers $10m in cashback redemptions to alleviate prices of
+  food and essentials
+source_type: approved_third_party
+document_type: news_article
+publication_date: '2026-04-26'
+reporting_period:
+  start: '2026-04-26'
+  end: '2026-04-26'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_news_article_2026_04_26_1d1e36ad695e.pdf
+source_url: https://global.factiva.com/
+checksum: 19007b5cd7fd77407d6b39207e41c876af5696c9445611dc9bdcb328a1b6b66a
+covered_bank_ids:
+- dbs
+publisher: Business Times Singapore
+geography: Singapore
+source_document_id: STBT000020260426EM4Q0005L
+source_bundle: Q2/Factiva_Q22026_2.pdf
+source_page_start: 24
+source_page_end: 25
