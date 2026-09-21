@@ -14,6 +14,13 @@ RUN pip install --no-cache-dir -r src/requirements.txt
 COPY src/ ./src/
 COPY data/ ./data/
 
+# Log exactly what was pulled from git into this image, so a bad checkout (missing/extra
+# files) is visible in the Cloud Build log instead of surfacing later as a pipeline failure.
+RUN set -eu; \
+    echo "==== files pulled from git into the image ===="; \
+    find src data -type f | sort; \
+    echo "==== total file count: $(find src data -type f | wc -l) ===="
+
 WORKDIR /app/src
 
 ENTRYPOINT ["python", "run_pipeline.py"]
