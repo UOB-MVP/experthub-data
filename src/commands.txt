@@ -1,0 +1,7 @@
+python build_vector_store.py --dry-run --allow-known-uob-substitution
+python build_vector_store.py --env-file .env --allow-known-uob-substitution
+python validate_vector_store.py
+
+python build_vector_store.py --dry-run --allow-known-uob-substitution --output-dir /tmp/exp-temp/output
+python build_vector_store.py --env-file .env --allow-known-uob-substitution --output-dir /tmp/exp-temp/output
+python validate_vector_store.py --output-dir /tmp/exp-temp/output
