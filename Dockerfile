@@ -23,4 +23,7 @@ RUN set -eu; \
 
 WORKDIR /app/src
 
-ENTRYPOINT ["python", "run_pipeline.py"]
+# Default: the data-migrate-ingest Cloud Run *Service* (must bind $PORT). The embedding-build
+# Cloud Run *Job* overrides this at job-creation time with --command=python
+# --args=run_pipeline.py -- see the "Automated builds on Cloud Run" section in README.md.
+ENTRYPOINT ["python", "migrate_service.py"]

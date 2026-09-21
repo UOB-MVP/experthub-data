@@ -184,11 +184,19 @@ gcloud builds submit --tag REGION-docker.pkg.dev/PROJECT_ID/REPO/expert-hub-vect
 gcloud run jobs create expert-hub-vector-build \
   --image=REGION-docker.pkg.dev/PROJECT_ID/REPO/expert-hub-vector-build \
   --region=REGION \
+  --command=python --args=run_pipeline.py \
   --set-env-vars=EXPERT_HUB_GCS_BUCKET=experthub-files,EXPERT_HUB_EMBEDDING_MODEL=gemini-embedding-001 \
   --set-secrets=VERTEX_API_KEY=VERTEX_API_KEY:latest \
   --max-retries=0 \
   --task-timeout=21600  # 6h headroom for embedding all 534 document instances; tune to your corpus/API throughput
+```
 
+The image's default entrypoint (`migrate_service.py`) is an HTTP wrapper for the data-migration
+script, used by the `data-migrate-ingest` Cloud Run *Service* (Services must bind `$PORT`; Jobs
+don't need to). The `--command`/`--args` override above makes the Job run the embedding build
+instead.
+
+```bash
 # Trigger a run
 gcloud run jobs execute expert-hub-vector-build --region=REGION
 ```
