@@ -27,10 +27,13 @@ EMBEDDING_BATCH_SIZE = 16
 EMBEDDING_MAX_RETRIES = 6
 
 SCRIPT_DIR = Path(__file__).resolve().parent
-DEFAULT_DATA_DIR = SCRIPT_DIR.parent.parent / "data"
+DEFAULT_DATA_DIR = SCRIPT_DIR.parent / "data"
 DEFAULT_OUTPUT_DIR = SCRIPT_DIR / "output"
+DEFAULT_RESULT_DIR = SCRIPT_DIR.parent / "result"
 SOURCE_MANIFEST_PATH = SCRIPT_DIR / "source_manifest.json"
 BUILD_CATALOG_PATH = SCRIPT_DIR / "build_catalog.json"
+EMBEDDED_DOCUMENTS_FILENAME = "embedded_documents.json"
+RESULT_LOG_FILENAME = "result.json"
 
 KNOWN_SOURCE_SUBSTITUTIONS = {
     "reports_data/01 Company disclosures and comms/Earnings call transcripts/UOB/"
@@ -190,15 +193,20 @@ def validate_runtime() -> None:
         raise RuntimeError(f"ChromaDB {CHROMADB_VERSION} is required; installed version is {installed}")
 
 
-def load_vertex_client(env_file: Path):
-    """Load credentials and create the Vertex express-mode client used for the reference build."""
+def load_vertex_client(env_file: Path | None):
+    """Load credentials and create the Vertex express-mode client used for the reference build.
+
+    When no env file is given, the required settings are read directly from the process
+    environment, as is the case when they are injected as Cloud Run env vars/secrets.
+    """
 
     import truststore
     from dotenv import load_dotenv
     from google import genai
 
     truststore.inject_into_ssl()
-    load_dotenv(env_file, override=False)
+    if env_file is not None:
+        load_dotenv(env_file, override=False)
     configured_model = os.environ.get("EXPERT_HUB_EMBEDDING_MODEL", "").strip()
     if configured_model != EMBEDDING_MODEL:
         raise RuntimeError(
@@ -249,7 +257,7 @@ def open_collection(output_dir: Path):
 
     import chromadb
 
-    store_dir = output_dir / "chroma_gemini_embedding"
+    store_dir = output_dir / "chromadb"
     store_dir.mkdir(parents=True, exist_ok=True)
     client = chromadb.PersistentClient(path=str(store_dir))
     names = {item.name for item in client.list_collections()}
@@ -351,10 +359,44 @@ def write_output_manifest(
     temporary.replace(target)
 
 
+def load_embedded_documents(result_dir: Path) -> dict[str, dict[str, object]]:
+    """Load the cross-run bookkeeping of which document instances are already embedded."""
+
+    path = result_dir / EMBEDDED_DOCUMENTS_FILENAME
+    if not path.is_file():
+        return {}
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+def save_embedded_documents(result_dir: Path, embedded_documents: dict[str, dict[str, object]]) -> None:
+    """Persist the bookkeeping file so a later run can skip documents already embedded."""
+
+    result_dir.mkdir(parents=True, exist_ok=True)
+    target = result_dir / EMBEDDED_DOCUMENTS_FILENAME
+    temporary = target.with_suffix(".tmp")
+    temporary.write_text(
+        json.dumps(embedded_documents, indent=2, ensure_ascii=False, sort_keys=True) + "\n", encoding="utf-8"
+    )
+    temporary.replace(target)
+
+
+def append_result_log(output_dir: Path, entry: dict[str, object]) -> None:
+    """Append one run's outcome as a new node in the cumulative result.json change log."""
+
+    output_dir.mkdir(parents=True, exist_ok=True)
+    target = output_dir / RESULT_LOG_FILENAME
+    history = json.loads(target.read_text(encoding="utf-8")) if target.is_file() else []
+    history.append(entry)
+    temporary = target.with_suffix(".tmp")
+    temporary.write_text(json.dumps(history, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    temporary.replace(target)
+
+
 def run_build(
     data_dir: Path,
     output_dir: Path,
     env_file: Path | None,
+    result_dir: Path,
     *,
     dry_run: bool,
     allow_known_substitution: bool,
@@ -390,19 +432,42 @@ def run_build(
             f"preflight complete: {len(source_manifest['files'])} source paths, {len(documents)} document "
             f"instances, {total_chunks} chunks, {len(substitutions)} documented substitution(s)"
         )
+        append_result_log(
+            output_dir,
+            {
+                "timestamp": datetime.now(timezone.utc).isoformat(),
+                "mode": "preflight",
+                "source_paths": len(source_manifest["files"]),
+                "document_instances": len(documents),
+                "total_chunks": total_chunks,
+                "source_substitutions": substitutions,
+            },
+        )
         return
 
-    if env_file is None:
-        raise ValueError("--env-file is required unless --dry-run is used")
     validate_runtime()
     _, collection = open_collection(output_dir)
     vertex_client = load_vertex_client(env_file)
+    embedded_bookkeeping = load_embedded_documents(result_dir)
     embedded_documents = 0
     resumed_documents = 0
+    skipped_documents = 0
     try:
         for index, document in enumerate(documents, start=1):
-            chunks = extract_pdf_chunks(source_path(data_dir, str(document["source_path"])))
+            id_prefix = str(document["id_prefix"])
+            source_path_str = str(document["source_path"])
             expected = int(document["chunk_count"])
+            bookkeeping_entry = embedded_bookkeeping.get(id_prefix)
+            if (
+                bookkeeping_entry is not None
+                and bookkeeping_entry.get("source_hash") == actual_hashes[source_path_str]
+                and bookkeeping_entry.get("chunk_count") == expected
+            ):
+                skipped_documents += 1
+                print(f"[{index}/{len(documents)}] {'bookkept':16s} {document['source_path']}", flush=True)
+                continue
+
+            chunks = extract_pdf_chunks(source_path(data_dir, source_path_str))
             if len(chunks) != expected:
                 raise RuntimeError(
                     f"chunk count mismatch for {document['source_path']}: expected {expected}, found {len(chunks)}"
@@ -410,6 +475,14 @@ def run_build(
             status = ingest_document(collection, vertex_client, document, chunks)
             embedded_documents += status == "embedded"
             resumed_documents += status == "already_complete"
+            embedded_bookkeeping[id_prefix] = {
+                "source_path": source_path_str,
+                "source_hash": actual_hashes[source_path_str],
+                "chunk_count": expected,
+                "status": status,
+                "recorded_at": datetime.now(timezone.utc).isoformat(),
+            }
+            save_embedded_documents(result_dir, embedded_bookkeeping)
             print(f"[{index}/{len(documents)}] {status:16s} {document['source_path']}", flush=True)
     finally:
         close = getattr(vertex_client, "close", None)
@@ -420,13 +493,27 @@ def run_build(
     if collection.count() != expected_chunks:
         raise RuntimeError(f"final collection has {collection.count()} chunks; expected {expected_chunks}")
     write_output_manifest(output_dir, catalog, substitutions, embedded_documents, resumed_documents)
-    print(f"build complete: {collection.count()} chunks in {output_dir / 'chroma_gemini_embedding'}")
+    append_result_log(
+        output_dir,
+        {
+            "timestamp": datetime.now(timezone.utc).isoformat(),
+            "mode": "build",
+            "document_instances": len(documents),
+            "embedded_documents": embedded_documents,
+            "resumed_documents": resumed_documents,
+            "skipped_bookkept_documents": skipped_documents,
+            "total_chunks": collection.count(),
+            "source_substitutions": substitutions,
+        },
+    )
+    print(f"build complete: {collection.count()} chunks in {output_dir / 'chromadb'}")
 
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--data-dir", type=Path, default=DEFAULT_DATA_DIR)
     parser.add_argument("--output-dir", type=Path, default=DEFAULT_OUTPUT_DIR)
+    parser.add_argument("--result-dir", type=Path, default=DEFAULT_RESULT_DIR)
     parser.add_argument("--env-file", type=Path)
     parser.add_argument("--dry-run", action="store_true")
     parser.add_argument(
@@ -439,6 +526,7 @@ def main() -> int:
         args.data_dir,
         args.output_dir,
         args.env_file,
+        args.result_dir,
         dry_run=args.dry_run,
         allow_known_substitution=args.allow_known_uob_substitution,
     )

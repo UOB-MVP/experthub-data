@@ -51,7 +51,7 @@ def validate_store(output_dir: Path, *, strict_source_match: bool) -> dict[str, 
 
     catalog = json.loads(BUILD_CATALOG_PATH.read_text(encoding="utf-8"))
     expected = catalog["expected"]
-    store_dir = output_dir / "chroma_gemini_embedding"
+    store_dir = output_dir / "chromadb"
     if not store_dir.is_dir():
         raise FileNotFoundError(f"vector-store directory is unavailable: {store_dir}")
     client = chromadb.PersistentClient(path=str(store_dir))

@@ -84,15 +84,17 @@ The workflow is resumable. A rerun skips document instances already stored with 
 IDs, while a partially stored document is rebuilt. The completed portable output consists of both:
 
 ```text
-scripts/Expert-Hub-gemini/output/
-|-- chroma_gemini_embedding/
+src/output/
+|-- chromadb/
 |   |-- chroma.sqlite3
 |   `-- <UUID-named index directory>/
-`-- gemini_manifest.json
+|-- gemini_manifest.json
+`-- result.json
 ```
 
-Keep the entire `chroma_gemini_embedding` directory together. Copying only `chroma.sqlite3` does not produce a complete
-Chroma snapshot.
+Keep the entire `chromadb` directory together. Copying only `chroma.sqlite3` does not produce a complete Chroma
+snapshot. `result.json` accumulates one appended node per build/preflight run describing what changed (documents
+embedded, resumed, or skipped, and the resulting chunk count) — see [Automated builds on Cloud Run](#automated-builds-on-cloud-run).
 
 ## 4. Validate the result
 
@@ -129,3 +131,67 @@ hashes.
 - Query-time retrieval must use `gemini-embedding-001`, 768 dimensions, and task type `RETRIEVAL_QUERY`.
 - Building sends extracted third-party report text to the configured Vertex service. Confirm the client's data handling
   and document-licensing approvals before execution.
+
+## Automated builds on Cloud Run
+
+`run_pipeline.py` and `gcs_sync.py` (in this folder) wrap the three manual steps above into one Cloud Run Job
+execution, using Cloud Storage as the persistent state since a Job's container is thrown away after each run.
+
+Layout in the `EXPERT_HUB_GCS_BUCKET` bucket:
+
+```text
+gs://<EXPERT_HUB_GCS_BUCKET>/
+|-- chromadb/            mirrors this folder's output/ directory (chromadb/ store, gemini_manifest.json, result.json)
+`-- result/              mirrors the repo's result/ directory (embedded_documents.json bookkeeping)
+```
+
+`result/embedded_documents.json` (at the repo root, parallel to `src/`) records which document instances have already
+been embedded, keyed by their source hash and chunk count. On the next run, any document that still matches its
+recorded hash/chunk count is skipped entirely — it is not re-parsed or re-embedded. This is in addition to the
+resumable upsert behavior already built into `build_vector_store.py`.
+
+Each run appends a node to `output/result.json` describing what changed (documents embedded, resumed, or skipped, and
+the resulting chunk count), so the change history survives across runs via the `chromadb/` GCS mirror.
+
+### Pipeline steps (`run_pipeline.py`)
+
+1. Download `gs://<bucket>/chromadb/` and `gs://<bucket>/result/` into the local `output/` and `result/` directories.
+2. Run the credential-free preflight (equivalent to `--dry-run --allow-known-uob-substitution`).
+3. Run the build (equivalent to `--allow-known-uob-substitution`), skipping documents already recorded in
+   `result/embedded_documents.json`.
+4. Run `validate_vector_store.py` and print the summary.
+5. Upload `output/` and `result/` back to the bucket (this happens even if a step above fails, so partial progress is
+   never lost).
+
+Configuration is read entirely from the process environment — no `.env` file is used in the container:
+
+| Env var | Required | Default | Purpose |
+|---|---|---|---|
+| `EXPERT_HUB_GCS_BUCKET` | yes | — | Bucket holding `chromadb/` and `result/` |
+| `EXPERT_HUB_EMBEDDING_MODEL` | yes | — | Must be `gemini-embedding-001` |
+| `VERTEX_API_KEY` | yes | — | Vertex express-mode API key (pass as a Cloud Run secret) |
+| `GCS_CHROMADB_PREFIX` | no | `chromadb` | GCS prefix for the vector store output |
+| `GCS_RESULT_PREFIX` | no | `result` | GCS prefix for the embedded-document bookkeeping |
+| `ALLOW_KNOWN_UOB_SUBSTITUTION` | no | `true` | Set `false` to require byte-identical sources |
+| `STRICT_SOURCE_MATCH` | no | `false` | Set `true` to fail validation if any substitution was used |
+
+### Build and deploy
+
+```bash
+# From the repository root (Dockerfile expects both src/ and data/ in the build context)
+gcloud builds submit --tag REGION-docker.pkg.dev/PROJECT_ID/REPO/expert-hub-vector-build
+
+gcloud run jobs create expert-hub-vector-build \
+  --image=REGION-docker.pkg.dev/PROJECT_ID/REPO/expert-hub-vector-build \
+  --region=REGION \
+  --set-env-vars=EXPERT_HUB_GCS_BUCKET=experthub-files,EXPERT_HUB_EMBEDDING_MODEL=gemini-embedding-001 \
+  --set-secrets=VERTEX_API_KEY=VERTEX_API_KEY:latest \
+  --max-retries=0 \
+  --task-timeout=21600  # 6h headroom for embedding all 534 document instances; tune to your corpus/API throughput
+
+# Trigger a run
+gcloud run jobs execute expert-hub-vector-build --region=REGION
+```
+
+The Cloud Run Job's service account needs read/write access to the bucket (e.g. `roles/storage.objectAdmin` scoped to
+`experthub-files`) and read access to the `VERTEX_API_KEY` secret (`roles/secretmanager.secretAccessor`).
