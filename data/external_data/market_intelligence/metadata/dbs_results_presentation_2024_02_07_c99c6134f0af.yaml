@@ -1,0 +1,16 @@
+document_id: dbs_results_presentation_2024_02_07_c99c6134f0af
+bank_id: dbs
+title: 4Q23_CEO_presentation
+source_type: official
+document_type: results_presentation
+publication_date: '2024-02-07'
+reporting_period:
+  start: '2023-10-01'
+  end: '2023-12-31'
+  period_type: quarter
+  fiscal_year: 2023
+source_file: dbs/dbs_results_presentation_2024_02_07_c99c6134f0af.pdf
+source_url: https://www.dbs.com/investors/
+checksum: c99c6134f0afc3d5fa0d51294fc7f78c52089cda5463a783c943a97159dc381a
+covered_bank_ids:
+- dbs

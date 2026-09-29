@@ -1,0 +1,17 @@
+document_id: dbs_analyst_report_2025_05_08_9e4d828be38d
+bank_id: dbs
+title: DBS Group (DBSM.SI) First Take 1Q25 inline robust non-NII offset higher GPs
+  taken; largely affirms 2025 outlook; Buy
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-05-08'
+reporting_period:
+  start: '2025-05-08'
+  end: '2025-05-08'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: dbs/dbs_analyst_report_2025_05_08_9e4d828be38d.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 9e4d828be38d1e7124f6112827a76fe1dbf85b637c955f9aa8365895b2caefc2
+covered_bank_ids:
+- dbs

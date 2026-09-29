@@ -1,0 +1,17 @@
+document_id: legacy_dbs_analyst_report_3171e45b9106
+bank_id: dbs
+title: JPMorgan Chase & Co Research Division Singapore Banks  NIMs are a concern,
+  but that’s about it; resuming coverage of OCBC at N 13 Jul 2025
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-07-13'
+reporting_period:
+  start: '2025-07-13'
+  end: '2025-07-13'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: dbs/legacy_dbs_analyst_report_3171e45b9106.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 3171e45b91061dbc62289d3ac7365cf38d9c8e8036052869ed7fec587c6fd8b5
+covered_bank_ids:
+- dbs

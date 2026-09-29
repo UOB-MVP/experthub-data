@@ -1,0 +1,17 @@
+document_id: legacy_dbs_analyst_report_08d4deb3b1ce
+bank_id: dbs
+title: JPMorgan Chase & Co Research Division ASEAN Banks  Upgrade BBL to OW, DBS PT
+  stays at S$70, KBank risks stalling 20 Feb 2026
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-02-20'
+reporting_period:
+  start: '2026-02-20'
+  end: '2026-02-20'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/legacy_dbs_analyst_report_08d4deb3b1ce.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 08d4deb3b1ce705269f5f1dc85e0bec39348d2d62e6efd5bbb2d97615a23394d
+covered_bank_ids:
+- dbs

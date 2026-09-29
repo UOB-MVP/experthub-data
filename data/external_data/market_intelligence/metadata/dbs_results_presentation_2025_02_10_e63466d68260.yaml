@@ -1,0 +1,16 @@
+document_id: dbs_results_presentation_2025_02_10_e63466d68260
+bank_id: dbs
+title: 4Q24_CFO_presentation
+source_type: official
+document_type: results_presentation
+publication_date: '2025-02-10'
+reporting_period:
+  start: '2024-10-01'
+  end: '2024-12-31'
+  period_type: quarter
+  fiscal_year: 2024
+source_file: dbs/dbs_results_presentation_2025_02_10_e63466d68260.pdf
+source_url: https://www.dbs.com/investors/
+checksum: e63466d6826008b95f717c328dcb8b0eaa68d4e2dcec6379c41877717802f04b
+covered_bank_ids:
+- dbs

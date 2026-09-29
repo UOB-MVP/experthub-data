@@ -1,0 +1,16 @@
+document_id: dbs_results_presentation_2025_05_08_58616241fe97
+bank_id: dbs
+title: 1Q25_CEO_presentation
+source_type: official
+document_type: results_presentation
+publication_date: '2025-05-08'
+reporting_period:
+  start: '2025-01-01'
+  end: '2025-03-31'
+  period_type: quarter
+  fiscal_year: 2025
+source_file: dbs/dbs_results_presentation_2025_05_08_58616241fe97.pdf
+source_url: https://www.dbs.com/investors/
+checksum: 58616241fe97d7035c06899cb02f2d676450ce3abfdb82fc62898d561676162e
+covered_bank_ids:
+- dbs

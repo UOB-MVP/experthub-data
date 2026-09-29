@@ -1,0 +1,17 @@
+document_id: legacy_dbs_analyst_report_ceb1a985167a
+bank_id: dbs
+title: 'DBS Group Holdings: First Take: A solid beat and guidance raise, yet 3x book
+  discounts a lot'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-08-06'
+reporting_period:
+  start: '2026-08-06'
+  end: '2026-08-06'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/legacy_dbs_analyst_report_ceb1a985167a.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: ceb1a985167a9ae1d4ac6aafa0055df2ed05cc5e72db18002674bf272ffb355c
+covered_bank_ids:
+- dbs

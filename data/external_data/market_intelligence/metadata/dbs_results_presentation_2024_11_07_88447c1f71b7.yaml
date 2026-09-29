@@ -1,0 +1,16 @@
+document_id: dbs_results_presentation_2024_11_07_88447c1f71b7
+bank_id: dbs
+title: 3Q24_CFO_presentation
+source_type: official
+document_type: results_presentation
+publication_date: '2024-11-07'
+reporting_period:
+  start: '2024-07-01'
+  end: '2024-09-30'
+  period_type: quarter
+  fiscal_year: 2024
+source_file: dbs/dbs_results_presentation_2024_11_07_88447c1f71b7.pdf
+source_url: https://www.dbs.com/investors/
+checksum: 88447c1f71b7b68dc95f422e393d556f3b589702376e0fee5d0a677dbe3bc79f
+covered_bank_ids:
+- dbs

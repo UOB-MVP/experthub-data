@@ -1,0 +1,17 @@
+document_id: legacy_dbs_analyst_report_52f74229fa5c
+bank_id: dbs
+title: DBS Group (DBSM.SI) 2Q26 Review Wealth and fee momentum remain supportive;
+  remain Buy
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-08-06'
+reporting_period:
+  start: '2026-08-06'
+  end: '2026-08-06'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/legacy_dbs_analyst_report_52f74229fa5c.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 52f74229fa5c235d09e3d483d50182c5dbc60d8e354eebdfd898743e1eb74958
+covered_bank_ids:
+- dbs

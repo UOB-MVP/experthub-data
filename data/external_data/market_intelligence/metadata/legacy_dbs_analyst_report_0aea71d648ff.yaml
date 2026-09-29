@@ -1,0 +1,17 @@
+document_id: legacy_dbs_analyst_report_0aea71d648ff
+bank_id: dbs
+title: JPMorgan Chase & Co Research Division Singapore Banks  Booking gains in OCBC;
+  downgrade to Neutral 09 Jan 2026
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-01-09'
+reporting_period:
+  start: '2026-01-09'
+  end: '2026-01-09'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/legacy_dbs_analyst_report_0aea71d648ff.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 0aea71d648ff3bde1afe2a2218182fa3e4d01a52d42f5ff4cb3c41c578304144
+covered_bank_ids:
+- dbs

@@ -1,0 +1,16 @@
+document_id: dbs_earnings_release_2024_08_07_5c5fab674f06
+bank_id: dbs
+title: 2Q24 press statement
+source_type: official
+document_type: earnings_release
+publication_date: '2024-08-07'
+reporting_period:
+  start: '2024-04-01'
+  end: '2024-06-30'
+  period_type: quarter
+  fiscal_year: 2024
+source_file: dbs/dbs_earnings_release_2024_08_07_5c5fab674f06.pdf
+source_url: https://www.dbs.com/investors/
+checksum: 5c5fab674f065bafdfee0cf10d63d3f732a97d6b34ed1988458554ef175baf31
+covered_bank_ids:
+- dbs

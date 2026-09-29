@@ -1,0 +1,16 @@
+document_id: dbs_analyst_report_2026_05_18_2f1330efe8c0
+bank_id: dbs
+title: 'DBS Group Holdings: Risk Reward Update'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-05-18'
+reporting_period:
+  start: '2026-05-18'
+  end: '2026-05-18'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/dbs_analyst_report_2026_05_18_2f1330efe8c0.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 2f1330efe8c051203354129fa7b92e484877072a0d15820c0f86fb34e1745447
+covered_bank_ids:
+- dbs

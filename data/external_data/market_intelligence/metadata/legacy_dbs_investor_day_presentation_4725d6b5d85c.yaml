@@ -1,0 +1,16 @@
+document_id: legacy_dbs_investor_day_presentation_4725d6b5d85c
+bank_id: dbs
+title: DBSInvestorDay2023 06 ConsumerSME
+source_type: official
+document_type: investor_day_presentation
+publication_date: '2023-12-31'
+reporting_period:
+  start: '2023-12-31'
+  end: '2023-12-31'
+  period_type: point_in_time
+  fiscal_year: 2023
+source_file: dbs/legacy_dbs_investor_day_presentation_4725d6b5d85c.pdf
+source_url: https://www.dbs.com/investors/default.page
+checksum: 4725d6b5d85c9da94ba3e0c75f091b1c145a3e1be0aa1996853e670d39ebd947
+covered_bank_ids:
+- dbs

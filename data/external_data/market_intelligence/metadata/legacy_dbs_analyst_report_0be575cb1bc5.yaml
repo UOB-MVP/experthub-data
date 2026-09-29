@@ -1,0 +1,17 @@
+document_id: legacy_dbs_analyst_report_0be575cb1bc5
+bank_id: dbs
+title: JPMorgan Chase & Co Research Division Singapore Banks  Sequencing of events,
+  key debates and EPS cuts; stay neutral on the sector 08 Aug 2025
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-08-08'
+reporting_period:
+  start: '2025-08-08'
+  end: '2025-08-08'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: dbs/legacy_dbs_analyst_report_0be575cb1bc5.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 0be575cb1bc56760036c06d1825f24498b2629e86e4a61b4ff74ca4eca0bcd00
+covered_bank_ids:
+- dbs

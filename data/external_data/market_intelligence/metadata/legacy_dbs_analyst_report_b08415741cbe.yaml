@@ -1,0 +1,17 @@
+document_id: legacy_dbs_analyst_report_b08415741cbe
+bank_id: dbs
+title: JPMorgan Chase & Co Research Division ASEAN Financials  When facts change….
+  7 rating changes 03 Apr 2026
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-04-03'
+reporting_period:
+  start: '2026-04-03'
+  end: '2026-04-03'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/legacy_dbs_analyst_report_b08415741cbe.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: b08415741cbec51de2c445b2a55fc7e716ecf45f99615cb3e88058c6b994d83f
+covered_bank_ids:
+- dbs
