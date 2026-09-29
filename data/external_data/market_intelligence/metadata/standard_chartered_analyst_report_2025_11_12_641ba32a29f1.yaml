@@ -1,0 +1,16 @@
+document_id: standard_chartered_analyst_report_2025_11_12_641ba32a29f1
+bank_id: standard_chartered
+title: 'Standard Chartered: 3Q25 Solid Results; guidance revised higher'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-11-12'
+reporting_period:
+  start: '2025-11-12'
+  end: '2025-11-12'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: standard_chartered/standard_chartered_analyst_report_2025_11_12_641ba32a29f1.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 641ba32a29f160b80ab2085ee429cc32a8484d268bfb4b3e9ff3d9505afba067
+covered_bank_ids:
+- standard_chartered

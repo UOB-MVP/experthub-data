@@ -1,0 +1,16 @@
+document_id: standard_chartered_analyst_report_2026_04_30_1d0cabbd52a8
+bank_id: standard_chartered
+title: 'Standard Chartered: 1Q was very good'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-04-30'
+reporting_period:
+  start: '2026-04-30'
+  end: '2026-04-30'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_analyst_report_2026_04_30_1d0cabbd52a8.pdf
+source_url: https://rsch.baml.com/r?q=n0VXgufTlEQ
+checksum: 1d0cabbd52a8ddf78d8c58fe1095f4e5545b59026fa2db1a45293db0804d0ee1
+covered_bank_ids:
+- standard_chartered

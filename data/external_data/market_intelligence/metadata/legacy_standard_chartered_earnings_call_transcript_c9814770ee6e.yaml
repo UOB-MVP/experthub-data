@@ -1,0 +1,16 @@
+document_id: legacy_standard_chartered_earnings_call_transcript_c9814770ee6e
+bank_id: standard_chartered
+title: standard-chartered-plc-affluent-investor-transcript-202
+source_type: official
+document_type: earnings_call_transcript
+publication_date: '2024-12-03'
+reporting_period:
+  start: '2024-12-03'
+  end: '2024-12-03'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: standard_chartered/legacy_standard_chartered_earnings_call_transcript_c9814770ee6e.pdf
+source_url: https://www.sc.com/en/investors/
+checksum: c9814770ee6e009e64bcec8d10ce404de7cf3cba024dee91672500350f7fe790
+covered_bank_ids:
+- standard_chartered

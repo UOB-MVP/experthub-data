@@ -1,0 +1,16 @@
+document_id: standard_chartered_analyst_report_2026_05_21_0b4122f3f087
+bank_id: standard_chartered
+title: 'Standard Chartered Bank: Feedback from Asia Seminar'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-05-21'
+reporting_period:
+  start: '2026-05-21'
+  end: '2026-05-21'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_analyst_report_2026_05_21_0b4122f3f087.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 0b4122f3f08714a9f57e777566d11f296c748988133d331424326c28c4f29531
+covered_bank_ids:
+- standard_chartered

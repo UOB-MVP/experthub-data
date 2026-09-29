@@ -1,0 +1,16 @@
+document_id: legacy_standard_chartered_annual_report_eb5fdc7ba3cb
+bank_id: standard_chartered
+title: standard-chartered-plc-full-year-2023-report
+source_type: official
+document_type: annual_report
+publication_date: '2023-12-31'
+reporting_period:
+  start: '2023-12-31'
+  end: '2023-12-31'
+  period_type: point_in_time
+  fiscal_year: 2023
+source_file: standard_chartered/legacy_standard_chartered_annual_report_eb5fdc7ba3cb.pdf
+source_url: https://www.sc.com/en/investors/
+checksum: eb5fdc7ba3cb260f97f0873b3044f65c2dc2a843c75ddcee7b76450c5898fd4c
+covered_bank_ids:
+- standard_chartered

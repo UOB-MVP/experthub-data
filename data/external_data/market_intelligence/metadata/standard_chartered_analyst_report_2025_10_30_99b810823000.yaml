@@ -1,0 +1,16 @@
+document_id: standard_chartered_analyst_report_2025_10_30_99b810823000
+bank_id: standard_chartered
+title: Standard Chartered (STAN.L2888.HK) Updating for 3Q25 results
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-10-30'
+reporting_period:
+  start: '2025-10-30'
+  end: '2025-10-30'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: standard_chartered/standard_chartered_analyst_report_2025_10_30_99b810823000.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 99b8108230008eee2fa3cf06ece2fc0af3af71a2ff6d92d329abd226e8c1cb25
+covered_bank_ids:
+- standard_chartered

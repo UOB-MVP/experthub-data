@@ -1,0 +1,16 @@
+document_id: standard_chartered_analyst_report_2025_08_18_944bb037b0ad
+bank_id: standard_chartered
+title: 'Standard Chartered: Sanctions evasions case back in the spotlight'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-08-18'
+reporting_period:
+  start: '2025-08-18'
+  end: '2025-08-18'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: standard_chartered/standard_chartered_analyst_report_2025_08_18_944bb037b0ad.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 944bb037b0ad76223fa49fa96ad74fad34a4e036e2cb3974b185664e2bd82d8b
+covered_bank_ids:
+- standard_chartered

@@ -1,0 +1,16 @@
+document_id: standard_chartered_analyst_report_2025_11_03_c76d1cf2a374
+bank_id: standard_chartered
+title: 'Standard Chartered: Q325: Good quarter'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-11-03'
+reporting_period:
+  start: '2025-11-03'
+  end: '2025-11-03'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: standard_chartered/standard_chartered_analyst_report_2025_11_03_c76d1cf2a374.pdf
+source_url: https://rsch.baml.com/r?q=6rMMhYS-WWA
+checksum: c76d1cf2a374906530b36aecadf7427e624f7c72cad0b21d7e2b39c5c31eb1ca
+covered_bank_ids:
+- standard_chartered

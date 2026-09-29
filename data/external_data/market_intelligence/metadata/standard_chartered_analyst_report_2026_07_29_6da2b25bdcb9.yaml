@@ -1,0 +1,17 @@
+document_id: standard_chartered_analyst_report_2026_07_29_6da2b25bdcb9
+bank_id: standard_chartered
+title: JPMorgan Chase & Co Research Division Standard Chartered Plc (HK) (2888)  2Q26
+  - strong beat despite high base 29 Jul 2026
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-07-29'
+reporting_period:
+  start: '2026-07-29'
+  end: '2026-07-29'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_analyst_report_2026_07_29_6da2b25bdcb9.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 6da2b25bdcb91b51f1de505d7fa02dbeddaa650535d1383c0dde45c41cba58ee
+covered_bank_ids:
+- standard_chartered

@@ -1,0 +1,16 @@
+document_id: standard_chartered_earnings_call_transcript_2025_02_21_a91ffce861d4
+bank_id: standard_chartered
+title: Standard Chartered PLC Earnings Call 2025-02-21 English
+source_type: approved_third_party
+document_type: earnings_call_transcript
+publication_date: '2025-02-21'
+reporting_period:
+  start: '2024-10-01'
+  end: '2024-12-31'
+  period_type: quarter
+  fiscal_year: 2024
+source_file: standard_chartered/standard_chartered_earnings_call_transcript_2025_02_21_a91ffce861d4.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: a91ffce861d4a8fa1711da6beca0aba7ee523a3ae61eb7f5fdcb7aeeb555ff25
+covered_bank_ids:
+- standard_chartered

@@ -1,0 +1,16 @@
+document_id: standard_chartered_earnings_call_transcript_2024_10_30_50edc5d23956
+bank_id: standard_chartered
+title: Standard Chartered PLC Earnings Call 2024-10-30 English
+source_type: approved_third_party
+document_type: earnings_call_transcript
+publication_date: '2024-10-30'
+reporting_period:
+  start: '2024-07-01'
+  end: '2024-09-30'
+  period_type: quarter
+  fiscal_year: 2024
+source_file: standard_chartered/standard_chartered_earnings_call_transcript_2024_10_30_50edc5d23956.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 50edc5d2395619e8c765c7424d13bc753de1d09e4944f89e01c5b039183ead08
+covered_bank_ids:
+- standard_chartered

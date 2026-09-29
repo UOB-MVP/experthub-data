@@ -1,0 +1,16 @@
+document_id: standard_chartered_analyst_report_2025_08_08_b6eadad66d87
+bank_id: standard_chartered
+title: 'Standard Chartered: 2Q25: Decent print, guidance cautious'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-08-08'
+reporting_period:
+  start: '2025-08-08'
+  end: '2025-08-08'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: standard_chartered/standard_chartered_analyst_report_2025_08_08_b6eadad66d87.pdf
+source_url: https://rsch.baml.com/r?q=2FfPOamLnc4
+checksum: b6eadad66d8711d44e08185f5e92bf8bf12e44749d04424f6379c10d04f5c504
+covered_bank_ids:
+- standard_chartered

@@ -1,0 +1,16 @@
+document_id: legacy_standard_chartered_results_presentation_8f0879db12af
+bank_id: standard_chartered
+title: standard-chartered-plc-hy-2026-presentation
+source_type: official
+document_type: results_presentation
+publication_date: '2026-07-29'
+reporting_period:
+  start: '2026-01-01'
+  end: '2026-06-30'
+  period_type: half_year
+  fiscal_year: 2026
+source_file: standard_chartered/legacy_standard_chartered_results_presentation_8f0879db12af.pdf
+source_url: https://www.sc.com/en/investors/
+checksum: 8f0879db12afd99cc882a9e84655591f18e10e808457cd9cc24203b471f9fd05
+covered_bank_ids:
+- standard_chartered

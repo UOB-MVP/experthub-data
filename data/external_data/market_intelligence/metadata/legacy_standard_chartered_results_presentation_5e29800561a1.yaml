@@ -1,0 +1,16 @@
+document_id: legacy_standard_chartered_results_presentation_5e29800561a1
+bank_id: standard_chartered
+title: standard-chartered-plc-q1-2026-presentation
+source_type: official
+document_type: results_presentation
+publication_date: '2026-04-30'
+reporting_period:
+  start: '2026-01-01'
+  end: '2026-03-31'
+  period_type: quarter
+  fiscal_year: 2026
+source_file: standard_chartered/legacy_standard_chartered_results_presentation_5e29800561a1.pdf
+source_url: https://www.sc.com/en/investors/
+checksum: 5e29800561a1698bd656c8d5189919e68b68b870c56a57248654dab4f0fd2ff3
+covered_bank_ids:
+- standard_chartered

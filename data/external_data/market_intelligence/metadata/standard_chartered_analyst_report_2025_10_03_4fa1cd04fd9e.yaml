@@ -1,0 +1,16 @@
+document_id: standard_chartered_analyst_report_2025_10_03_4fa1cd04fd9e
+bank_id: standard_chartered
+title: STAN.L2888.HK 3Q preview Global Markets income in focus
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-10-03'
+reporting_period:
+  start: '2025-10-03'
+  end: '2025-10-03'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: standard_chartered/standard_chartered_analyst_report_2025_10_03_4fa1cd04fd9e.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 4fa1cd04fd9edfa885f9f1a25fe3ed1879793df63d780efdf2702cb46f5e0d04
+covered_bank_ids:
+- standard_chartered
