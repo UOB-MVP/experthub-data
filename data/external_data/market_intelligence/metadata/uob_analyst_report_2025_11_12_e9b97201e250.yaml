@@ -1,0 +1,16 @@
+document_id: uob_analyst_report_2025_11_12_e9b97201e250
+bank_id: uob
+title: 'United Overseas Bank: 3Q25: Ripping the plaster off on GP'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-11-12'
+reporting_period:
+  start: '2025-11-12'
+  end: '2025-11-12'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: uob/uob_analyst_report_2025_11_12_e9b97201e250.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: e9b97201e250e1cf314adef13d9160c8c4516d83fc96411576ddb6ba70b00ef2
+covered_bank_ids:
+- uob

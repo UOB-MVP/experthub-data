@@ -1,0 +1,17 @@
+document_id: uob_analyst_report_2026_02_24_026e9c1ec236
+bank_id: uob
+title: 'United Overseas Bank (UOB): First Take: PPoP misses, gross NPL formation stays
+  high; maintain UW'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-02-24'
+reporting_period:
+  start: '2026-02-24'
+  end: '2026-02-24'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/uob_analyst_report_2026_02_24_026e9c1ec236.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 026e9c1ec236883f09b0842f3fa86a45a6a9fcba8259f1be9b33d1c3336bb9f1
+covered_bank_ids:
+- uob

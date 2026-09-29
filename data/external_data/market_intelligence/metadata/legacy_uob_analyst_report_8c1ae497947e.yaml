@@ -1,0 +1,17 @@
+document_id: legacy_uob_analyst_report_8c1ae497947e
+bank_id: uob
+title: 'United Overseas Bank: 2Q26 beat of lower ECL, but PPoP miss, income outcome
+  weak vs. peers. Large new NPA reflecting one account.'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-08-06'
+reporting_period:
+  start: '2026-08-06'
+  end: '2026-08-06'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/legacy_uob_analyst_report_8c1ae497947e.pdf
+source_url: https://www.morganstanley.com/what-we-do/research
+checksum: 8c1ae497947ecd093bc128786aa098b23db9b00d7805b49087d7ebfb63c74ec0
+covered_bank_ids:
+- uob

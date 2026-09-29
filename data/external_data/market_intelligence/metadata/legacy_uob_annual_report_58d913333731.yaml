@@ -1,0 +1,16 @@
+document_id: legacy_uob_annual_report_58d913333731
+bank_id: uob
+title: uob-annual-report-2024
+source_type: official
+document_type: annual_report
+publication_date: '2024-12-31'
+reporting_period:
+  start: '2024-12-31'
+  end: '2024-12-31'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: uob/legacy_uob_annual_report_58d913333731.pdf
+source_url: https://www.uobgroup.com/investor-relations/index.page
+checksum: 58d913333731e8bc129acc781c4dc3afbbdcc5033bba7816c3c4cdbad4e8a5c4
+covered_bank_ids:
+- uob

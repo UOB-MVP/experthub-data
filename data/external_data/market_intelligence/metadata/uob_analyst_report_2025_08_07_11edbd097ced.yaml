@@ -1,0 +1,17 @@
+document_id: uob_analyst_report_2025_08_07_11edbd097ced
+bank_id: uob
+title: United Overseas Bank (UOBH.SI) First Take 2Q25 weaker vs GSe on weaker non-NII
+  and higher CoC; Core interim dividend lower at 85cents
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-08-07'
+reporting_period:
+  start: '2025-08-07'
+  end: '2025-08-07'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: uob/uob_analyst_report_2025_08_07_11edbd097ced.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 11edbd097cede96d1c1bd39081c58b5c3e18cd6c369ebaec934cb9c9e5e03eea
+covered_bank_ids:
+- uob

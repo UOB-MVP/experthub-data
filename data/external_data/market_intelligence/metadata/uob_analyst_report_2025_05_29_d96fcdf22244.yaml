@@ -1,0 +1,16 @@
+document_id: uob_analyst_report_2025_05_29_d96fcdf22244
+bank_id: uob
+title: 'United Overseas Bank: Correction: Virtual ASEAN Conference 2025 Feedback'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-05-29'
+reporting_period:
+  start: '2025-05-29'
+  end: '2025-05-29'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: uob/uob_analyst_report_2025_05_29_d96fcdf22244.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: d96fcdf22244c1ca1cc9e0548f2d0ec9c22b6e490a39442b1762e54bc6c4da89
+covered_bank_ids:
+- uob

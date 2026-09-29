@@ -1,0 +1,17 @@
+document_id: uob_analyst_report_2026_02_24_351dbe3e8ed0
+bank_id: uob
+title: United Overseas Bank (UOBH.SI) First Take Beat on lower credit cost offsetting
+  lower PPOP on weaker non-NII
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-02-24'
+reporting_period:
+  start: '2026-02-24'
+  end: '2026-02-24'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/uob_analyst_report_2026_02_24_351dbe3e8ed0.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 351dbe3e8ed042fd9400e168c6da225858e956aeb71745649f4b331c74d7d83d
+covered_bank_ids:
+- uob

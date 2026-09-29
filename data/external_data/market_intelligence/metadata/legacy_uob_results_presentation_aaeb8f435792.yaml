@@ -1,0 +1,16 @@
+document_id: legacy_uob_results_presentation_aaeb8f435792
+bank_id: uob
+title: performance-highlights-1q-2026
+source_type: official
+document_type: results_presentation
+publication_date: '2026-05-07'
+reporting_period:
+  start: '2026-01-01'
+  end: '2026-03-31'
+  period_type: quarter
+  fiscal_year: 2026
+source_file: uob/legacy_uob_results_presentation_aaeb8f435792.pdf
+source_url: https://www.uobgroup.com/investor-relations/index.page
+checksum: aaeb8f43579237ae222aef4bdb6a78cbfc7b12041e61028ee8a3d40f7794e0cf
+covered_bank_ids:
+- uob

@@ -1,0 +1,16 @@
+document_id: legacy_uob_industry_report_cc92901edd06
+bank_id: uob
+title: Chew Mun Yew - UOB Private Bank - Asian Private Banker
+source_type: approved_third_party
+document_type: industry_report
+publication_date: '2026-08-04'
+reporting_period:
+  start: '2026-08-04'
+  end: '2026-08-04'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/legacy_uob_industry_report_cc92901edd06.pdf
+source_url: https://asianprivatebanker.com/
+checksum: cc92901edd0686d4da15ff2a298cae9647bb8b46a703df6abb526868fa21bc33
+covered_bank_ids:
+- uob

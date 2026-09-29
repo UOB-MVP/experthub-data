@@ -1,0 +1,20 @@
+document_id: legacy_uob_industry_report_3e382ccc7901
+bank_id: uob
+title: Factiva WealthManagementNews 4
+source_type: approved_third_party
+document_type: industry_report
+publication_date: '2024-09-27'
+reporting_period:
+  start: '2024-09-27'
+  end: '2024-09-27'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: uob/legacy_uob_industry_report_3e382ccc7901.pdf
+source_url: https://www.dowjones.com/professional/factiva/
+checksum: 3e382ccc7901a45d57d33d57bb5fdffa22738547c9d897b05099cf35c0bf40b5
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+- hsbc
+- standard_chartered

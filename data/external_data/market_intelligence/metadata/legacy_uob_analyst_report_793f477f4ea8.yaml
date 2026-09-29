@@ -1,0 +1,17 @@
+document_id: legacy_uob_analyst_report_793f477f4ea8
+bank_id: uob
+title: 'United Overseas Bank (UOB): First Take: Trends underwhelm, as NPL formation
+  picks up; stay UW'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-08-07'
+reporting_period:
+  start: '2026-08-07'
+  end: '2026-08-07'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/legacy_uob_analyst_report_793f477f4ea8.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 793f477f4ea8e4301e7e0ad884281d915c2dc50378c18df203e39d91d3de6801
+covered_bank_ids:
+- uob
