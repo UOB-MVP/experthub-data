@@ -1,0 +1,16 @@
+document_id: legacy_hsbc_investor_day_presentation_8ec8c9d77796
+bank_id: hsbc
+title: 240605-goldman-sachs-wpb-deck
+source_type: official
+document_type: investor_day_presentation
+publication_date: '2024-06-05'
+reporting_period:
+  start: '2024-06-05'
+  end: '2024-06-05'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: hsbc/legacy_hsbc_investor_day_presentation_8ec8c9d77796.pdf
+source_url: https://www.hsbc.com/investors
+checksum: 8ec8c9d777960eb3bec131a038e26409008ea86a4455b608c48fc0af8636af52
+covered_bank_ids:
+- hsbc

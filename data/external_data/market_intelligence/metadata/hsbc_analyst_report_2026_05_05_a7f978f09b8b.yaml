@@ -1,0 +1,17 @@
+document_id: hsbc_analyst_report_2026_05_05_a7f978f09b8b
+bank_id: hsbc
+title: Jefferies LLC Research Division Better NII Guide, 19% ROTE the Highlights of
+  a Somewhat Noisy Q1 26 05 May 2026
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-05-05'
+reporting_period:
+  start: '2026-05-05'
+  end: '2026-05-05'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_analyst_report_2026_05_05_a7f978f09b8b.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: a7f978f09b8b89233905d4e9bb057fd3d21f7032a7566a174c18b4efb41cd220
+covered_bank_ids:
+- hsbc

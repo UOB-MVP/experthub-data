@@ -1,0 +1,16 @@
+document_id: legacy_hsbc_investor_day_presentation_0dc274747169
+bank_id: hsbc
+title: 230613-wpb-goldman-sachs
+source_type: official
+document_type: investor_day_presentation
+publication_date: '2023-06-13'
+reporting_period:
+  start: '2023-06-13'
+  end: '2023-06-13'
+  period_type: point_in_time
+  fiscal_year: 2023
+source_file: hsbc/legacy_hsbc_investor_day_presentation_0dc274747169.pdf
+source_url: https://www.hsbc.com/investors
+checksum: 0dc2747471697591b7bba338682a91aa6328b980c45f995cc6b5fe46a3187883
+covered_bank_ids:
+- hsbc

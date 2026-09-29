@@ -1,0 +1,16 @@
+document_id: legacy_hsbc_annual_report_c998d20da18a
+bank_id: hsbc
+title: 250219-annual-report-and-accounts-2024
+source_type: official
+document_type: annual_report
+publication_date: '2025-02-19'
+reporting_period:
+  start: '2025-02-19'
+  end: '2025-02-19'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: hsbc/legacy_hsbc_annual_report_c998d20da18a.pdf
+source_url: https://www.hsbc.com/investors
+checksum: c998d20da18afa770034b9c3506f25b68205bcbcd5e8444ea0f50157ee6689fb
+covered_bank_ids:
+- hsbc

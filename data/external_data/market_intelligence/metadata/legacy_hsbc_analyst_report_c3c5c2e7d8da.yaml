@@ -1,0 +1,16 @@
+document_id: legacy_hsbc_analyst_report_c3c5c2e7d8da
+bank_id: hsbc
+title: HSBC
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-08-04'
+reporting_period:
+  start: '2026-08-04'
+  end: '2026-08-04'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/legacy_hsbc_analyst_report_c3c5c2e7d8da.pdf
+source_url: https://www.autonomous.com/research
+checksum: c3c5c2e7d8da170064ff9c9895603f12c498ce20380e1877c806253dcad2bf78
+covered_bank_ids:
+- hsbc

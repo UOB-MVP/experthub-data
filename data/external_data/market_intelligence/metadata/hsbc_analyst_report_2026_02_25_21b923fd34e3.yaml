@@ -1,0 +1,17 @@
+document_id: hsbc_analyst_report_2026_02_25_21b923fd34e3
+bank_id: hsbc
+title: HSBC (0005.HKHSBA.L) 4Q25 first take Strong beat, robust 2026 guidance, and
+  mid term guidance; Not Rated
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-02-25'
+reporting_period:
+  start: '2026-02-25'
+  end: '2026-02-25'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_analyst_report_2026_02_25_21b923fd34e3.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 21b923fd34e34b5fd4a4c89bd43749d22ec5ada466b081f703aa37903fbf3b59
+covered_bank_ids:
+- hsbc

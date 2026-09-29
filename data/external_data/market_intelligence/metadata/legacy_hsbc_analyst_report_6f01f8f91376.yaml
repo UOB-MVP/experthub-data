@@ -1,0 +1,18 @@
+document_id: legacy_hsbc_analyst_report_6f01f8f91376
+bank_id: hsbc
+title: Goldman Sachs Group Inc. Research Division HSBC (HSBA.L 0005.HK)  Scaled global
+  liquidity engine with cost and capital efficiency upside; reinstate at Buy 26 Mar
+  2026
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-03-26'
+reporting_period:
+  start: '2026-03-26'
+  end: '2026-03-26'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/legacy_hsbc_analyst_report_6f01f8f91376.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 6f01f8f913768681174b24422c41e85c04ebda14148e5eb79e7a9c30a2dfccb8
+covered_bank_ids:
+- hsbc

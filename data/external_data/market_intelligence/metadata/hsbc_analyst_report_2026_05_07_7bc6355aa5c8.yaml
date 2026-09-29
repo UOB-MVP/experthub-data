@@ -1,0 +1,16 @@
+document_id: hsbc_analyst_report_2026_05_07_7bc6355aa5c8
+bank_id: hsbc
+title: 'HSBC Holdings plc: Updating forecasts post 1Q'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-05-07'
+reporting_period:
+  start: '2026-05-07'
+  end: '2026-05-07'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_analyst_report_2026_05_07_7bc6355aa5c8.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 7bc6355aa5c80cd8bffd0614e7ce577d042b26b6aea601da41f2527a637831d5
+covered_bank_ids:
+- hsbc

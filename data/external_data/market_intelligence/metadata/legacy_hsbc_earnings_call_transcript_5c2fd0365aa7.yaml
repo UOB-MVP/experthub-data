@@ -1,0 +1,16 @@
+document_id: legacy_hsbc_earnings_call_transcript_5c2fd0365aa7
+bank_id: hsbc
+title: 230629-q-and-a-by-noel-quinn-david-liao-and-surendra-rosha-transcript
+source_type: official
+document_type: earnings_call_transcript
+publication_date: '2023-06-29'
+reporting_period:
+  start: '2023-06-29'
+  end: '2023-06-29'
+  period_type: point_in_time
+  fiscal_year: 2023
+source_file: hsbc/legacy_hsbc_earnings_call_transcript_5c2fd0365aa7.pdf
+source_url: https://www.hsbc.com/investors
+checksum: 5c2fd0365aa792a9f630e4b86091f8ed584ddbf3c2a2bc8367f7182d1f925596
+covered_bank_ids:
+- hsbc
