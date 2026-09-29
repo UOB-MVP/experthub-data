@@ -1,0 +1,17 @@
+document_id: legacy_ocbc_analyst_report_38387392d9e6
+bank_id: ocbc
+title: Goldman Sachs Group Inc. Research Division Singapore Banks  Deposit growth
+  to buffer or expand ROE, DBS positioned to benefit most 29 Oct 2025
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-10-29'
+reporting_period:
+  start: '2025-10-29'
+  end: '2025-10-29'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: ocbc/legacy_ocbc_analyst_report_38387392d9e6.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 38387392d9e658de994a9d8fed505b0a5dcf4b99420d2f78a27bb9b3eac4e3af
+covered_bank_ids:
+- ocbc

@@ -1,0 +1,16 @@
+document_id: ocbc_analyst_report_2025_08_01_1251d00158fb
+bank_id: ocbc
+title: 'OCBC Bank: First take: NIM decline to weigh on stock'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-08-01'
+reporting_period:
+  start: '2025-08-01'
+  end: '2025-08-01'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: ocbc/ocbc_analyst_report_2025_08_01_1251d00158fb.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 1251d00158fbd9ae63fc2f4e9467eb23d8dc410fdaf7383a206a937e78c2b106
+covered_bank_ids:
+- ocbc

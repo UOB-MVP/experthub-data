@@ -1,0 +1,16 @@
+document_id: ocbc_analyst_report_2026_06_18_a667d54b2047
+bank_id: ocbc
+title: 'Oversea-Chinese Banking Corp: Virtual ASEAN Conference 2026 Feedback'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-06-18'
+reporting_period:
+  start: '2026-06-18'
+  end: '2026-06-18'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_analyst_report_2026_06_18_a667d54b2047.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: a667d54b2047a49415b46e160311cdb5860eb208dd65c5bff122244ff6148abb
+covered_bank_ids:
+- ocbc

@@ -1,0 +1,16 @@
+document_id: ocbc_analyst_report_2026_04_27_e55c4d872863
+bank_id: ocbc
+title: 'OCBC Bank: Small positive from BoNB results, risk-reward stays negative'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-04-27'
+reporting_period:
+  start: '2026-04-27'
+  end: '2026-04-27'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_analyst_report_2026_04_27_e55c4d872863.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: e55c4d8728639ee468bf848e976b0d9d33257c480fa05101849094d9f0b375d6
+covered_bank_ids:
+- ocbc

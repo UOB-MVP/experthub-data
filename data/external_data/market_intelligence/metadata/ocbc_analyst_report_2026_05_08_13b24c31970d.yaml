@@ -1,0 +1,17 @@
+document_id: ocbc_analyst_report_2026_05_08_13b24c31970d
+bank_id: ocbc
+title: Oversea-Chinese Banking Corp. (OCBC.SI) 1Q26 Earnings Review Wealth engine
+  continues to power earnings delivery; Buy
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-05-08'
+reporting_period:
+  start: '2026-05-08'
+  end: '2026-05-08'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_analyst_report_2026_05_08_13b24c31970d.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 13b24c31970d1aae8510fdb11e0fdef48907a41a928fc011d4ea153e567f2b80
+covered_bank_ids:
+- ocbc

@@ -1,0 +1,17 @@
+document_id: ocbc_analyst_report_2026_05_12_d3adf11d1b2d
+bank_id: ocbc
+title: 'APAC Credit Roundup: APAC Cross Regional Credit Weekly, US Credit, Pakistan,
+  OCBC, Zhongsheng, UPL'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-05-12'
+reporting_period:
+  start: '2026-05-12'
+  end: '2026-05-12'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_analyst_report_2026_05_12_d3adf11d1b2d.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: d3adf11d1b2dd5f0fe9599a9872399a63d0700743dc13699717bf8fcf8c490b9
+covered_bank_ids:
+- ocbc

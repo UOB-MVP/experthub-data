@@ -1,0 +1,17 @@
+document_id: ocbc_analyst_report_2025_05_08_76bef1994960
+bank_id: ocbc
+title: Jefferies LLC Research Division 1Q25 Result  Better Provision Offset Weaker
+  NIM, All Guidance Maintained 09 May 2025
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-05-08'
+reporting_period:
+  start: '2025-05-08'
+  end: '2025-05-08'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: ocbc/ocbc_analyst_report_2025_05_08_76bef1994960.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 76bef1994960b26214b61bd961e0d8f3afb916fdb5aee5a85ee4684109f8e2f4
+covered_bank_ids:
+- ocbc

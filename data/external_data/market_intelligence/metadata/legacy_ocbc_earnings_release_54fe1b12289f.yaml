@@ -1,0 +1,16 @@
+document_id: legacy_ocbc_earnings_release_54fe1b12289f
+bank_id: ocbc
+title: ocbc 1q26 results press release
+source_type: official
+document_type: earnings_release
+publication_date: '2026-05-08'
+reporting_period:
+  start: '2026-01-01'
+  end: '2026-03-31'
+  period_type: quarter
+  fiscal_year: 2026
+source_file: ocbc/legacy_ocbc_earnings_release_54fe1b12289f.pdf
+source_url: https://www.ocbc.com/group/investors
+checksum: 54fe1b12289f02019eac45927e8c75984de3bd2b4dcdf8c46f1689a904285ae8
+covered_bank_ids:
+- ocbc

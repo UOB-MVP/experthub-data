@@ -1,0 +1,17 @@
+document_id: legacy_ocbc_analyst_report_e4ac895c198e
+bank_id: ocbc
+title: Goldman Sachs Group Inc. Research Division Asia Pacific Banks  Riding Asia's
+  liquidity wave II; Momentum continues to build 27 May 2026
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-05-27'
+reporting_period:
+  start: '2026-05-27'
+  end: '2026-05-27'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/legacy_ocbc_analyst_report_e4ac895c198e.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: e4ac895c198e907ac5e42573a7ea6d5bc02b1c2eabfdab03c90be05de532280d
+covered_bank_ids:
+- ocbc

@@ -1,0 +1,16 @@
+document_id: legacy_ocbc_annual_report_c931fd287b5f
+bank_id: ocbc
+title: ocbc-annual-report-2024
+source_type: official
+document_type: annual_report
+publication_date: '2024-12-31'
+reporting_period:
+  start: '2024-12-31'
+  end: '2024-12-31'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: ocbc/legacy_ocbc_annual_report_c931fd287b5f.pdf
+source_url: https://www.ocbc.com/group/investors
+checksum: c931fd287b5f138817b6d9357e5d031321776fc04712553977a098630c71535d
+covered_bank_ids:
+- ocbc

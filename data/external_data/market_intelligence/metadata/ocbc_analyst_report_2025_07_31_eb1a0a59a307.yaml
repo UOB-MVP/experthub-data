@@ -1,0 +1,16 @@
+document_id: ocbc_analyst_report_2025_07_31_eb1a0a59a307
+bank_id: ocbc
+title: 'Oversea-Chinese Banking Corp: Post-result call and lunch feedback'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-07-31'
+reporting_period:
+  start: '2025-07-31'
+  end: '2025-07-31'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: ocbc/ocbc_analyst_report_2025_07_31_eb1a0a59a307.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: eb1a0a59a30728aeaa00dbbe4d5bc3e9db4f208c87080ad60dba86a85a69691e
+covered_bank_ids:
+- ocbc

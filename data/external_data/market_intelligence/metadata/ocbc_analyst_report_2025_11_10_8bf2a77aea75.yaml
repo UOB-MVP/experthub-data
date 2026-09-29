@@ -1,0 +1,16 @@
+document_id: ocbc_analyst_report_2025_11_10_8bf2a77aea75
+bank_id: ocbc
+title: 'Asia Credit Roundup: Weekly Review: November 7'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-11-10'
+reporting_period:
+  start: '2025-11-10'
+  end: '2025-11-10'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: ocbc/ocbc_analyst_report_2025_11_10_8bf2a77aea75.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 8bf2a77aea754e55228740f1b2ffd616fe09d14a7fe4fb4fc3220c3ae8b08ecb
+covered_bank_ids:
+- ocbc
