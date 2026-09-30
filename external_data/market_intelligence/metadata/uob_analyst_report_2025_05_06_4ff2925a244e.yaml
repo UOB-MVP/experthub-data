@@ -1,0 +1,17 @@
+document_id: uob_analyst_report_2025_05_06_4ff2925a244e
+bank_id: uob
+title: Jefferies LLC Research Division 1Q25 Result  Guidance Dropped, Capital Return
+  Reaffirmed 07 May 2025
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-05-06'
+reporting_period:
+  start: '2025-05-06'
+  end: '2025-05-06'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: uob/uob_analyst_report_2025_05_06_4ff2925a244e.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 4ff2925a244ed86616e9aa0ae2d106c72cc0e70192f605987cb17954a40f8155
+covered_bank_ids:
+- uob

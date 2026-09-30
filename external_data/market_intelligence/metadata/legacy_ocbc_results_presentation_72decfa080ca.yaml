@@ -1,0 +1,16 @@
+document_id: legacy_ocbc_results_presentation_72decfa080ca
+bank_id: ocbc
+title: ocbc 1h26 ceo presentation
+source_type: official
+document_type: results_presentation
+publication_date: '2026-08-07'
+reporting_period:
+  start: '2026-01-01'
+  end: '2026-06-30'
+  period_type: half_year
+  fiscal_year: 2026
+source_file: ocbc/legacy_ocbc_results_presentation_72decfa080ca.pdf
+source_url: https://www.ocbc.com/group/investors
+checksum: 72decfa080ca531e9617a8b399dfaa9b8c445f85192c42c45a7c1e27892b2743
+covered_bank_ids:
+- ocbc

@@ -1,0 +1,16 @@
+document_id: standard_chartered_analyst_report_2025_10_30_def59d33b3c8
+bank_id: standard_chartered
+title: 'Standard Chartered: Q325: Good print'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-10-30'
+reporting_period:
+  start: '2025-10-30'
+  end: '2025-10-30'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: standard_chartered/standard_chartered_analyst_report_2025_10_30_def59d33b3c8.pdf
+source_url: https://rsch.baml.com/r?q=NB4ybW6p!PI
+checksum: def59d33b3c8adb091dd942c452f1242e7eaba1932ba9b023a4a56bc3bf8be8d
+covered_bank_ids:
+- standard_chartered

@@ -1,0 +1,16 @@
+document_id: legacy_hsbc_earnings_call_transcript_60fbe472005b
+bank_id: hsbc
+title: 230706-asia-by-david-liao-and-surendra-rosha-transcript
+source_type: official
+document_type: earnings_call_transcript
+publication_date: '2023-07-06'
+reporting_period:
+  start: '2023-07-06'
+  end: '2023-07-06'
+  period_type: point_in_time
+  fiscal_year: 2023
+source_file: hsbc/legacy_hsbc_earnings_call_transcript_60fbe472005b.pdf
+source_url: https://www.hsbc.com/investors
+checksum: 60fbe472005b4cc54c91f592b0bd669584402d86e669f25afaba2cfdf40645d5
+covered_bank_ids:
+- hsbc

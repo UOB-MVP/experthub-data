@@ -1,0 +1,16 @@
+document_id: legacy_dbs_analyst_report_83c5571e4ce6
+bank_id: dbs
+title: 'DBS Group Holdings: 2Q26 Strong beat on wealth and GP release; guidance higher'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-08-05'
+reporting_period:
+  start: '2026-08-05'
+  end: '2026-08-05'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/legacy_dbs_analyst_report_83c5571e4ce6.pdf
+source_url: https://www.morganstanley.com/what-we-do/research
+checksum: 83c5571e4ce6e04fb0bb972c1f54b356a6c8efd7f3bb79d177b387f109088619
+covered_bank_ids:
+- dbs

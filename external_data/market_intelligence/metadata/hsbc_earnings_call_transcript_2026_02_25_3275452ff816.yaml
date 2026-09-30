@@ -1,0 +1,16 @@
+document_id: hsbc_earnings_call_transcript_2026_02_25_3275452ff816
+bank_id: hsbc
+title: HSBC Holdings plc Earnings Call 2026-02-25 English
+source_type: approved_third_party
+document_type: earnings_call_transcript
+publication_date: '2026-02-25'
+reporting_period:
+  start: '2025-10-01'
+  end: '2025-12-31'
+  period_type: quarter
+  fiscal_year: 2025
+source_file: hsbc/hsbc_earnings_call_transcript_2026_02_25_3275452ff816.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 3275452ff81692824863ef2ca1ae4a5b2bbb9a8275fc93f46a50959f13a8d7aa
+covered_bank_ids:
+- hsbc

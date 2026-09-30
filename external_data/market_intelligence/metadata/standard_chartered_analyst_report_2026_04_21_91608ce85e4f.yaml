@@ -1,0 +1,16 @@
+document_id: standard_chartered_analyst_report_2026_04_21_91608ce85e4f
+bank_id: standard_chartered
+title: Standard Chartered (STAN.L2888.HK) 1Q26 preview
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-04-21'
+reporting_period:
+  start: '2026-04-21'
+  end: '2026-04-21'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_analyst_report_2026_04_21_91608ce85e4f.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 91608ce85e4f9d5e0c9c46a7746e2c765d815f8a24ae7a3ede053b7837f53484
+covered_bank_ids:
+- standard_chartered

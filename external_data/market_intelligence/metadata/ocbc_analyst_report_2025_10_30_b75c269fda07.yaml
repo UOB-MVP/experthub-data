@@ -1,0 +1,16 @@
+document_id: ocbc_analyst_report_2025_10_30_b75c269fda07
+bank_id: ocbc
+title: 'OCBC Bank: GE beats on investment income; upside to OCBC 3Q results'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-10-30'
+reporting_period:
+  start: '2025-10-30'
+  end: '2025-10-30'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: ocbc/ocbc_analyst_report_2025_10_30_b75c269fda07.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: b75c269fda070ad30ad681fad029488703d9d75a3e696873cb3cbd9be857b8f2
+covered_bank_ids:
+- ocbc

@@ -1,0 +1,14 @@
+document_id: dbs_annual_report_2025_en
+bank_id: dbs
+title: "DBS Annual Report 2025: A beacon of stability"
+source_type: official
+document_type: annual_report
+publication_date: "2026-03-09"
+reporting_period:
+  start: "2025-01-01"
+  end: "2025-12-31"
+  period_type: fiscal_year
+  fiscal_year: 2025
+source_file: dbs/dbs-annual-report-2025.pdf
+source_url: https://www.dbs.com/iwov-resources/images/investors/annual-report/dbs-annual-report-2025.pdf
+checksum: e7952ba9dff9e339070334ec5d67a71c81a8c618be7f34abad6f3118189b38ce

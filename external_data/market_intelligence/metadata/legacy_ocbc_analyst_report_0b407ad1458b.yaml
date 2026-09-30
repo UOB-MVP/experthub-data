@@ -1,0 +1,18 @@
+document_id: legacy_ocbc_analyst_report_0b407ad1458b
+bank_id: ocbc
+title: Goldman Sachs Group Inc. Research Division Asia Pacific Banks  Riding Asia's
+  liquidity wave; the earnings engine of HK  SG Banks - STAN to Buy, Buy DBS & OCBC
+  12 Dec 2025
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-12-12'
+reporting_period:
+  start: '2025-12-12'
+  end: '2025-12-12'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: ocbc/legacy_ocbc_analyst_report_0b407ad1458b.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 0b407ad1458b73f7bc331378e8afbe1d0e5e33e48710186fff9272b9e765480c
+covered_bank_ids:
+- ocbc

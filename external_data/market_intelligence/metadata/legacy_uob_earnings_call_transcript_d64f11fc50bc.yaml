@@ -1,0 +1,16 @@
+document_id: legacy_uob_earnings_call_transcript_d64f11fc50bc
+bank_id: uob
+title: UOB 2025 Q3
+source_type: approved_third_party
+document_type: earnings_call_transcript
+publication_date: '2025-11-06'
+reporting_period:
+  start: '2025-07-01'
+  end: '2025-09-30'
+  period_type: quarter
+  fiscal_year: 2025
+source_file: uob/legacy_uob_earnings_call_transcript_d64f11fc50bc.pdf
+source_url: https://www.lseg.com/en/data-analytics/financial-data/company-data/events-transcripts
+checksum: d64f11fc50bc5ace1441c59e972d1b1981012f94678439e22e572be81a693d76
+covered_bank_ids:
+- uob

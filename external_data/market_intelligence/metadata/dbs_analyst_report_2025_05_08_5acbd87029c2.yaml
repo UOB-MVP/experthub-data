@@ -1,0 +1,16 @@
+document_id: dbs_analyst_report_2025_05_08_5acbd87029c2
+bank_id: dbs
+title: 'DBS Group Holdings: First Take: A beat, and guidance better-than-feared'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-05-08'
+reporting_period:
+  start: '2025-05-08'
+  end: '2025-05-08'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: dbs/dbs_analyst_report_2025_05_08_5acbd87029c2.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 5acbd87029c27b300f061edcff41b273cd90be9c89b2aee53c4e6367b5a45f6f
+covered_bank_ids:
+- dbs

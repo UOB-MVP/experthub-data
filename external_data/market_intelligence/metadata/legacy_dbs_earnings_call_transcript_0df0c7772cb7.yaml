@@ -1,0 +1,16 @@
+document_id: legacy_dbs_earnings_call_transcript_0df0c7772cb7
+bank_id: dbs
+title: 2Q26 DBS Group Holdings Ltd Analyst Call
+source_type: official
+document_type: earnings_call_transcript
+publication_date: '2026-08-06'
+reporting_period:
+  start: '2026-04-01'
+  end: '2026-06-30'
+  period_type: quarter
+  fiscal_year: 2026
+source_file: dbs/legacy_dbs_earnings_call_transcript_0df0c7772cb7.pdf
+source_url: https://www.dbs.com/investors/default.page
+checksum: 0df0c7772cb726e73a8c76dadf92114b1e4bec532421e448f1ddd9c1b451a865
+covered_bank_ids:
+- dbs

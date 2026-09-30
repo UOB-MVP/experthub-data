@@ -1,0 +1,16 @@
+document_id: standard_chartered_analyst_report_2026_05_06_00d51a63f1d4
+bank_id: standard_chartered
+title: 'Standard Chartered: High teens ROTE a possibility medium term'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-05-06'
+reporting_period:
+  start: '2026-05-06'
+  end: '2026-05-06'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_analyst_report_2026_05_06_00d51a63f1d4.pdf
+source_url: https://rsch.baml.com/r?q=cIEPKy3xazs
+checksum: 00d51a63f1d444053b74b6446f3bbb8c01134429c886a1b65e09c6c8ba7b1532
+covered_bank_ids:
+- standard_chartered

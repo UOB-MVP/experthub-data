@@ -1,0 +1,16 @@
+document_id: legacy_hsbc_investor_day_presentation_bbcc1fc6f39d
+bank_id: hsbc
+title: 260520-group-ceo-and-group-cfo-presentation
+source_type: official
+document_type: investor_day_presentation
+publication_date: '2026-05-20'
+reporting_period:
+  start: '2026-05-20'
+  end: '2026-05-20'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/legacy_hsbc_investor_day_presentation_bbcc1fc6f39d.pdf
+source_url: https://www.hsbc.com/investors
+checksum: bbcc1fc6f39d23a47343e856de1a5ed8fb4a051ac139421d0178a61b29ba601f
+covered_bank_ids:
+- hsbc

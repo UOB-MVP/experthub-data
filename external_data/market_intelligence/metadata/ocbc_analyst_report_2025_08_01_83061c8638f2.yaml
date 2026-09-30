@@ -1,0 +1,17 @@
+document_id: ocbc_analyst_report_2025_08_01_83061c8638f2
+bank_id: ocbc
+title: 'Oversea-Chinese Banking Corp: 2Q25 – slight beat; strong fees and AQ offset
+  NIM pressure'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-08-01'
+reporting_period:
+  start: '2025-08-01'
+  end: '2025-08-01'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: ocbc/ocbc_analyst_report_2025_08_01_83061c8638f2.pdf
+source_url: https://rsch.baml.com/r?q=v55FOMco9Zc
+checksum: 83061c8638f2263a7658b6311f127290bf4356940542801ca3db86e995b58445
+covered_bank_ids:
+- ocbc

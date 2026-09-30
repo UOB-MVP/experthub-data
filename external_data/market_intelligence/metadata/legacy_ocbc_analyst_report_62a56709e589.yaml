@@ -1,0 +1,17 @@
+document_id: legacy_ocbc_analyst_report_62a56709e589
+bank_id: ocbc
+title: 'Oversea-Chinese Banking Corp: 2Q26 Strong beat vs. cons, 47c DPS (MSe 45c);
+  better revenue outlook, but valuation rich'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-08-06'
+reporting_period:
+  start: '2026-08-06'
+  end: '2026-08-06'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/legacy_ocbc_analyst_report_62a56709e589.pdf
+source_url: https://www.morganstanley.com/what-we-do/research
+checksum: 62a56709e589eb0cc8ebd019ce02cd9c3fbc1128a1ee01e07fa789ab7724dcfa
+covered_bank_ids:
+- ocbc

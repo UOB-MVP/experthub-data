@@ -1,0 +1,16 @@
+document_id: legacy_dbs_results_presentation_1fc2e71d7d4f
+bank_id: dbs
+title: DBS 2Q26 CEO presentation
+source_type: official
+document_type: results_presentation
+publication_date: '2026-08-06'
+reporting_period:
+  start: '2026-04-01'
+  end: '2026-06-30'
+  period_type: quarter
+  fiscal_year: 2026
+source_file: dbs/legacy_dbs_results_presentation_1fc2e71d7d4f.pdf
+source_url: https://www.dbs.com/investors/default.page
+checksum: 1fc2e71d7d4f1f4bbbb610a68edb2a762298629c78f90ab3773d98b4847eea83
+covered_bank_ids:
+- dbs

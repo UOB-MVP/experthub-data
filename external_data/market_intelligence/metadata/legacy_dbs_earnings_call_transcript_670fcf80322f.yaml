@@ -1,0 +1,16 @@
+document_id: legacy_dbs_earnings_call_transcript_670fcf80322f
+bank_id: dbs
+title: 4Q23 analyst transcript
+source_type: official
+document_type: earnings_call_transcript
+publication_date: '2023-12-01'
+reporting_period:
+  start: '2023-12-01'
+  end: '2023-12-01'
+  period_type: point_in_time
+  fiscal_year: 2023
+source_file: dbs/legacy_dbs_earnings_call_transcript_670fcf80322f.pdf
+source_url: https://www.dbs.com/investors/default.page
+checksum: 670fcf80322f8eb45b406174ff81138500a6d4cdfc169a384f6179e3b1e954ab
+covered_bank_ids:
+- dbs

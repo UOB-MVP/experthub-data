@@ -1,0 +1,16 @@
+document_id: standard_chartered_analyst_report_2026_03_09_74ae1630bb36
+bank_id: standard_chartered
+title: 'Standard Chartered: Fundamentals still good, uncertainty higher'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-03-09'
+reporting_period:
+  start: '2026-03-09'
+  end: '2026-03-09'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_analyst_report_2026_03_09_74ae1630bb36.pdf
+source_url: https://rsch.baml.com/r?q=vFKmzfu8uJU
+checksum: 74ae1630bb36ea9ae25b4726b2d1d6518d85c2e57b4c03c2b0f9406966204f81
+covered_bank_ids:
+- standard_chartered

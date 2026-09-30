@@ -1,0 +1,16 @@
+document_id: hsbc_analyst_report_2026_02_25_4825f0c2469c
+bank_id: hsbc
+title: Q4'25 results - Upgrade to ROTE guidance
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-02-25'
+reporting_period:
+  start: '2026-02-25'
+  end: '2026-02-25'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_analyst_report_2026_02_25_4825f0c2469c.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 4825f0c2469cbe59a04ffd12fbb163e678303187cdd590c5138fe9dc360e5a47
+covered_bank_ids:
+- hsbc

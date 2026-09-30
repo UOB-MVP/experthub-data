@@ -1,0 +1,16 @@
+document_id: legacy_hsbc_analyst_report_369db434bfe8
+bank_id: hsbc
+title: Jefferies LLC Research Division HSBC Holdings PLC 04 Aug 2026 Copy
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-08-04'
+reporting_period:
+  start: '2026-08-04'
+  end: '2026-08-04'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/legacy_hsbc_analyst_report_369db434bfe8.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 369db434bfe880b0698c4005f70887efd3d1f5f00007d9bbfd95e5a9f4913b5b
+covered_bank_ids:
+- hsbc

@@ -1,0 +1,17 @@
+document_id: legacy_ocbc_analyst_report_0de9053fe5c4
+bank_id: ocbc
+title: Goldman Sachs Group Inc. Research Division Singapore Banks  1Q25 preview  A
+  steady quarter but watch for potential guidance changes 23 Apr 2025
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-04-23'
+reporting_period:
+  start: '2025-04-23'
+  end: '2025-04-23'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: ocbc/legacy_ocbc_analyst_report_0de9053fe5c4.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 0de9053fe5c4fef385ec3ed47fd47f14bf210e77297d316883f015779ab9016b
+covered_bank_ids:
+- ocbc

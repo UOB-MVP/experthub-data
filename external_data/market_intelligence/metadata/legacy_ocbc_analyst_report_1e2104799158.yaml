@@ -1,0 +1,17 @@
+document_id: legacy_ocbc_analyst_report_1e2104799158
+bank_id: ocbc
+title: 'OCBC Bank: First take: A beat along expected lines post GE/DBS, NIM and CET1
+  pose risk for 2H outlook'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-08-07'
+reporting_period:
+  start: '2026-08-07'
+  end: '2026-08-07'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/legacy_ocbc_analyst_report_1e2104799158.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 1e2104799158f95dfe5c60d5ee47059daa166d7253bc9912ee63d26e90b13d84
+covered_bank_ids:
+- ocbc

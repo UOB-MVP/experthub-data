@@ -1,0 +1,16 @@
+document_id: dbs_earnings_call_transcript_2023_08_03_57617adede63
+bank_id: dbs
+title: 2Q23 media briefing transcript
+source_type: official
+document_type: earnings_call_transcript
+publication_date: '2023-08-03'
+reporting_period:
+  start: '2023-04-01'
+  end: '2023-06-30'
+  period_type: quarter
+  fiscal_year: 2023
+source_file: dbs/dbs_earnings_call_transcript_2023_08_03_57617adede63.pdf
+source_url: https://www.dbs.com/investors/
+checksum: 57617adede6331c479ae3d213fab6f1fee73a0730dd299016838cf5df340f95b
+covered_bank_ids:
+- dbs

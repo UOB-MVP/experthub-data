@@ -1,0 +1,16 @@
+document_id: legacy_ocbc_annual_report_d10f4fc11fd5
+bank_id: ocbc
+title: 2025-annual-report-en
+source_type: official
+document_type: annual_report
+publication_date: '2025-12-31'
+reporting_period:
+  start: '2025-12-31'
+  end: '2025-12-31'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: ocbc/legacy_ocbc_annual_report_d10f4fc11fd5.pdf
+source_url: https://www.ocbc.com/group/investors
+checksum: d10f4fc11fd5845c2e5e6c1ffbeccf0c66f33e1b71c02ae0b402f0ba104382ff
+covered_bank_ids:
+- ocbc

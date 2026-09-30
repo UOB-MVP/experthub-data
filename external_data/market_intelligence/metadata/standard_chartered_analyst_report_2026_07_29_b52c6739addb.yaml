@@ -1,0 +1,16 @@
+document_id: standard_chartered_analyst_report_2026_07_29_b52c6739addb
+bank_id: standard_chartered
+title: Standard Chartered (STAN.L2888.HK) Updating for Q2'26 results
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-07-29'
+reporting_period:
+  start: '2026-07-29'
+  end: '2026-07-29'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_analyst_report_2026_07_29_b52c6739addb.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: b52c6739addb3b344617c420b091fe9722efc4a7433bb579c878521eb6c6bd68
+covered_bank_ids:
+- standard_chartered

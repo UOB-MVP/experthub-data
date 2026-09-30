@@ -1,0 +1,17 @@
+document_id: legacy_dbs_analyst_report_43928b2b813e
+bank_id: dbs
+title: JPMorgan Chase & Co Research Division ASEAN Banks  Debates, picks and takeaways
+  10 Sep 2025
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-09-10'
+reporting_period:
+  start: '2025-09-10'
+  end: '2025-09-10'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: dbs/legacy_dbs_analyst_report_43928b2b813e.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 43928b2b813e7d363249328ce8644057d87cb6adcc4295f2cd192b77dcbd698b
+covered_bank_ids:
+- dbs

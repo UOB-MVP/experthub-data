@@ -1,0 +1,16 @@
+document_id: legacy_dbs_analyst_report_8326982c8ff1
+bank_id: dbs
+title: 'DBS Group: 2Q26: Guidance raised, wealth momentum intact. Raise PO to S$80'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-08-06'
+reporting_period:
+  start: '2026-08-06'
+  end: '2026-08-06'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/legacy_dbs_analyst_report_8326982c8ff1.pdf
+source_url: https://rsch.baml.com/r?q=Z3x3YxLWsqQ
+checksum: 8326982c8ff169c4b5d7a5d03b35a715837aeb790e007a5276aa5228827783fc
+covered_bank_ids:
+- dbs

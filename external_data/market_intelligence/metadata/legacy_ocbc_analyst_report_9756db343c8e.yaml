@@ -1,0 +1,17 @@
+document_id: legacy_ocbc_analyst_report_9756db343c8e
+bank_id: ocbc
+title: Goldman Sachs Group Inc. Research Division Singapore Banks  1Q26 preview  Decent
+  1Q, with NII, wealth and CoC firmly in focus 16 Apr 2026
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-04-16'
+reporting_period:
+  start: '2026-04-16'
+  end: '2026-04-16'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/legacy_ocbc_analyst_report_9756db343c8e.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 9756db343c8ee96845631fd4fc493f83a5f542eeb679521430a3d81d7467ec95
+covered_bank_ids:
+- ocbc

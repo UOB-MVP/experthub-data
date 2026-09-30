@@ -1,0 +1,17 @@
+document_id: dbs_analyst_report_2025_03_05_d30d9b467db8
+bank_id: dbs
+title: Jefferies LLC Research Division HK SG Banks  Everything is Relative 05 Mar
+  2025
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-03-05'
+reporting_period:
+  start: '2025-03-05'
+  end: '2025-03-05'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: dbs/dbs_analyst_report_2025_03_05_d30d9b467db8.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: d30d9b467db82fd8d73a564307d32e83a8a5c6802283e22ac763524f0b271de0
+covered_bank_ids:
+- dbs

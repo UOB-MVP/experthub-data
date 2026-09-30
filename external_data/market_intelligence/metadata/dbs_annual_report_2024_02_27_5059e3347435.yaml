@@ -1,0 +1,16 @@
+document_id: dbs_annual_report_2024_02_27_5059e3347435
+bank_id: dbs
+title: DBS-AR-Report-2023
+source_type: official
+document_type: annual_report
+publication_date: '2024-02-27'
+reporting_period:
+  start: '2023-01-01'
+  end: '2023-12-31'
+  period_type: fiscal_year
+  fiscal_year: 2023
+source_file: dbs/dbs_annual_report_2024_02_27_5059e3347435.pdf
+source_url: https://www.dbs.com/investors/
+checksum: 5059e3347435b81b7046ec7b1ccfa67dc22551641954a6513f36951bf69803b7
+covered_bank_ids:
+- dbs

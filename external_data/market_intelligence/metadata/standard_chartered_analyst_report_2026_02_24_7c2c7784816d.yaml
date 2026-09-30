@@ -1,0 +1,16 @@
+document_id: standard_chartered_analyst_report_2026_02_24_7c2c7784816d
+bank_id: standard_chartered
+title: 'Standard Chartered: 4Q25 first take: 4Q miss, change to guidance basis'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-02-24'
+reporting_period:
+  start: '2026-02-24'
+  end: '2026-02-24'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_analyst_report_2026_02_24_7c2c7784816d.pdf
+source_url: https://rsch.baml.com/r?q=!61VZ1VJq6Y
+checksum: 7c2c7784816de1fd65605156c1de95aaa0f66c59203b1666abe0154000fe042d
+covered_bank_ids:
+- standard_chartered

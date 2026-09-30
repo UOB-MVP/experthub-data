@@ -1,0 +1,17 @@
+document_id: legacy_hsbc_analyst_report_95e7edcc5875
+bank_id: hsbc
+title: Morgan Stanley Research Division HSBC  Correction  A Pathway to 20% ROTE 13
+  May 2026
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-05-13'
+reporting_period:
+  start: '2026-05-13'
+  end: '2026-05-13'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/legacy_hsbc_analyst_report_95e7edcc5875.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 95e7edcc58752fa99d46c5144f20227febc83983ecab3c9e01f6222d10cb9dcc
+covered_bank_ids:
+- hsbc

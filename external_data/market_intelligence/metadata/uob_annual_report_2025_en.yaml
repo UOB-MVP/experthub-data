@@ -1,0 +1,14 @@
+document_id: uob_annual_report_2025_en
+bank_id: uob
+title: UOB Annual Report 2025
+source_type: official
+document_type: annual_report
+publication_date: "2026-03-19"
+reporting_period:
+  start: "2025-01-01"
+  end: "2025-12-31"
+  period_type: fiscal_year
+  fiscal_year: 2025
+source_file: uob/uob-annual-report-2025.pdf
+source_url: https://www.uobgroup.com/investor-relations/assets/pdfs/investor/annual/uob-annual-report-2025.pdf
+checksum: 8f16c545145df604ac0e29df5369f1620dfa0a6063bbcf5fd21f3f71dd4438c6

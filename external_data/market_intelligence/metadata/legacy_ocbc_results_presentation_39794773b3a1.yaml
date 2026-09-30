@@ -1,0 +1,16 @@
+document_id: legacy_ocbc_results_presentation_39794773b3a1
+bank_id: ocbc
+title: ocbc 1q26 results highlights
+source_type: official
+document_type: results_presentation
+publication_date: '2026-05-08'
+reporting_period:
+  start: '2026-01-01'
+  end: '2026-03-31'
+  period_type: quarter
+  fiscal_year: 2026
+source_file: ocbc/legacy_ocbc_results_presentation_39794773b3a1.pdf
+source_url: https://www.ocbc.com/group/investors
+checksum: 39794773b3a1ecee20e70ccfd6809b3e3d2333e88b66383b04f2333886d6c195
+covered_bank_ids:
+- ocbc

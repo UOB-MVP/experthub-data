@@ -1,0 +1,16 @@
+document_id: standard_chartered_earnings_call_transcript_2025_10_30_61965d6d7005
+bank_id: standard_chartered
+title: Standard Chartered PLC Earnings Call 2025-10-30 English
+source_type: approved_third_party
+document_type: earnings_call_transcript
+publication_date: '2025-10-30'
+reporting_period:
+  start: '2025-07-01'
+  end: '2025-09-30'
+  period_type: quarter
+  fiscal_year: 2025
+source_file: standard_chartered/standard_chartered_earnings_call_transcript_2025_10_30_61965d6d7005.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 61965d6d700590689f0f23b1de0c06f02bceab2cc4da10e82c86351f794e634d
+covered_bank_ids:
+- standard_chartered

@@ -1,0 +1,16 @@
+document_id: legacy_hsbc_earnings_call_transcript_d0c412e8de27
+bank_id: hsbc
+title: 260516-hsbc-analysts-meeting-transcript
+source_type: official
+document_type: earnings_call_transcript
+publication_date: '2026-05-16'
+reporting_period:
+  start: '2026-05-16'
+  end: '2026-05-16'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/legacy_hsbc_earnings_call_transcript_d0c412e8de27.pdf
+source_url: https://www.hsbc.com/investors
+checksum: d0c412e8de279c3e52877cac77b3156397660d17814f0d905ca02ba38934fcb3
+covered_bank_ids:
+- hsbc

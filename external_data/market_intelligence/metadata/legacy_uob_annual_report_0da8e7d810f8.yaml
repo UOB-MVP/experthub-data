@@ -1,0 +1,16 @@
+document_id: legacy_uob_annual_report_0da8e7d810f8
+bank_id: uob
+title: uob-annual-report-2023
+source_type: official
+document_type: annual_report
+publication_date: '2023-12-31'
+reporting_period:
+  start: '2023-12-31'
+  end: '2023-12-31'
+  period_type: point_in_time
+  fiscal_year: 2023
+source_file: uob/legacy_uob_annual_report_0da8e7d810f8.pdf
+source_url: https://www.uobgroup.com/investor-relations/index.page
+checksum: 0da8e7d810f8be7569da4f9e8fd2e3e2a87343b56069beb6dbb754159732fc75
+covered_bank_ids:
+- uob

@@ -1,0 +1,17 @@
+document_id: uob_analyst_report_2026_05_06_5bb078642cbb
+bank_id: uob
+title: 'United Overseas Bank: 1Q26 Non-NII miss offset by lower credit charges; New
+  NPA formation down sharply'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-05-06'
+reporting_period:
+  start: '2026-05-06'
+  end: '2026-05-06'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/uob_analyst_report_2026_05_06_5bb078642cbb.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 5bb078642cbbfac775af8fdfab04712fcc438ce0da2fa53d60d4b2557bc3c7ec
+covered_bank_ids:
+- uob

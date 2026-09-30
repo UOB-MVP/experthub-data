@@ -1,0 +1,17 @@
+document_id: legacy_ocbc_analyst_report_af33f8e515ad
+bank_id: ocbc
+title: 'Oversea-Chinese Banking Corp: Wealth momentum accelerates, cushioning NIM
+  pressures'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-08-07'
+reporting_period:
+  start: '2026-08-07'
+  end: '2026-08-07'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/legacy_ocbc_analyst_report_af33f8e515ad.pdf
+source_url: https://rsch.baml.com/r?q=SjV3lXu!4S4
+checksum: af33f8e515adc03f076f5268e0d9a0ed9d50a7048c42db51f25cef1ebf7e0774
+covered_bank_ids:
+- ocbc

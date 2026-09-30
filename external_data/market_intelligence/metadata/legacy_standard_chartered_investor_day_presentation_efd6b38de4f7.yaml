@@ -1,0 +1,16 @@
+document_id: legacy_standard_chartered_investor_day_presentation_efd6b38de4f7
+bank_id: standard_chartered
+title: standard-chartered-may-2026-day-1-investor-event-presen
+source_type: official
+document_type: investor_day_presentation
+publication_date: '2026-05-19'
+reporting_period:
+  start: '2026-05-19'
+  end: '2026-05-19'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/legacy_standard_chartered_investor_day_presentation_efd6b38de4f7.pdf
+source_url: https://www.sc.com/en/investors/
+checksum: efd6b38de4f7425a1bc344132e72d146c8a7ee0e4b9e746b7a8019e09a272b44
+covered_bank_ids:
+- standard_chartered

@@ -1,0 +1,16 @@
+document_id: uob_earnings_call_transcript_2023_07_27_bf32bc1f7c8a
+bank_id: uob
+title: United Overseas Bank Limited Earnings Call 2023-07-27 English
+source_type: approved_third_party
+document_type: earnings_call_transcript
+publication_date: '2023-07-27'
+reporting_period:
+  start: '2023-04-01'
+  end: '2023-06-30'
+  period_type: quarter
+  fiscal_year: 2023
+source_file: uob/uob_earnings_call_transcript_2023_07_27_bf32bc1f7c8a.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: bf32bc1f7c8afdb534899b1e68e00192670059c128209483e0ed428bda83239c
+covered_bank_ids:
+- uob

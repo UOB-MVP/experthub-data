@@ -1,0 +1,17 @@
+document_id: legacy_hsbc_analyst_report_d55ea19ee273
+bank_id: hsbc
+title: 'HSBC Holdings plc: Strong Wealth, Transaction Banking performance, but higher
+  costs expected and buyback below expectations'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-08-04'
+reporting_period:
+  start: '2026-08-04'
+  end: '2026-08-04'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/legacy_hsbc_analyst_report_d55ea19ee273.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: d55ea19ee27333dba78f93276f798eec61ccfa2b26ac20467cfe09732ccf12e5
+covered_bank_ids:
+- hsbc

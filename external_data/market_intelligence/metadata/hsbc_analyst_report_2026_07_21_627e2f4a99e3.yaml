@@ -1,0 +1,17 @@
+document_id: hsbc_analyst_report_2026_07_21_627e2f4a99e3
+bank_id: hsbc
+title: JPMorgan Chase & Co Research Division HSBC & STAN  2Q26 preview  NII tailwinds
+  support HSBC; STAN faces tough comps, but fundamentals intact 21 Jul 2026
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-07-21'
+reporting_period:
+  start: '2026-07-21'
+  end: '2026-07-21'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_analyst_report_2026_07_21_627e2f4a99e3.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 627e2f4a99e38f3aadc0620a4b47d964efd1afec8b6566011e5a4c5ee6499b84
+covered_bank_ids:
+- hsbc

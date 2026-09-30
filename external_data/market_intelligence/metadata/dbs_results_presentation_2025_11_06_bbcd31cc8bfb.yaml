@@ -1,0 +1,16 @@
+document_id: dbs_results_presentation_2025_11_06_bbcd31cc8bfb
+bank_id: dbs
+title: 3Q25 CFO presentation
+source_type: official
+document_type: results_presentation
+publication_date: '2025-11-06'
+reporting_period:
+  start: '2025-07-01'
+  end: '2025-09-30'
+  period_type: quarter
+  fiscal_year: 2025
+source_file: dbs/dbs_results_presentation_2025_11_06_bbcd31cc8bfb.pdf
+source_url: https://www.dbs.com/investors/
+checksum: bbcd31cc8bfb4dff7c752806d2363cdaa6bb7a0d7c8bdd903db763cb27913675
+covered_bank_ids:
+- dbs

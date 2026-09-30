@@ -1,0 +1,16 @@
+document_id: legacy_hsbc_annual_report_2c03736c2883
+bank_id: hsbc
+title: 240226-annual-report-and-accounts-2023
+source_type: official
+document_type: annual_report
+publication_date: '2024-02-26'
+reporting_period:
+  start: '2024-02-26'
+  end: '2024-02-26'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: hsbc/legacy_hsbc_annual_report_2c03736c2883.pdf
+source_url: https://www.hsbc.com/investors
+checksum: 2c03736c288399da08b665d72616e45b93c99764ec47891d9c2bc8fa5175c6c5
+covered_bank_ids:
+- hsbc

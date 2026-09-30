@@ -1,0 +1,16 @@
+document_id: legacy_dbs_analyst_report_cd3f4531b637
+bank_id: dbs
+title: DBS Group (DBSM.SI) 2Q26 First Take - Robust all round, guidance lifted
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-08-06'
+reporting_period:
+  start: '2026-08-06'
+  end: '2026-08-06'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/legacy_dbs_analyst_report_cd3f4531b637.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: cd3f4531b6377dd314a0b1eb4b99adb40a3105e53a06db3951357910487c5ac6
+covered_bank_ids:
+- dbs

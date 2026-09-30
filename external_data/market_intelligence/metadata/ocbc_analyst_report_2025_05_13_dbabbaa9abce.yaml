@@ -1,0 +1,16 @@
+document_id: ocbc_analyst_report_2025_05_13_dbabbaa9abce
+bank_id: ocbc
+title: 'Oversea-Chinese Banking Corp: CEO lunch takeaways – balancing risks and opportunities'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-05-13'
+reporting_period:
+  start: '2025-05-13'
+  end: '2025-05-13'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: ocbc/ocbc_analyst_report_2025_05_13_dbabbaa9abce.pdf
+source_url: https://rsch.baml.com/r?q=-KRZWPZ4pU4
+checksum: dbabbaa9abce9002aac96a3aa7066decbae2447debddad162e1ec16acc9dd232
+covered_bank_ids:
+- ocbc

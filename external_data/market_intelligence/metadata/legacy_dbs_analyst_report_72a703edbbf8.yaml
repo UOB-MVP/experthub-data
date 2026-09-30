@@ -1,0 +1,17 @@
+document_id: legacy_dbs_analyst_report_72a703edbbf8
+bank_id: dbs
+title: Jefferies LLC Research Division 1Q25 Result  PPOP Beat, Asset Quality Intact
+  Despite Higher GP 08 May 2025
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-05-08'
+reporting_period:
+  start: '2025-05-08'
+  end: '2025-05-08'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: dbs/legacy_dbs_analyst_report_72a703edbbf8.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 72a703edbbf8e13fce59688f7c660f116627c6af5fde5e4fbef889a570c8c11e
+covered_bank_ids:
+- dbs

@@ -1,0 +1,16 @@
+document_id: legacy_dbs_investor_day_presentation_0238c67df0b8
+bank_id: dbs
+title: DBSInvestorDay2023 07 PrivateBanking
+source_type: official
+document_type: investor_day_presentation
+publication_date: '2023-12-31'
+reporting_period:
+  start: '2023-12-31'
+  end: '2023-12-31'
+  period_type: point_in_time
+  fiscal_year: 2023
+source_file: dbs/legacy_dbs_investor_day_presentation_0238c67df0b8.pdf
+source_url: https://www.dbs.com/investors/default.page
+checksum: 0238c67df0b890b1001eaea69606e4661caee86510ce53819e5fcc7f0f22bbb3
+covered_bank_ids:
+- dbs

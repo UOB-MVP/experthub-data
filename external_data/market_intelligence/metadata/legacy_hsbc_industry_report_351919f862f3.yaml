@@ -1,0 +1,16 @@
+document_id: legacy_hsbc_industry_report_351919f862f3
+bank_id: hsbc
+title: hsbc-affluent-investor-snapshot-2025
+source_type: approved_third_party
+document_type: industry_report
+publication_date: '2025-12-31'
+reporting_period:
+  start: '2025-12-31'
+  end: '2025-12-31'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: hsbc/legacy_hsbc_industry_report_351919f862f3.pdf
+source_url: https://www.hsbc.com/investors
+checksum: 351919f862f389ae9c3f53e0e28a00f5f1fa49472a650f30569c17dce65f7003
+covered_bank_ids:
+- hsbc

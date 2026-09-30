@@ -1,0 +1,16 @@
+document_id: legacy_ocbc_annual_report_c096369d1fac
+bank_id: ocbc
+title: ocbc annual report 2023
+source_type: official
+document_type: annual_report
+publication_date: '2023-12-31'
+reporting_period:
+  start: '2023-12-31'
+  end: '2023-12-31'
+  period_type: point_in_time
+  fiscal_year: 2023
+source_file: ocbc/legacy_ocbc_annual_report_c096369d1fac.pdf
+source_url: https://www.ocbc.com/group/investors
+checksum: c096369d1fac8930a275db4c11b4934a581c34278fd248fb0329aaca6bd9f529
+covered_bank_ids:
+- ocbc

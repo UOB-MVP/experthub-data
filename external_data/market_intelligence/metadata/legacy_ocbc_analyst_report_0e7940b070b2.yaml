@@ -1,0 +1,17 @@
+document_id: legacy_ocbc_analyst_report_0e7940b070b2
+bank_id: ocbc
+title: Oversea-Chinese Banking Corp. (OCBC.SI) 2Q26 First Take Strong beat all round;
+  guidance raised
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-08-07'
+reporting_period:
+  start: '2026-08-07'
+  end: '2026-08-07'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/legacy_ocbc_analyst_report_0e7940b070b2.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 0e7940b070b26d8006660869ca2f2d325369d4fb15bdf827ead888aa9610a905
+covered_bank_ids:
+- ocbc

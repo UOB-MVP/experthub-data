@@ -1,0 +1,16 @@
+document_id: legacy_uob_results_presentation_4d3be5e9f669
+bank_id: uob
+title: ceo-slides-2q-2026
+source_type: official
+document_type: results_presentation
+publication_date: '2026-08-07'
+reporting_period:
+  start: '2026-04-01'
+  end: '2026-06-30'
+  period_type: quarter
+  fiscal_year: 2026
+source_file: uob/legacy_uob_results_presentation_4d3be5e9f669.pdf
+source_url: https://www.uobgroup.com/investor-relations/index.page
+checksum: 4d3be5e9f669c8dfb289a306373c962d8ac16e19b40d9b29db582ef767db765e
+covered_bank_ids:
+- uob

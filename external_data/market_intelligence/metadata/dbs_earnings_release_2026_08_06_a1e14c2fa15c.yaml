@@ -1,0 +1,16 @@
+document_id: dbs_earnings_release_2026_08_06_a1e14c2fa15c
+bank_id: dbs
+title: DBS second-quarter 2026 results press statement
+source_type: official
+document_type: earnings_release
+publication_date: '2026-08-06'
+reporting_period:
+  start: '2026-04-01'
+  end: '2026-06-30'
+  period_type: quarter
+  fiscal_year: 2026
+source_file: dbs/dbs_earnings_release_2026_08_06_a1e14c2fa15c.pdf
+source_url: https://www.dbs.com/iwov-resources/images/investors/quarterly-financials/2026/2Q26_press_statement.pdf
+checksum: a1e14c2fa15ca3f695bff51904ef4b403dc593fbe113155ce2d974df91342374
+covered_bank_ids:
+- dbs

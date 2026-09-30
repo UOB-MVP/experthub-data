@@ -1,0 +1,17 @@
+document_id: legacy_dbs_analyst_report_1f6793ebf947
+bank_id: dbs
+title: JPMorgan Chase & Co Research Division Singapore Financials  A wealth hub; increasing
+  DBS PT to S$70, upgrade OCBC and SGX to OW and UOB to N 28 Nov 2025
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-11-28'
+reporting_period:
+  start: '2025-11-28'
+  end: '2025-11-28'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: dbs/legacy_dbs_analyst_report_1f6793ebf947.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 1f6793ebf9474bb9042a07d4409269c4475ba76288a2aff257b1c9755eca27d3
+covered_bank_ids:
+- dbs

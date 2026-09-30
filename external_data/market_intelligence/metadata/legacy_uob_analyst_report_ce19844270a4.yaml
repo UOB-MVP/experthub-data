@@ -1,0 +1,17 @@
+document_id: legacy_uob_analyst_report_ce19844270a4
+bank_id: uob
+title: United Overseas Bank (UOBH.SI) 2Q26 First Take Miss on GSe, CRE remains an
+  issue
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-08-07'
+reporting_period:
+  start: '2026-08-07'
+  end: '2026-08-07'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/legacy_uob_analyst_report_ce19844270a4.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: ce19844270a4f08c2f790ecaa12e2dcfd386c426c7d3df54794e6082486b9c5b
+covered_bank_ids:
+- uob
