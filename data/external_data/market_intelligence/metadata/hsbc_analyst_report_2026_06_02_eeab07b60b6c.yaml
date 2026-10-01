@@ -1,0 +1,16 @@
+document_id: hsbc_analyst_report_2026_06_02_eeab07b60b6c
+bank_id: hsbc
+title: 'HSBC Holdings PLC: The power comes from within'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-06-02'
+reporting_period:
+  start: '2026-06-02'
+  end: '2026-06-02'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_analyst_report_2026_06_02_eeab07b60b6c.pdf
+source_url: https://rsch.baml.com/r?q=8TgCGvMG!fQ
+checksum: eeab07b60b6c0bb4ec68cfa2f973aa6f05bd34f26fb1af5482ef32eecdfd9f6e
+covered_bank_ids:
+- hsbc

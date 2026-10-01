@@ -1,0 +1,18 @@
+document_id: ocbc_analyst_report_2026_05_05_9c9e82134a91
+bank_id: ocbc
+title: Oversea-Chinese Banking Corp. (OCBC.SI) OCBC to acquire HSBC International
+  Wealth and Premier Banking in Indonesia
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-05-05'
+reporting_period:
+  start: '2026-05-05'
+  end: '2026-05-05'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_analyst_report_2026_05_05_9c9e82134a91.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 9c9e82134a9166276efd4fe137453fb240f3cf4d495782489fdf4f5030a39ab3
+covered_bank_ids:
+- ocbc
+- hsbc

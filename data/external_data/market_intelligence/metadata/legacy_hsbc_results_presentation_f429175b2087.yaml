@@ -1,0 +1,16 @@
+document_id: legacy_hsbc_results_presentation_f429175b2087
+bank_id: hsbc
+title: 260505-1q-2026-presentation-to-investors-and-analysts
+source_type: official
+document_type: results_presentation
+publication_date: '2026-05-05'
+reporting_period:
+  start: '2026-05-05'
+  end: '2026-05-05'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/legacy_hsbc_results_presentation_f429175b2087.pdf
+source_url: https://www.hsbc.com/investors
+checksum: f429175b2087f6a04197621e6f76a2a141b7539226db6680e42f7f24f4007457
+covered_bank_ids:
+- hsbc

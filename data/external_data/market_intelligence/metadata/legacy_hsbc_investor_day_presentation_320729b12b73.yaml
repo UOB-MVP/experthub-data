@@ -1,0 +1,16 @@
+document_id: legacy_hsbc_investor_day_presentation_320729b12b73
+bank_id: hsbc
+title: 260520-hang-seng-bank-presentation
+source_type: official
+document_type: investor_day_presentation
+publication_date: '2026-05-20'
+reporting_period:
+  start: '2026-05-20'
+  end: '2026-05-20'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/legacy_hsbc_investor_day_presentation_320729b12b73.pdf
+source_url: https://www.hsbc.com/investors
+checksum: 320729b12b733e3a388684f26e77e138847c5c173f4751dd18a21144c714b256
+covered_bank_ids:
+- hsbc

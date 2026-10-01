@@ -1,0 +1,17 @@
+document_id: uob_analyst_report_2026_05_08_beade6ada831
+bank_id: uob
+title: United Overseas Bank (UOBH.SI) 1Q26 Earnings Review Asset quality overhang
+  lifting, but execution remains key on wealth for re-rating
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-05-08'
+reporting_period:
+  start: '2026-05-08'
+  end: '2026-05-08'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/uob_analyst_report_2026_05_08_beade6ada831.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: beade6ada83145ae2413d08db7185f5ec804d8504de487ff1912286b35bed484
+covered_bank_ids:
+- uob

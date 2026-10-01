@@ -1,0 +1,16 @@
+document_id: ocbc_earnings_call_transcript_2023_11_10_a5f5108256d6
+bank_id: ocbc
+title: OCBC Earnings Call 2023-11-10 English
+source_type: approved_third_party
+document_type: earnings_call_transcript
+publication_date: '2023-11-10'
+reporting_period:
+  start: '2023-07-01'
+  end: '2023-09-30'
+  period_type: quarter
+  fiscal_year: 2023
+source_file: ocbc/ocbc_earnings_call_transcript_2023_11_10_a5f5108256d6.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: a5f5108256d61ad963c5e133b1c9f7d6a6a210d45b884bbfd3f406e76f3625e0
+covered_bank_ids:
+- ocbc

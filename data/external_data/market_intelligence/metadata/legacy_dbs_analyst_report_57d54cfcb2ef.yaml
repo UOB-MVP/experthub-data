@@ -1,0 +1,17 @@
+document_id: legacy_dbs_analyst_report_57d54cfcb2ef
+bank_id: dbs
+title: JPMorgan Chase & Co Research Division Asean Banks  Safety, return & deployment
+  of capital to drive stocks; downgrading UOB, BMRI, BRI, BNI and Tisco 23 Mar 2025
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-03-23'
+reporting_period:
+  start: '2025-03-23'
+  end: '2025-03-23'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: dbs/legacy_dbs_analyst_report_57d54cfcb2ef.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 57d54cfcb2efc1e6472318930e58a8abd2045ce312cea4b24f4dafb5f4688e50
+covered_bank_ids:
+- dbs

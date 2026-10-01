@@ -1,0 +1,20 @@
+document_id: legacy_uob_industry_report_8670234d47fc
+bank_id: uob
+title: Factiva WealthManagementNews 2
+source_type: approved_third_party
+document_type: industry_report
+publication_date: '2026-02-26'
+reporting_period:
+  start: '2026-02-26'
+  end: '2026-02-26'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/legacy_uob_industry_report_8670234d47fc.pdf
+source_url: https://www.dowjones.com/professional/factiva/
+checksum: 8670234d47fc674698ff354addbf3d8479a8d50aaa16bb7e4c32e0527c45fb95
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+- hsbc
+- standard_chartered

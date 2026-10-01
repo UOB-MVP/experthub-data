@@ -1,0 +1,17 @@
+document_id: legacy_ocbc_analyst_report_0a7025f56c7a
+bank_id: ocbc
+title: Goldman Sachs Group Inc. Research Division Singapore Banks  2Q25 preview  Weaker
+  2Q as NIM declines, focus on guidance updates 21 Jul 2025
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-07-21'
+reporting_period:
+  start: '2025-07-21'
+  end: '2025-07-21'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: ocbc/legacy_ocbc_analyst_report_0a7025f56c7a.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 0a7025f56c7ab6ca4ac8f7831324b7b1e5330fb08bb937acc752edc13f3cab7d
+covered_bank_ids:
+- ocbc

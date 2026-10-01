@@ -1,0 +1,16 @@
+document_id: legacy_dbs_results_presentation_512fd8c5a961
+bank_id: dbs
+title: DBS 2Q26 CFO presentation
+source_type: official
+document_type: results_presentation
+publication_date: '2026-08-06'
+reporting_period:
+  start: '2026-04-01'
+  end: '2026-06-30'
+  period_type: quarter
+  fiscal_year: 2026
+source_file: dbs/legacy_dbs_results_presentation_512fd8c5a961.pdf
+source_url: https://www.dbs.com/investors/default.page
+checksum: 512fd8c5a961589cee15add8905920e4dd475ea19f39463bb88c89b0d698bbfb
+covered_bank_ids:
+- dbs

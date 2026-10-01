@@ -1,0 +1,16 @@
+document_id: legacy_hsbc_results_presentation_19c44689649a
+bank_id: hsbc
+title: 260505-1q-2026-earnings-release
+source_type: official
+document_type: results_presentation
+publication_date: '2026-05-05'
+reporting_period:
+  start: '2026-05-05'
+  end: '2026-05-05'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/legacy_hsbc_results_presentation_19c44689649a.pdf
+source_url: https://www.hsbc.com/investors
+checksum: 19c44689649ae241be9316fca5b4309afa4487e611731460e8131de81e4c93b9
+covered_bank_ids:
+- hsbc

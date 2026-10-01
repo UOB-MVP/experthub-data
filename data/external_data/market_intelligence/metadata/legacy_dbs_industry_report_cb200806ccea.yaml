@@ -1,0 +1,16 @@
+document_id: legacy_dbs_industry_report_cb200806ccea
+bank_id: dbs
+title: DBS FamilyOfficeChangingWorld 2022
+source_type: approved_third_party
+document_type: industry_report
+publication_date: '2022-12-31'
+reporting_period:
+  start: '2022-12-31'
+  end: '2022-12-31'
+  period_type: point_in_time
+  fiscal_year: 2022
+source_file: dbs/legacy_dbs_industry_report_cb200806ccea.pdf
+source_url: https://www.dbs.com/investors/default.page
+checksum: cb200806ccea9da75bc83c4b5bba8316de88b5ed44e08f18365da94351cfbfe8
+covered_bank_ids:
+- dbs

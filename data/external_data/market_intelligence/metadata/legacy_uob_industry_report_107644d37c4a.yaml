@@ -1,0 +1,20 @@
+document_id: legacy_uob_industry_report_107644d37c4a
+bank_id: uob
+title: Factiva WMArticles AUG2026 2
+source_type: approved_third_party
+document_type: industry_report
+publication_date: '2026-08-24'
+reporting_period:
+  start: '2026-08-24'
+  end: '2026-08-24'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/legacy_uob_industry_report_107644d37c4a.pdf
+source_url: https://www.dowjones.com/professional/factiva/
+checksum: 107644d37c4a286f8e81143a852a08af651d7611478b5ccec9f1e3c78455afe7
+covered_bank_ids:
+- uob
+- dbs
+- ocbc
+- hsbc
+- standard_chartered

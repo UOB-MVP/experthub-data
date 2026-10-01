@@ -1,0 +1,17 @@
+document_id: standard_chartered_analyst_report_2026_02_23_d3452056137a
+bank_id: standard_chartered
+title: 'Standard Chartered: 4Q25 PBT misses cons. on costs; better capital return;
+  2026 outlook slightly ahead of MSe.'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-02-23'
+reporting_period:
+  start: '2026-02-23'
+  end: '2026-02-23'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_analyst_report_2026_02_23_d3452056137a.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: d3452056137af396f48b1d7a6aa198033a1f7064e91ee3aab60a299587255f28
+covered_bank_ids:
+- standard_chartered

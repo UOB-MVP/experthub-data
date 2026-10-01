@@ -1,0 +1,17 @@
+document_id: legacy_hsbc_analyst_report_5ae5203b5e76
+bank_id: hsbc
+title: Deutsche Bank AG Research Division UK Banks  A wealth of opportunities 23 Jun
+  2026
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-06-23'
+reporting_period:
+  start: '2026-06-23'
+  end: '2026-06-23'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/legacy_hsbc_analyst_report_5ae5203b5e76.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 5ae5203b5e760e2db3ca32f6ec69bb85041f3d2dc2a7c7aff6350e244eae0641
+covered_bank_ids:
+- hsbc

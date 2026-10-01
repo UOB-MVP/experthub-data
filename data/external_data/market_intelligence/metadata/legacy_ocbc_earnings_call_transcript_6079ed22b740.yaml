@@ -1,0 +1,16 @@
+document_id: legacy_ocbc_earnings_call_transcript_6079ed22b740
+bank_id: ocbc
+title: OCBC EarningsTranscript H12026
+source_type: official
+document_type: earnings_call_transcript
+publication_date: '2026-08-07'
+reporting_period:
+  start: '2026-01-01'
+  end: '2026-06-30'
+  period_type: half_year
+  fiscal_year: 2026
+source_file: ocbc/legacy_ocbc_earnings_call_transcript_6079ed22b740.pdf
+source_url: https://www.ocbc.com/group/investors
+checksum: 6079ed22b74060c658e432f3590d5b0a05b7a12cc012fe8c11675e3710fdc25a
+covered_bank_ids:
+- ocbc

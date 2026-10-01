@@ -1,0 +1,8 @@
+*
+!.gitignore
+!raw_files/
+!raw_files/**/
+!raw_files/**/*.pdf
+!documents/
+!documents/**/
+!documents/**/*.pdf

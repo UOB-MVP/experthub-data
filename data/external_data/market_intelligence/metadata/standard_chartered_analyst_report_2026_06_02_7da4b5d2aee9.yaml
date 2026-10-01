@@ -1,0 +1,16 @@
+document_id: standard_chartered_analyst_report_2026_06_02_7da4b5d2aee9
+bank_id: standard_chartered
+title: 'Standard Chartered: Translating growth into profitability'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-06-02'
+reporting_period:
+  start: '2026-06-02'
+  end: '2026-06-02'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_analyst_report_2026_06_02_7da4b5d2aee9.pdf
+source_url: https://rsch.baml.com/r?q=mbEjvdZdyOc
+checksum: 7da4b5d2aee980e696ab373ed4a46f3e1fbda8bd9475375489d2ca78063033e9
+covered_bank_ids:
+- standard_chartered

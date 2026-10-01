@@ -1,0 +1,16 @@
+document_id: dbs_earnings_call_transcript_2025_02_10_cc66c3203b8a
+bank_id: dbs
+title: 4Q24 media transcript
+source_type: official
+document_type: earnings_call_transcript
+publication_date: '2025-02-10'
+reporting_period:
+  start: '2024-10-01'
+  end: '2024-12-31'
+  period_type: quarter
+  fiscal_year: 2024
+source_file: dbs/dbs_earnings_call_transcript_2025_02_10_cc66c3203b8a.pdf
+source_url: https://www.dbs.com/investors/
+checksum: cc66c3203b8a20d9993cc7e2117f1857073c1550668f97b136e9a0e213d2ea75
+covered_bank_ids:
+- dbs

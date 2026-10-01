@@ -1,0 +1,17 @@
+document_id: legacy_dbs_analyst_report_1ce4ac473790
+bank_id: dbs
+title: JPMorgan Chase & Co Research Division Singapore Banks  NIMs not looking good;
+  the PE PB vs. DY debate; d g DBS to N 21 May 2025
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-05-21'
+reporting_period:
+  start: '2025-05-21'
+  end: '2025-05-21'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: dbs/legacy_dbs_analyst_report_1ce4ac473790.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 1ce4ac473790901ddacfcdf08f67e7125d9dacac45385391ef11833a3df6b5c8
+covered_bank_ids:
+- dbs

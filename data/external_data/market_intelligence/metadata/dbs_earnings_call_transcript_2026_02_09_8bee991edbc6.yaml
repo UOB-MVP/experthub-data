@@ -1,0 +1,16 @@
+document_id: dbs_earnings_call_transcript_2026_02_09_8bee991edbc6
+bank_id: dbs
+title: DBS Group Holdings Ltd Earnings Call 2026-02-09 English
+source_type: approved_third_party
+document_type: earnings_call_transcript
+publication_date: '2026-02-09'
+reporting_period:
+  start: '2025-10-01'
+  end: '2025-12-31'
+  period_type: quarter
+  fiscal_year: 2025
+source_file: dbs/dbs_earnings_call_transcript_2026_02_09_8bee991edbc6.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 8bee991edbc63e9c3d6e64f23aa307f684ac8540d18a7e7f1111d70e8d6f500d
+covered_bank_ids:
+- dbs

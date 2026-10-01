@@ -1,0 +1,17 @@
+document_id: legacy_ocbc_analyst_report_530b6c3e945f
+bank_id: ocbc
+title: Goldman Sachs Group Inc. Research Division Singapore Banks  2Q26 preview  Stable
+  sequentially, outlook more positive on higher rates and robust WM 17 Jul 2026
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-07-17'
+reporting_period:
+  start: '2026-07-17'
+  end: '2026-07-17'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/legacy_ocbc_analyst_report_530b6c3e945f.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 530b6c3e945fec2c68301a646281be4401c6d720c9c475e74e862c334d8cd3ae
+covered_bank_ids:
+- ocbc

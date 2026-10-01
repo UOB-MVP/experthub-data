@@ -1,0 +1,16 @@
+document_id: legacy_uob_analyst_report_d7a465b87c4d
+bank_id: uob
+title: Investment Research
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2000-01-01'
+reporting_period:
+  start: '2000-01-01'
+  end: '2000-01-01'
+  period_type: point_in_time
+  fiscal_year: 2000
+source_file: uob/legacy_uob_analyst_report_d7a465b87c4d.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: d7a465b87c4d91617cb31415a888df8c6f422906b3f1df20f7c4da74c06e209d
+covered_bank_ids:
+- uob

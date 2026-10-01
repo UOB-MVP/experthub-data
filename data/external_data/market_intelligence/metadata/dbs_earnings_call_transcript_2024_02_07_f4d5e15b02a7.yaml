@@ -1,0 +1,16 @@
+document_id: dbs_earnings_call_transcript_2024_02_07_f4d5e15b02a7
+bank_id: dbs
+title: 4Q23 media briefing transcript
+source_type: official
+document_type: earnings_call_transcript
+publication_date: '2024-02-07'
+reporting_period:
+  start: '2023-10-01'
+  end: '2023-12-31'
+  period_type: quarter
+  fiscal_year: 2023
+source_file: dbs/dbs_earnings_call_transcript_2024_02_07_f4d5e15b02a7.pdf
+source_url: https://www.dbs.com/investors/
+checksum: f4d5e15b02a7735e5bc865ca5d20f1c99a5c29a983ab081f97e9f44e079f7f67
+covered_bank_ids:
+- dbs

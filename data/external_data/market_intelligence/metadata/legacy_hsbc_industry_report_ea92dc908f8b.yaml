@@ -1,0 +1,16 @@
+document_id: legacy_hsbc_industry_report_ea92dc908f8b
+bank_id: hsbc
+title: HSBC GlobalEntrepreneurialWealthReport 2024
+source_type: approved_third_party
+document_type: industry_report
+publication_date: '2024-12-31'
+reporting_period:
+  start: '2024-12-31'
+  end: '2024-12-31'
+  period_type: point_in_time
+  fiscal_year: 2024
+source_file: hsbc/legacy_hsbc_industry_report_ea92dc908f8b.pdf
+source_url: https://www.hsbc.com/investors
+checksum: ea92dc908f8be3e8cf06cc52ef1721706c96fce8c0ca153b5a00ea7dc965202d
+covered_bank_ids:
+- hsbc

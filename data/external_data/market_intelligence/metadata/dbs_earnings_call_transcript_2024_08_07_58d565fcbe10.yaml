@@ -1,0 +1,16 @@
+document_id: dbs_earnings_call_transcript_2024_08_07_58d565fcbe10
+bank_id: dbs
+title: DBS Group Holdings Ltd Earnings Call 2024-08-07 English
+source_type: approved_third_party
+document_type: earnings_call_transcript
+publication_date: '2024-08-07'
+reporting_period:
+  start: '2024-04-01'
+  end: '2024-06-30'
+  period_type: quarter
+  fiscal_year: 2024
+source_file: dbs/dbs_earnings_call_transcript_2024_08_07_58d565fcbe10.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 58d565fcbe10e654dfe213d3a39790baae7fb53edb84eaab83e7409c22d8bda9
+covered_bank_ids:
+- dbs

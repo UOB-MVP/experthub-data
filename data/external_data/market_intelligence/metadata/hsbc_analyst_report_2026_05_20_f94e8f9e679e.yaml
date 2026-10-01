@@ -1,0 +1,16 @@
+document_id: hsbc_analyst_report_2026_05_20_f94e8f9e679e
+bank_id: hsbc
+title: HSBC (HSBA.L0005.HK) Key takeaways from Investor Event
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-05-20'
+reporting_period:
+  start: '2026-05-20'
+  end: '2026-05-20'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_analyst_report_2026_05_20_f94e8f9e679e.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: f94e8f9e679ecdcf52c5f680a69b4835f90f7eb6a1d803fdd3beb497bf8ab129
+covered_bank_ids:
+- hsbc

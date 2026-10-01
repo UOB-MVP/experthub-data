@@ -1,0 +1,16 @@
+document_id: legacy_hsbc_investor_day_presentation_6c8d33295762
+bank_id: hsbc
+title: 230517-asia-seminar-day-2-events-and-presentations
+source_type: official
+document_type: investor_day_presentation
+publication_date: '2023-05-17'
+reporting_period:
+  start: '2023-05-17'
+  end: '2023-05-17'
+  period_type: point_in_time
+  fiscal_year: 2023
+source_file: hsbc/legacy_hsbc_investor_day_presentation_6c8d33295762.pdf
+source_url: https://www.hsbc.com/investors
+checksum: 6c8d33295762d30d6435d1fbcff9f144bd59e740a487a57e139d2bdc1fed7650
+covered_bank_ids:
+- hsbc

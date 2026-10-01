@@ -1,0 +1,16 @@
+document_id: uob_analyst_report_2025_11_18_842de3c53b54
+bank_id: uob
+title: S&P Global Ratings Inc. United Overseas Bank Ltd. 19 Nov 2025
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-11-18'
+reporting_period:
+  start: '2025-11-18'
+  end: '2025-11-18'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: uob/uob_analyst_report_2025_11_18_842de3c53b54.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 842de3c53b549766a4bb470c8acb5b6901721214e35b5acb1711a2f919f38656
+covered_bank_ids:
+- uob

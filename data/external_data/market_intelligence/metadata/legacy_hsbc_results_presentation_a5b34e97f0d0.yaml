@@ -1,0 +1,16 @@
+document_id: legacy_hsbc_results_presentation_a5b34e97f0d0
+bank_id: hsbc
+title: 260804-hsbc-holdings-plc-interim-results-2026-presentation-to-investors-and-analysts
+source_type: official
+document_type: results_presentation
+publication_date: '2026-08-04'
+reporting_period:
+  start: '2026-08-04'
+  end: '2026-08-04'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/legacy_hsbc_results_presentation_a5b34e97f0d0.pdf
+source_url: https://www.hsbc.com/investors
+checksum: a5b34e97f0d031b899dd05bcc434cb8ca1877ea0c7abf8cd7b9fe93f11139e37
+covered_bank_ids:
+- hsbc

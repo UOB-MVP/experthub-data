@@ -1,0 +1,16 @@
+document_id: standard_chartered_analyst_report_2026_04_30_da7ee45b0867
+bank_id: standard_chartered
+title: Jefferies LLC Research Division All eyes on Hong Kong in May 23 Apr 2026
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-04-30'
+reporting_period:
+  start: '2026-04-30'
+  end: '2026-04-30'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_analyst_report_2026_04_30_da7ee45b0867.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: da7ee45b086724618bbebffdf3dbc63d36eb33f098e49ac8ee929a0a7914ae63
+covered_bank_ids:
+- standard_chartered

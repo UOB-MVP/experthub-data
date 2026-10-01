@@ -1,0 +1,16 @@
+document_id: legacy_hsbc_investor_day_presentation_57dbe70935d3
+bank_id: hsbc
+title: 260521-international-wealth-and-premier-banking-presentation
+source_type: official
+document_type: investor_day_presentation
+publication_date: '2026-05-21'
+reporting_period:
+  start: '2026-05-21'
+  end: '2026-05-21'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/legacy_hsbc_investor_day_presentation_57dbe70935d3.pdf
+source_url: https://www.hsbc.com/investors
+checksum: 57dbe70935d372c1da943c9ed43aac3afc1187a57e030c9c3c95e06eaaaad8a4
+covered_bank_ids:
+- hsbc

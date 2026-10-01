@@ -1,0 +1,16 @@
+document_id: standard_chartered_analyst_report_2026_07_29_171a50dd3a54
+bank_id: standard_chartered
+title: 'Standard Chartered: 2Q was OK'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-07-29'
+reporting_period:
+  start: '2026-07-29'
+  end: '2026-07-29'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_analyst_report_2026_07_29_171a50dd3a54.pdf
+source_url: https://rsch.baml.com/r?q=8t4A0fSadns
+checksum: 171a50dd3a54dda42495243a9dd5f3a781040b75aa17f0b540ec7414137b7310
+covered_bank_ids:
+- standard_chartered

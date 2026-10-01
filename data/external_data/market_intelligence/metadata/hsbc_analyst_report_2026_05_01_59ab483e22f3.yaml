@@ -1,0 +1,16 @@
+document_id: hsbc_analyst_report_2026_05_01_59ab483e22f3
+bank_id: hsbc
+title: 'HSBC: 1Q26: Other Income and NII outlook offset higher provisions'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-05-01'
+reporting_period:
+  start: '2026-05-01'
+  end: '2026-05-01'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/hsbc_analyst_report_2026_05_01_59ab483e22f3.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 59ab483e22f39849700a8b5cb2c8fd88742da4a4d21a37784220fe90c3d4b5a0
+covered_bank_ids:
+- hsbc

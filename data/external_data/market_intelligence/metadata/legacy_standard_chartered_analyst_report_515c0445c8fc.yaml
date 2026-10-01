@@ -1,0 +1,17 @@
+document_id: legacy_standard_chartered_analyst_report_515c0445c8fc
+bank_id: standard_chartered
+title: Goldman Sachs Group Inc. Research Division Standard Chartered (2888.HK STAN.L)  ROTE
+  upside still underappreciated after the rally; upgrade to Buy 12 Dec 2025
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-12-12'
+reporting_period:
+  start: '2025-12-12'
+  end: '2025-12-12'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: standard_chartered/legacy_standard_chartered_analyst_report_515c0445c8fc.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 515c0445c8fc3ef2d9f3b1cf3e65b026c85e7c0b80991d9b51db5680b68ec07e
+covered_bank_ids:
+- standard_chartered

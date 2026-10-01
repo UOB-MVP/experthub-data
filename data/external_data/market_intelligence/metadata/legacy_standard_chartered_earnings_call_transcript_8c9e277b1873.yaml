@@ -1,0 +1,16 @@
+document_id: legacy_standard_chartered_earnings_call_transcript_8c9e277b1873
+bank_id: standard_chartered
+title: standard-chartered-plc-post-q2-2026-meeting-with-analysts
+source_type: official
+document_type: earnings_call_transcript
+publication_date: '2026-07-31'
+reporting_period:
+  start: '2026-04-01'
+  end: '2026-06-30'
+  period_type: quarter
+  fiscal_year: 2026
+source_file: standard_chartered/legacy_standard_chartered_earnings_call_transcript_8c9e277b1873.pdf
+source_url: https://www.sc.com/en/investors/
+checksum: 8c9e277b18730450063d18768ef1007e1b44f287265a88d439a9e4484de885b5
+covered_bank_ids:
+- standard_chartered

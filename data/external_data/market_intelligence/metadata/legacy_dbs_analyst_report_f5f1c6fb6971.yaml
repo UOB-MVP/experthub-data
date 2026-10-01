@@ -1,0 +1,16 @@
+document_id: legacy_dbs_analyst_report_f5f1c6fb6971
+bank_id: dbs
+title: 'DBS Group Holdings: Risk Reward Update'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-08-06'
+reporting_period:
+  start: '2026-08-06'
+  end: '2026-08-06'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/legacy_dbs_analyst_report_f5f1c6fb6971.pdf
+source_url: https://www.morganstanley.com/what-we-do/research
+checksum: f5f1c6fb6971c2da88b5007a4badfe99dc9f9ab6fd5dd5a9b686f36b82e6815f
+covered_bank_ids:
+- dbs

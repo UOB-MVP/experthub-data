@@ -1,0 +1,17 @@
+document_id: legacy_dbs_analyst_report_f270b503410c
+bank_id: dbs
+title: JPMorgan Chase & Co Research Division Singapore Banks  Many moving parts for
+  the sector, tactical downgrade of DBS to Neutral 10 Jun 2026
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-06-10'
+reporting_period:
+  start: '2026-06-10'
+  end: '2026-06-10'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: dbs/legacy_dbs_analyst_report_f270b503410c.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: f270b503410caa8603be2228bad67759bbbcd67584739a3902fc96dafb8006c3
+covered_bank_ids:
+- dbs

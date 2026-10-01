@@ -1,0 +1,16 @@
+document_id: ocbc_earnings_release_2026_08_07_6326b7816e94
+bank_id: ocbc
+title: OCBC Group First Half 2026 Media Release and Financial Highlights
+source_type: official
+document_type: earnings_release
+publication_date: '2026-08-07'
+reporting_period:
+  start: '2026-01-01'
+  end: '2026-06-30'
+  period_type: half_year
+  fiscal_year: 2026
+source_file: ocbc/ocbc_earnings_release_2026_08_07_6326b7816e94.pdf
+source_url: https://www.ocbc.com/iwov-resources/sg/ocbc/gbc/pdf/investors/quarterly-results/2026/OCBC%201H26%20Media%20Release%20Financial%20Highlights.pdf
+checksum: 6326b7816e94fdf68672c9a7f971a0ae909b346af59468579739ee99746b9463
+covered_bank_ids:
+- ocbc

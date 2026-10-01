@@ -1,0 +1,16 @@
+document_id: standard_chartered_interim_report_2026_07_29_52984ce1f7c6
+bank_id: standard_chartered
+title: Standard Chartered PLC Half Year Report 2026
+source_type: official
+document_type: interim_report
+publication_date: '2026-07-29'
+reporting_period:
+  start: '2026-01-01'
+  end: '2026-06-30'
+  period_type: half_year
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_interim_report_2026_07_29_52984ce1f7c6.pdf
+source_url: https://www.sc.com/en/uploads/sites/66/content/docs/standard-chartered-plc-hy-2026-report.pdf
+checksum: 52984ce1f7c6f987a01ef479a34dd819f78c2f01f6be5dbc87e6627319938ec8
+covered_bank_ids:
+- standard_chartered

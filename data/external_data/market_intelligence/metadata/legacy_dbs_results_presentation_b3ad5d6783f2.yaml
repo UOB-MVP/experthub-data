@@ -1,0 +1,16 @@
+document_id: legacy_dbs_results_presentation_b3ad5d6783f2
+bank_id: dbs
+title: DBS 2Q26 performance summary
+source_type: official
+document_type: results_presentation
+publication_date: '2026-08-06'
+reporting_period:
+  start: '2026-04-01'
+  end: '2026-06-30'
+  period_type: quarter
+  fiscal_year: 2026
+source_file: dbs/legacy_dbs_results_presentation_b3ad5d6783f2.pdf
+source_url: https://www.dbs.com/investors/default.page
+checksum: b3ad5d6783f27a9707ac86e39bf914c3b3c50ff461d6d03adc6fc85e7b4d7675
+covered_bank_ids:
+- dbs

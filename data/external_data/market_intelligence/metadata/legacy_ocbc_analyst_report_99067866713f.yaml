@@ -1,0 +1,17 @@
+document_id: legacy_ocbc_analyst_report_99067866713f
+bank_id: ocbc
+title: Goldman Sachs Group Inc. Research Division Singapore Banks  4Q25 preview  Weaker
+  4Q due to seasonality 16 Jan 2026
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-01-16'
+reporting_period:
+  start: '2026-01-16'
+  end: '2026-01-16'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/legacy_ocbc_analyst_report_99067866713f.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 99067866713fcd0dd440e82352f24b18d473026fedee095a0486a69d7bc2dd88
+covered_bank_ids:
+- ocbc

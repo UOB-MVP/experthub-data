@@ -1,0 +1,16 @@
+document_id: legacy_hsbc_analyst_report_b311fad9217f
+bank_id: hsbc
+title: Citigroup Inc. Research Division HSBC Holdings PLC 04 Aug 2026 Copy
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-08-04'
+reporting_period:
+  start: '2026-08-04'
+  end: '2026-08-04'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/legacy_hsbc_analyst_report_b311fad9217f.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: b311fad9217fbdaa36e811939badf5060af0e3ffd6080908d8eb75a836cc2249
+covered_bank_ids:
+- hsbc

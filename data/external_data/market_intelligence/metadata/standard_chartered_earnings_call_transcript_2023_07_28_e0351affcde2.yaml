@@ -1,0 +1,16 @@
+document_id: standard_chartered_earnings_call_transcript_2023_07_28_e0351affcde2
+bank_id: standard_chartered
+title: Standard Chartered PLC Earnings Call 2023-07-28 English
+source_type: approved_third_party
+document_type: earnings_call_transcript
+publication_date: '2023-07-28'
+reporting_period:
+  start: '2023-04-01'
+  end: '2023-06-30'
+  period_type: quarter
+  fiscal_year: 2023
+source_file: standard_chartered/standard_chartered_earnings_call_transcript_2023_07_28_e0351affcde2.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: e0351affcde277622809d32ff65e8ee140dff18cb9db0c560dffef97bcd20e0b
+covered_bank_ids:
+- standard_chartered

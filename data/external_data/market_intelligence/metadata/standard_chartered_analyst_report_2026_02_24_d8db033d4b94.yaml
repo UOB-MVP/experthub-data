@@ -1,0 +1,16 @@
+document_id: standard_chartered_analyst_report_2026_02_24_d8db033d4b94
+bank_id: standard_chartered
+title: Standard Chartered (STAN.L2888.HK) Updating for 4Q25 results
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-02-24'
+reporting_period:
+  start: '2026-02-24'
+  end: '2026-02-24'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_analyst_report_2026_02_24_d8db033d4b94.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: d8db033d4b94eca03772d568463f42668ac1067c596dfb3cb642f61a3410390e
+covered_bank_ids:
+- standard_chartered

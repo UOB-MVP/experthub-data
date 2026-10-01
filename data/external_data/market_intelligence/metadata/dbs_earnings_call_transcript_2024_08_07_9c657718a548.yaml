@@ -1,0 +1,16 @@
+document_id: dbs_earnings_call_transcript_2024_08_07_9c657718a548
+bank_id: dbs
+title: 2Q24 media transcript
+source_type: official
+document_type: earnings_call_transcript
+publication_date: '2024-08-07'
+reporting_period:
+  start: '2024-04-01'
+  end: '2024-06-30'
+  period_type: quarter
+  fiscal_year: 2024
+source_file: dbs/dbs_earnings_call_transcript_2024_08_07_9c657718a548.pdf
+source_url: https://www.dbs.com/investors/
+checksum: 9c657718a5487d3d4eb365399b06e7dedc970e46a84a2040793b8f27792d9e67
+covered_bank_ids:
+- dbs

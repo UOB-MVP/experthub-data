@@ -1,0 +1,16 @@
+document_id: legacy_hsbc_analyst_report_d3fc2e475554
+bank_id: hsbc
+title: 'HSBC: 2Q26: Solid print, $1bn buyback'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-08-04'
+reporting_period:
+  start: '2026-08-04'
+  end: '2026-08-04'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: hsbc/legacy_hsbc_analyst_report_d3fc2e475554.pdf
+source_url: https://rsch.baml.com/r?q=U!26WSsSOEo
+checksum: d3fc2e475554c6475b075c9c3e0fa308b45eb0c77b8a5b06f56dda9bf5cb9938
+covered_bank_ids:
+- hsbc

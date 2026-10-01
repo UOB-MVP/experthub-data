@@ -1,0 +1,16 @@
+document_id: legacy_uob_analyst_report_a77afdbab09c
+bank_id: uob
+title: 'United Overseas Bank: Higher NPA formation re-emerges as the key debate'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-08-07'
+reporting_period:
+  start: '2026-08-07'
+  end: '2026-08-07'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: uob/legacy_uob_analyst_report_a77afdbab09c.pdf
+source_url: https://rsch.baml.com/r?q=h0TUd-lEf1Y
+checksum: a77afdbab09cb6c31c9d1e3f6ba5f2951766b80e3f34381c57dabdc230f366a4
+covered_bank_ids:
+- uob

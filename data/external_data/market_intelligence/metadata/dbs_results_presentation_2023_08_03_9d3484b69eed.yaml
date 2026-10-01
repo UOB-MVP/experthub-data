@@ -1,0 +1,16 @@
+document_id: dbs_results_presentation_2023_08_03_9d3484b69eed
+bank_id: dbs
+title: 2Q23_CEO_presentation
+source_type: official
+document_type: results_presentation
+publication_date: '2023-08-03'
+reporting_period:
+  start: '2023-04-01'
+  end: '2023-06-30'
+  period_type: quarter
+  fiscal_year: 2023
+source_file: dbs/dbs_results_presentation_2023_08_03_9d3484b69eed.pdf
+source_url: https://www.dbs.com/investors/
+checksum: 9d3484b69eed481928bc78c4d718efc9d2cf345b41a835c6a11d047116250898
+covered_bank_ids:
+- dbs

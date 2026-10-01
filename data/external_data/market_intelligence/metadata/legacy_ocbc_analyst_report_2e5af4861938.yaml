@@ -1,0 +1,17 @@
+document_id: legacy_ocbc_analyst_report_2e5af4861938
+bank_id: ocbc
+title: Goldman Sachs Group Inc. Research Division Singapore Banks  Singapore Banks
+  - 1Q26 Result wrap  Wealth execution drives relative outperformance 11 May 2026
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-05-11'
+reporting_period:
+  start: '2026-05-11'
+  end: '2026-05-11'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/legacy_ocbc_analyst_report_2e5af4861938.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 2e5af48619380e306059e541582132fba74657eb793285efc229b2347d529ae2
+covered_bank_ids:
+- ocbc

@@ -1,0 +1,16 @@
+document_id: ocbc_analyst_report_2026_06_18_53dfc47957a3
+bank_id: ocbc
+title: Oversea-Chinese Banking Corp. (OCBC.SI) Asia Financials Corporate Day Takeaways
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-06-18'
+reporting_period:
+  start: '2026-06-18'
+  end: '2026-06-18'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: ocbc/ocbc_analyst_report_2026_06_18_53dfc47957a3.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: 53dfc47957a3da55f365eb48d06fb80c6de00cd63ee07de81f34bbcc7f96772d
+covered_bank_ids:
+- ocbc

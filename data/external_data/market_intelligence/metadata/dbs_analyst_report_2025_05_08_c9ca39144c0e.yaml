@@ -1,0 +1,16 @@
+document_id: dbs_analyst_report_2025_05_08_c9ca39144c0e
+bank_id: dbs
+title: 'DBS Group: 1Q25 – solid quarter; 2025 guidance maintained with caveats'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2025-05-08'
+reporting_period:
+  start: '2025-05-08'
+  end: '2025-05-08'
+  period_type: point_in_time
+  fiscal_year: 2025
+source_file: dbs/dbs_analyst_report_2025_05_08_c9ca39144c0e.pdf
+source_url: https://rsch.baml.com/r?q=OBei0X43OZ4
+checksum: c9ca39144c0ee88f1023ddd146f1c751cbaf04ab56d8e8f0637a23a0333c4022
+covered_bank_ids:
+- dbs

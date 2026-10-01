@@ -1,0 +1,16 @@
+document_id: standard_chartered_analyst_report_2026_05_12_fcac9490f36d
+bank_id: standard_chartered
+title: 'Standard Chartered: Risk Reward Update'
+source_type: approved_third_party
+document_type: analyst_report
+publication_date: '2026-05-12'
+reporting_period:
+  start: '2026-05-12'
+  end: '2026-05-12'
+  period_type: point_in_time
+  fiscal_year: 2026
+source_file: standard_chartered/standard_chartered_analyst_report_2026_05_12_fcac9490f36d.pdf
+source_url: https://www.spglobal.com/marketintelligence/
+checksum: fcac9490f36d23a3ffa5e7601348074cb13e447fe10ad9fa539f9498f1322ef2
+covered_bank_ids:
+- standard_chartered
